@@ -67,6 +67,11 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#112](https://github.com/nextui-org/nextui/issues/112) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 🗣 Commented on [#216](https://github.com/bubkoo/html-to-image/issues/216) in [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image)
+3. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+4. 🗣 Commented on [#200](https://github.com/NearHuscarl/flutter_login/issues/200) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
+5. 🗣 Commented on [#851](https://github.com/jhomlala/betterplayer/issues/851) in [jhomlala/betterplayer](https://github.com/jhomlala/betterplayer)
 <!--END_SECTION:activity-->
 </details>
 
