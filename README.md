@@ -62,6 +62,15 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<details>
+  <summary> :zap: GitHub Stats</summary>
+
+  <img align="left" alt="SalahAdDin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin" />
+
+</details>
+
 [portfolio]: https://www.uzmani.tech/
 [job]: http://www.segmentify.com
 [linkedin]: https://www.linkedin.com/in/jluissalaguna/
