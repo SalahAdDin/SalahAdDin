@@ -57,6 +57,11 @@ Here are some ideas to get you started:
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [portfolio]: https://www.uzmani.tech/
 [job]: http://www.segmentify.com
 [linkedin]: https://www.linkedin.com/in/jluissalaguna/
