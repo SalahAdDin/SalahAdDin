@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#7](https://github.com/megatroom/bruno-nardini/issues/7) in [megatroom/bruno-nardini](https://github.com/megatroom/bruno-nardini)
-2. 🗣 Commented on [#8925](https://github.com/strapi/strapi/issues/8925) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#112](https://github.com/nextui-org/nextui/issues/112) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#216](https://github.com/bubkoo/html-to-image/issues/216) in [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image)
-5. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+1. ❗️ Opened issue [#14](https://github.com/jrgarciadev/react-iconly/issues/14) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
+2. ❗️ Opened issue [#7](https://github.com/megatroom/bruno-nardini/issues/7) in [megatroom/bruno-nardini](https://github.com/megatroom/bruno-nardini)
+3. 🗣 Commented on [#8925](https://github.com/strapi/strapi/issues/8925) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#112](https://github.com/nextui-org/nextui/issues/112) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#216](https://github.com/bubkoo/html-to-image/issues/216) in [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image)
    <!--END_SECTION:activity-->
    </details>
 
