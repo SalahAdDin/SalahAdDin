@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#914](https://github.com/danvick/flutter_form_builder/issues/914) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-2. 🗣 Commented on [#914](https://github.com/danvick/flutter_form_builder/issues/914) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-3. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#19](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/19) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
-5. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+1. ❗️ Opened issue [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
+2. ❗️ Closed issue [#914](https://github.com/danvick/flutter_form_builder/issues/914) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+3. 🗣 Commented on [#914](https://github.com/danvick/flutter_form_builder/issues/914) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+4. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#19](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/19) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
    <!--END_SECTION:activity-->
    </details>
 
