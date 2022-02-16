@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#306](https://github.com/NearHuscarl/flutter_login/issues/306) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-4. ❗️ Opened issue [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
-5. ❗️ Closed issue [#914](https://github.com/danvick/flutter_form_builder/issues/914) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+1. 🗣 Commented on [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
+2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#306](https://github.com/NearHuscarl/flutter_login/issues/306) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
+4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗️ Opened issue [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
    <!--END_SECTION:activity-->
    </details>
 
