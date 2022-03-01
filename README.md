@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#98260](https://github.com/flutter/flutter/issues/98260) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🗣 Commented on [#1](https://github.com/stephent/strapi-provider-upload-aws-s3-plus-cdn/issues/1) in [stephent/strapi-provider-upload-aws-s3-plus-cdn](https://github.com/stephent/strapi-provider-upload-aws-s3-plus-cdn)
 2. 🗣 Commented on [#98260](https://github.com/flutter/flutter/issues/98260) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#1013](https://github.com/zino-hofmann/graphql-flutter/issues/1013) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-4. 🗣 Commented on [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
-5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#98260](https://github.com/flutter/flutter/issues/98260) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#1013](https://github.com/zino-hofmann/graphql-flutter/issues/1013) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+5. 🗣 Commented on [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
    <!--END_SECTION:activity-->
    </details>
 
