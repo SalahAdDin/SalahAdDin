@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1251](https://github.com/saleor/saleor/issues/1251) in [saleor/saleor](https://github.com/saleor/saleor)
-2. 🗣 Commented on [#560](https://github.com/Milad-Akarie/auto_route_library/issues/560) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
-3. 🗣 Commented on [#863](https://github.com/Milad-Akarie/auto_route_library/issues/863) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
-4. ❗️ Opened issue [#10](https://github.com/iamsalnikov/colorize/issues/10) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
-5. 🗣 Commented on [#1311](https://github.com/niklasvh/html2canvas/issues/1311) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+1. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+2. 🗣 Commented on [#1251](https://github.com/saleor/saleor/issues/1251) in [saleor/saleor](https://github.com/saleor/saleor)
+3. 🗣 Commented on [#560](https://github.com/Milad-Akarie/auto_route_library/issues/560) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+4. 🗣 Commented on [#863](https://github.com/Milad-Akarie/auto_route_library/issues/863) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+5. ❗️ Opened issue [#10](https://github.com/iamsalnikov/colorize/issues/10) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
    <!--END_SECTION:activity-->
    </details>
 
