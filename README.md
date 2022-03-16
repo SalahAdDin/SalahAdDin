@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-2. 🗣 Commented on [#45](https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/45) in [creativetimofficial/ct-material-dashboard-pro-react](https://github.com/creativetimofficial/ct-material-dashboard-pro-react)
-3. 🗣 Commented on [#306](https://github.com/NearHuscarl/flutter_login/issues/306) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
-4. 🗣 Commented on [#965](https://github.com/iamkun/dayjs/issues/965) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. 🗣 Commented on [#2654](https://github.com/yannickcr/eslint-plugin-react/issues/2654) in [yannickcr/eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
+1. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
+2. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+3. 🗣 Commented on [#45](https://github.com/creativetimofficial/ct-material-dashboard-pro-react/issues/45) in [creativetimofficial/ct-material-dashboard-pro-react](https://github.com/creativetimofficial/ct-material-dashboard-pro-react)
+4. 🗣 Commented on [#306](https://github.com/NearHuscarl/flutter_login/issues/306) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
+5. 🗣 Commented on [#965](https://github.com/iamkun/dayjs/issues/965) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
    <!--END_SECTION:activity-->
    </details>
 
