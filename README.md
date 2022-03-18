@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
-2. 🗣 Commented on [#2972](https://github.com/strapi/strapi/issues/2972) in [strapi/strapi](https://github.com/strapi/strapi)
-3. ❗️ Opened issue [#2265](https://github.com/linuxdeepin/developer-center/issues/2265) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-4. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
-5. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+2. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
+3. 🗣 Commented on [#2972](https://github.com/strapi/strapi/issues/2972) in [strapi/strapi](https://github.com/strapi/strapi)
+4. ❗️ Opened issue [#2265](https://github.com/linuxdeepin/developer-center/issues/2265) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+5. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
    <!--END_SECTION:activity-->
    </details>
 
