@@ -62,10 +62,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
-2. ❗️ Opened issue [#2445](https://github.com/linuxdeepin/developer-center/issues/2445) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-3. 🗣 Commented on [#9558](https://github.com/ohmyzsh/ohmyzsh/issues/9558) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-4. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
+1. 🗣 Commented on [#407](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/407) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+2. ❗️ Opened issue [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
+3. ❗️ Opened issue [#2445](https://github.com/linuxdeepin/developer-center/issues/2445) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+4. 🗣 Commented on [#9558](https://github.com/ohmyzsh/ohmyzsh/issues/9558) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 5. 🗣 Commented on [#50](https://github.com/adrien2p/medusa-extender/issues/50) in [adrien2p/medusa-extender](https://github.com/adrien2p/medusa-extender)
    <!--END_SECTION:activity-->
    </details>
