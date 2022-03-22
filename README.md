@@ -62,11 +62,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-2. 🗣 Commented on [#407](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/407) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
-3. ❗️ Opened issue [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
-4. ❗️ Opened issue [#2445](https://github.com/linuxdeepin/developer-center/issues/2445) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-5. 🗣 Commented on [#9558](https://github.com/ohmyzsh/ohmyzsh/issues/9558) in [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+1. ❗️ Opened issue [#2580](https://github.com/linuxdeepin/developer-center/issues/2580) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+2. ❗️ Opened issue [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+3. 🗣 Commented on [#407](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/407) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+4. ❗️ Opened issue [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
+5. ❗️ Opened issue [#2445](https://github.com/linuxdeepin/developer-center/issues/2445) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
    <!--END_SECTION:activity-->
    </details>
 
