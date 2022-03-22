@@ -63,10 +63,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#2498](https://github.com/linuxdeepin/developer-center/issues/2498) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-3. ❗️ Opened issue [#2580](https://github.com/linuxdeepin/developer-center/issues/2580) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-4. ❗️ Opened issue [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-5. 🗣 Commented on [#407](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/407) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#2498](https://github.com/linuxdeepin/developer-center/issues/2498) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+4. ❗️ Opened issue [#2580](https://github.com/linuxdeepin/developer-center/issues/2580) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+5. ❗️ Opened issue [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
    <!--END_SECTION:activity-->
    </details>
 
