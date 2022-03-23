@@ -62,9 +62,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#31](https://github.com/danestves/strapi-plugin-preview-content/issues/31) in [danestves/strapi-plugin-preview-content](https://github.com/danestves/strapi-plugin-preview-content)
-2. 🗣 Commented on [#6821](https://github.com/strapi/strapi/issues/6821) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗️ Opened issue [#2673](https://github.com/linuxdeepin/developer-center/issues/2673) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+2. 🗣 Commented on [#31](https://github.com/danestves/strapi-plugin-preview-content/issues/31) in [danestves/strapi-plugin-preview-content](https://github.com/danestves/strapi-plugin-preview-content)
+3. 🗣 Commented on [#6821](https://github.com/strapi/strapi/issues/6821) in [strapi/strapi](https://github.com/strapi/strapi)
 4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
 5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
    <!--END_SECTION:activity-->
