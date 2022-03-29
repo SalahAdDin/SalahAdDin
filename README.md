@@ -5,13 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaddin&label=Profile%20views&color=0e75b6&style=flat" alt="salahaddin" /> </p>
 
 <p align="center"> 
-  <a href="https://github.com/SalahAdDin">
-    <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luis Alaguna's GitHub Stats" />
-    <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAdDin&layout=compact&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide_border=true" alt="Luis Alaguna's Language Stats" />
-  </a>
-</p>
-
-<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahaddin&theme=onedark&column=5&margin-w=5&margin-h=5&no-frame=true" alt="Luis Alaguna's trophies." /> 
 </p>
 
@@ -66,7 +59,8 @@ Here are some ideas to get you started:
 
 ---
 
-<details>
+<div>
+<details align="left">
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
@@ -79,17 +73,15 @@ Here are some ideas to get you started:
    <!--END_SECTION:activity-->
    </details>
 
-<details>
-  <summary> :zap: Most Used Languages</summary>
-
-  <img align="left" alt="SalahAdDin's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=salahaddin&show_icons=true&locale=en&layout=compact" />
+<details align="left">
+  <summary> :zap: GitHub Stats</summary>
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luis Alaguna's GitHub Stats" />
 
 </details>
 
-<details>
-  <summary> :zap: GitHub Stats</summary>
-
-  <img align="left" alt="SalahAdDin's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin" />
+<details align="left">
+  <summary> :zap: Most Used Languages</summary>
+  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAdDin&layout=compact&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide_border=true" alt="Luis Alaguna's Language Stats" />
 
 </details>
 
@@ -99,6 +91,7 @@ Here are some ideas to get you started:
   <img align="left" alt="SalahAdDin's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaddin&" />
 
 </details>
+  </div>
 
 [portfolio]: https://www.uzmani.tech/
 [job]: http://www.segmentify.com
