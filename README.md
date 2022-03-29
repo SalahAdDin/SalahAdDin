@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 <details align="left">
   <summary> :zap: GitHub Streaks</summary>
-  <img align="center" alt="SalahAdDin's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaddin&theme=dark" />
+  <img align="center" alt="SalahAdDin's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaddin&theme=dark&background=1A2B34" />
 </details>
 
 <details align="left">
