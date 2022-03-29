@@ -59,39 +59,33 @@ Here are some ideas to get you started:
 
 ---
 
-<div>
+
 <details align="left">
   <summary>:zap: Recent GitHub Activity</summary>
 
-<!--START_SECTION:activity-->
+  <!--START_SECTION:activity-->
+  1. 🗣 Commented on [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+  2. 🗣 Commented on [#2265](https://github.com/linuxdeepin/developer-center/issues/2265) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+  3. 🗣 Commented on [#31](https://github.com/danestves/strapi-plugin-preview-content/issues/31) in [danestves/strapi-plugin-preview-content](https://github.com/danestves/strapi-plugin-preview-content)
+  4. 🗣 Commented on [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
+  5. ❗️ Opened issue [#2673](https://github.com/linuxdeepin/developer-center/issues/2673) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+  <!--END_SECTION:activity-->
+</details>
 
-1. 🗣 Commented on [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-2. 🗣 Commented on [#2265](https://github.com/linuxdeepin/developer-center/issues/2265) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-3. 🗣 Commented on [#31](https://github.com/danestves/strapi-plugin-preview-content/issues/31) in [danestves/strapi-plugin-preview-content](https://github.com/danestves/strapi-plugin-preview-content)
-4. 🗣 Commented on [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
-5. ❗️ Opened issue [#2673](https://github.com/linuxdeepin/developer-center/issues/2673) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-   <!--END_SECTION:activity-->
-   </details>
+<details align="left">
+  <summary> :zap: GitHub Streaks</summary>
+  <img align="center" alt="SalahAdDin's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaddin&theme=dark" />
+</details>
 
 <details align="left">
   <summary> :zap: GitHub Stats</summary>
   <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luis Alaguna's GitHub Stats" />
-
 </details>
 
 <details align="left">
   <summary> :zap: Most Used Languages</summary>
   <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAdDin&layout=compact&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide_border=true" alt="Luis Alaguna's Language Stats" />
-
 </details>
-
-<details>
-  <summary> :zap: GitHub Streaks</summary>
-
-  <img align="left" alt="SalahAdDin's GitHub Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=salahaddin&" />
-
-</details>
-  </div>
 
 [portfolio]: https://www.uzmani.tech/
 [job]: http://www.segmentify.com
