@@ -11,7 +11,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahaddin" alt="salahaddin" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahaddin&theme=onedark&column=5&margin-w=5&margin-h=5&no-frame=true" alt="Luis Alaguna's trophies." /> 
 </p>
 
 <!--
