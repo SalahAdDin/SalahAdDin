@@ -6,7 +6,8 @@
 
 <p align="center"> 
   <a href="https://github.com/SalahAdDin">
-    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luis Alaguna's GitHub Stats" />
+    <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luis Alaguna's GitHub Stats" />
+    <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAdDin&layout=compact&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide_border=true" alt="Luis Alaguna's Language Stats" />
   </a>
 </p>
 
