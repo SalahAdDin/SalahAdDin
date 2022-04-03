@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-2. 🗣 Commented on [#2265](https://github.com/linuxdeepin/developer-center/issues/2265) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-3. 🗣 Commented on [#31](https://github.com/danestves/strapi-plugin-preview-content/issues/31) in [danestves/strapi-plugin-preview-content](https://github.com/danestves/strapi-plugin-preview-content)
-4. 🗣 Commented on [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
-5. ❗️ Opened issue [#2673](https://github.com/linuxdeepin/developer-center/issues/2673) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+1. 🗣 Commented on [#1544](https://github.com/niklasvh/html2canvas/issues/1544) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+2. 🗣 Commented on [#2465](https://github.com/linuxdeepin/developer-center/issues/2465) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+3. 🗣 Commented on [#2265](https://github.com/linuxdeepin/developer-center/issues/2265) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+4. 🗣 Commented on [#31](https://github.com/danestves/strapi-plugin-preview-content/issues/31) in [danestves/strapi-plugin-preview-content](https://github.com/danestves/strapi-plugin-preview-content)
+5. 🗣 Commented on [#31930](https://github.com/mui/material-ui/issues/31930) in [mui/material-ui](https://github.com/mui/material-ui)
   <!--END_SECTION:activity-->
 </details>
 
