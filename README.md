@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-2. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
-3. 🗣 Commented on [#156](https://github.com/veler/DevToys/issues/156) in [veler/DevToys](https://github.com/veler/DevToys)
-4. 🗣 Commented on [#7](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/7) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-5. 🗣 Commented on [#39](https://github.com/docker/roadmap/issues/39) in [docker/roadmap](https://github.com/docker/roadmap)
+1. 🗣 Commented on [#49512](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49512) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#735](https://github.com/jquense/yup/issues/735) in [jquense/yup](https://github.com/jquense/yup)
+3. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+4. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+5. 🗣 Commented on [#156](https://github.com/veler/DevToys/issues/156) in [veler/DevToys](https://github.com/veler/DevToys)
   <!--END_SECTION:activity-->
 </details>
 
