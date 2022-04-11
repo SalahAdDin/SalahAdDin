@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1625](https://github.com/jquense/yup/issues/1625) in [jquense/yup](https://github.com/jquense/yup)
-2. 🗣 Commented on [#49512](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49512) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🗣 Commented on [#735](https://github.com/jquense/yup/issues/735) in [jquense/yup](https://github.com/jquense/yup)
-4. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-5. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+1. ❗️ Opened issue [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
+2. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+3. 🗣 Commented on [#1625](https://github.com/jquense/yup/issues/1625) in [jquense/yup](https://github.com/jquense/yup)
+4. 🗣 Commented on [#49512](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49512) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 🗣 Commented on [#735](https://github.com/jquense/yup/issues/735) in [jquense/yup](https://github.com/jquense/yup)
   <!--END_SECTION:activity-->
 </details>
 
