@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8169](https://github.com/react-hook-form/react-hook-form/issues/8169) in [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
-2. ❗️ Opened issue [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
-3. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
-4. 🗣 Commented on [#1625](https://github.com/jquense/yup/issues/1625) in [jquense/yup](https://github.com/jquense/yup)
-5. 🗣 Commented on [#49512](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/49512) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🗣 Commented on [#8169](https://github.com/react-hook-form/react-hook-form/issues/8169) in [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+2. ❗️ Opened issue [#8169](https://github.com/react-hook-form/react-hook-form/issues/8169) in [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form)
+3. ❗️ Opened issue [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
+4. 🗣 Commented on [#29](https://github.com/strapi/rfcs/issues/29) in [strapi/rfcs](https://github.com/strapi/rfcs)
+5. 🗣 Commented on [#1625](https://github.com/jquense/yup/issues/1625) in [jquense/yup](https://github.com/jquense/yup)
   <!--END_SECTION:activity-->
 </details>
 
