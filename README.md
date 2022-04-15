@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3067](https://github.com/linuxdeepin/developer-center/issues/3067) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-2. 🗣 Commented on [#8](https://github.com/ijsto/strapi-provider-email-mailjet/issues/8) in [ijsto/strapi-provider-email-mailjet](https://github.com/ijsto/strapi-provider-email-mailjet)
-3. 🗣 Commented on [#39](https://github.com/docker/roadmap/issues/39) in [docker/roadmap](https://github.com/docker/roadmap)
-4. 🗣 Commented on [#18](https://github.com/ventoy/Ventoy/issues/18) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-5. ❗️ Opened issue [#131](https://github.com/react-hook-form/devtools/issues/131) in [react-hook-form/devtools](https://github.com/react-hook-form/devtools)
+1. ❗️ Opened issue [#410](https://github.com/nextui-org/nextui/issues/410) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. ❗️ Opened issue [#3067](https://github.com/linuxdeepin/developer-center/issues/3067) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+3. 🗣 Commented on [#8](https://github.com/ijsto/strapi-provider-email-mailjet/issues/8) in [ijsto/strapi-provider-email-mailjet](https://github.com/ijsto/strapi-provider-email-mailjet)
+4. 🗣 Commented on [#39](https://github.com/docker/roadmap/issues/39) in [docker/roadmap](https://github.com/docker/roadmap)
+5. 🗣 Commented on [#18](https://github.com/ventoy/Ventoy/issues/18) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
   <!--END_SECTION:activity-->
 </details>
 
