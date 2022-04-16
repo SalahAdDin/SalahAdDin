@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#412](https://github.com/nextui-org/nextui/issues/412) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. ❗️ Opened issue [#410](https://github.com/nextui-org/nextui/issues/410) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. ❗️ Opened issue [#3067](https://github.com/linuxdeepin/developer-center/issues/3067) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-4. 🗣 Commented on [#8](https://github.com/ijsto/strapi-provider-email-mailjet/issues/8) in [ijsto/strapi-provider-email-mailjet](https://github.com/ijsto/strapi-provider-email-mailjet)
-5. 🗣 Commented on [#39](https://github.com/docker/roadmap/issues/39) in [docker/roadmap](https://github.com/docker/roadmap)
+1. ❗️ Opened issue [#413](https://github.com/nextui-org/nextui/issues/413) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. ❗️ Opened issue [#412](https://github.com/nextui-org/nextui/issues/412) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+3. ❗️ Opened issue [#410](https://github.com/nextui-org/nextui/issues/410) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. ❗️ Opened issue [#3067](https://github.com/linuxdeepin/developer-center/issues/3067) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+5. 🗣 Commented on [#8](https://github.com/ijsto/strapi-provider-email-mailjet/issues/8) in [ijsto/strapi-provider-email-mailjet](https://github.com/ijsto/strapi-provider-email-mailjet)
   <!--END_SECTION:activity-->
 </details>
 
