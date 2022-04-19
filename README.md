@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#415](https://github.com/nextui-org/nextui/issues/415) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. ❗️ Opened issue [#6](https://github.com/thebuilder/meta-weather-proxy/issues/6) in [thebuilder/meta-weather-proxy](https://github.com/thebuilder/meta-weather-proxy)
-3. ❗️ Opened issue [#414](https://github.com/nextui-org/nextui/issues/414) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. ❗️ Opened issue [#413](https://github.com/nextui-org/nextui/issues/413) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. ❗️ Opened issue [#412](https://github.com/nextui-org/nextui/issues/412) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 🗣 Commented on [#18](https://github.com/ventoy/Ventoy/issues/18) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+2. ❗️ Opened issue [#415](https://github.com/nextui-org/nextui/issues/415) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+3. ❗️ Opened issue [#6](https://github.com/thebuilder/meta-weather-proxy/issues/6) in [thebuilder/meta-weather-proxy](https://github.com/thebuilder/meta-weather-proxy)
+4. ❗️ Opened issue [#414](https://github.com/nextui-org/nextui/issues/414) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. ❗️ Opened issue [#413](https://github.com/nextui-org/nextui/issues/413) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
   <!--END_SECTION:activity-->
 </details>
 
