@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#236](https://github.com/google/json_serializable.dart/issues/236) in [google/json_serializable.dart](https://github.com/google/json_serializable.dart)
-2. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
-3. 🗣 Commented on [#18](https://github.com/ventoy/Ventoy/issues/18) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
-4. ❗️ Opened issue [#415](https://github.com/nextui-org/nextui/issues/415) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. ❗️ Opened issue [#6](https://github.com/thebuilder/meta-weather-proxy/issues/6) in [thebuilder/meta-weather-proxy](https://github.com/thebuilder/meta-weather-proxy)
+1. ❗️ Opened issue [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+2. 🗣 Commented on [#236](https://github.com/google/json_serializable.dart/issues/236) in [google/json_serializable.dart](https://github.com/google/json_serializable.dart)
+3. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
+4. 🗣 Commented on [#18](https://github.com/ventoy/Ventoy/issues/18) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+5. ❗️ Opened issue [#415](https://github.com/nextui-org/nextui/issues/415) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
   <!--END_SECTION:activity-->
 </details>
 
