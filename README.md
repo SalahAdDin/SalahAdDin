@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2309](https://github.com/wagtail/wagtail/issues/2309) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-2. ❗️ Opened issue [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
-3. 🗣 Commented on [#236](https://github.com/google/json_serializable.dart/issues/236) in [google/json_serializable.dart](https://github.com/google/json_serializable.dart)
-4. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
-5. 🗣 Commented on [#18](https://github.com/ventoy/Ventoy/issues/18) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+1. 🗣 Commented on [#909](https://github.com/wagtail/wagtail/issues/909) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+2. 🗣 Commented on [#2309](https://github.com/wagtail/wagtail/issues/2309) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+3. ❗️ Opened issue [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+4. 🗣 Commented on [#236](https://github.com/google/json_serializable.dart/issues/236) in [google/json_serializable.dart](https://github.com/google/json_serializable.dart)
+5. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
   <!--END_SECTION:activity-->
 </details>
 
