@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-2. 🗣 Commented on [#11](https://github.com/g123k/flutter_app_badger/issues/11) in [g123k/flutter_app_badger](https://github.com/g123k/flutter_app_badger)
-3. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-4. 🗣 Commented on [#909](https://github.com/wagtail/wagtail/issues/909) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-5. 🗣 Commented on [#2309](https://github.com/wagtail/wagtail/issues/2309) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. 🗣 Commented on [#1200](https://github.com/mswjs/msw/issues/1200) in [mswjs/msw](https://github.com/mswjs/msw)
+2. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+3. 🗣 Commented on [#11](https://github.com/g123k/flutter_app_badger/issues/11) in [g123k/flutter_app_badger](https://github.com/g123k/flutter_app_badger)
+4. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+5. 🗣 Commented on [#909](https://github.com/wagtail/wagtail/issues/909) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
   <!--END_SECTION:activity-->
 </details>
 
