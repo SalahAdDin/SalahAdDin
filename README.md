@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
-2. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
-3. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
-4. ❗️ Opened issue [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
-5. 🗣 Commented on [#1200](https://github.com/mswjs/msw/issues/1200) in [mswjs/msw](https://github.com/mswjs/msw)
+1. 🗣 Commented on [#36498](https://github.com/vercel/next.js/issues/36498) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
+3. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+4. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
+5. ❗️ Opened issue [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
   <!--END_SECTION:activity-->
 </details>
 
