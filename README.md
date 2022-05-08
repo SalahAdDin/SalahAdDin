@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
-2. ❗️ Opened issue [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
-3. 🗣 Commented on [#1200](https://github.com/mswjs/msw/issues/1200) in [mswjs/msw](https://github.com/mswjs/msw)
-4. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
-5. 🗣 Commented on [#11](https://github.com/g123k/flutter_app_badger/issues/11) in [g123k/flutter_app_badger](https://github.com/g123k/flutter_app_badger)
+1. 🗣 Commented on [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
+2. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+3. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
+4. ❗️ Opened issue [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
+5. 🗣 Commented on [#1200](https://github.com/mswjs/msw/issues/1200) in [mswjs/msw](https://github.com/mswjs/msw)
   <!--END_SECTION:activity-->
 </details>
 
