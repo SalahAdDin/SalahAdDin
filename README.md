@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
-2. 💪 Opened PR [#1](https://github.com/SalahAdDin/challenge-bejamas/pull/1) in [SalahAdDin/challenge-bejamas](https://github.com/SalahAdDin/challenge-bejamas)
-3. 🗣 Commented on [#36498](https://github.com/vercel/next.js/issues/36498) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+3. 💪 Opened PR [#1](https://github.com/SalahAdDin/challenge-bejamas/pull/1) in [SalahAdDin/challenge-bejamas](https://github.com/SalahAdDin/challenge-bejamas)
 4. 🗣 Commented on [#36498](https://github.com/vercel/next.js/issues/36498) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#1228](https://github.com/mswjs/msw/issues/1228) in [mswjs/msw](https://github.com/mswjs/msw)
+5. 🗣 Commented on [#36498](https://github.com/vercel/next.js/issues/36498) in [vercel/next.js](https://github.com/vercel/next.js)
   <!--END_SECTION:activity-->
 </details>
 
