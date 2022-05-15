@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SalahAdDin/cancer_backend/pull/1) in [SalahAdDin/cancer_backend](https://github.com/SalahAdDin/cancer_backend)
-2. 💪 Opened PR [#1](https://github.com/ldiazssj3/js-challenge/pull/1) in [ldiazssj3/js-challenge](https://github.com/ldiazssj3/js-challenge)
-3. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+1. ❗️ Opened issue [#470](https://github.com/nextui-org/nextui/issues/470) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 💪 Opened PR [#1](https://github.com/SalahAdDin/cancer_backend/pull/1) in [SalahAdDin/cancer_backend](https://github.com/SalahAdDin/cancer_backend)
+3. 💪 Opened PR [#1](https://github.com/ldiazssj3/js-challenge/pull/1) in [ldiazssj3/js-challenge](https://github.com/ldiazssj3/js-challenge)
 4. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
-5. 💪 Opened PR [#1](https://github.com/SalahAdDin/challenge-bejamas/pull/1) in [SalahAdDin/challenge-bejamas](https://github.com/SalahAdDin/challenge-bejamas)
+5. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
   <!--END_SECTION:activity-->
 </details>
 
