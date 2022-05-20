@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/g123k/flutter_app_badger/issues/59) in [g123k/flutter_app_badger](https://github.com/g123k/flutter_app_badger)
-2. 🗣 Commented on [#22](https://github.com/Pyozer/dots_indicator/issues/22) in [Pyozer/dots_indicator](https://github.com/Pyozer/dots_indicator)
+1. 🗣 Commented on [#658](https://github.com/rrousselGit/freezed/issues/658) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+2. 🗣 Commented on [#1544](https://github.com/niklasvh/html2canvas/issues/1544) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
 3. 🗣 Commented on [#59](https://github.com/g123k/flutter_app_badger/issues/59) in [g123k/flutter_app_badger](https://github.com/g123k/flutter_app_badger)
-4. ❗️ Opened issue [#470](https://github.com/nextui-org/nextui/issues/470) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. 💪 Opened PR [#1](https://github.com/SalahAdDin/cancer_backend/pull/1) in [SalahAdDin/cancer_backend](https://github.com/SalahAdDin/cancer_backend)
+4. 🗣 Commented on [#22](https://github.com/Pyozer/dots_indicator/issues/22) in [Pyozer/dots_indicator](https://github.com/Pyozer/dots_indicator)
+5. 🗣 Commented on [#59](https://github.com/g123k/flutter_app_badger/issues/59) in [g123k/flutter_app_badger](https://github.com/g123k/flutter_app_badger)
   <!--END_SECTION:activity-->
 </details>
 
