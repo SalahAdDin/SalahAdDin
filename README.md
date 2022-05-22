@@ -66,9 +66,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
 2. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-3. ❗️ Opened issue [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-4. 🗣 Commented on [#658](https://github.com/rrousselGit/freezed/issues/658) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
-5. 🗣 Commented on [#1544](https://github.com/niklasvh/html2canvas/issues/1544) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+3. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+4. ❗️ Opened issue [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+5. 🗣 Commented on [#658](https://github.com/rrousselGit/freezed/issues/658) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
   <!--END_SECTION:activity-->
 </details>
 
