@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+1. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
 2. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
 3. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-4. ❗️ Opened issue [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-5. 🗣 Commented on [#658](https://github.com/rrousselGit/freezed/issues/658) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+4. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+5. ❗️ Opened issue [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
   <!--END_SECTION:activity-->
 </details>
 
