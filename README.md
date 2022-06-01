@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SalahAdDin/cancer_backend/pull/1) in [SalahAdDin/cancer_backend](https://github.com/SalahAdDin/cancer_backend)
-2. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
-3. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-4. 🗣 Commented on [#295](https://github.com/rrousselGit/riverpod/issues/295) in [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod)
-5. 🗣 Commented on [#652](https://github.com/rrousselGit/freezed/issues/652) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+1. 🗣 Commented on [#29428](https://github.com/mui/material-ui/issues/29428) in [mui/material-ui](https://github.com/mui/material-ui)
+2. 🎉 Merged PR [#1](https://github.com/SalahAdDin/cancer_backend/pull/1) in [SalahAdDin/cancer_backend](https://github.com/SalahAdDin/cancer_backend)
+3. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+4. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+5. 🗣 Commented on [#295](https://github.com/rrousselGit/riverpod/issues/295) in [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod)
   <!--END_SECTION:activity-->
 </details>
 
