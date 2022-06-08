@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
-2. 🗣 Commented on [#31](https://github.com/developit/redaxios/issues/31) in [developit/redaxios](https://github.com/developit/redaxios)
-3. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#36498](https://github.com/vercel/next.js/issues/36498) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+1. ❗️ Opened issue [#86](https://github.com/developit/redaxios/issues/86) in [developit/redaxios](https://github.com/developit/redaxios)
+2. 🗣 Commented on [#1028](https://github.com/danvick/flutter_form_builder/issues/1028) in [danvick/flutter_form_builder](https://github.com/danvick/flutter_form_builder)
+3. 🗣 Commented on [#31](https://github.com/developit/redaxios/issues/31) in [developit/redaxios](https://github.com/developit/redaxios)
+4. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#36498](https://github.com/vercel/next.js/issues/36498) in [vercel/next.js](https://github.com/vercel/next.js)
   <!--END_SECTION:activity-->
 </details>
 
