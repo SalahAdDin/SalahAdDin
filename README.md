@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3630](https://github.com/kulshekhar/ts-jest/issues/3630) in [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
-2. 🗣 Commented on [#9210](https://github.com/facebook/jest/issues/9210) in [facebook/jest](https://github.com/facebook/jest)
-3. 🗣 Commented on [#10791](https://github.com/facebook/jest/issues/10791) in [facebook/jest](https://github.com/facebook/jest)
-4. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
-5. ❗️ Opened issue [#86](https://github.com/developit/redaxios/issues/86) in [developit/redaxios](https://github.com/developit/redaxios)
+1. 🗣 Commented on [#3630](https://github.com/kulshekhar/ts-jest/issues/3630) in [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
+2. ❗️ Opened issue [#3630](https://github.com/kulshekhar/ts-jest/issues/3630) in [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
+3. 🗣 Commented on [#9210](https://github.com/facebook/jest/issues/9210) in [facebook/jest](https://github.com/facebook/jest)
+4. 🗣 Commented on [#10791](https://github.com/facebook/jest/issues/10791) in [facebook/jest](https://github.com/facebook/jest)
+5. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
