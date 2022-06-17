@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/tumerorkun/react-leaflet-search/issues/52) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-2. 🗣 Commented on [#42](https://github.com/tumerorkun/react-leaflet-search/issues/42) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-3. 🗣 Commented on [#41](https://github.com/tumerorkun/react-leaflet-search/issues/41) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-4. 🗣 Commented on [#51](https://github.com/tumerorkun/react-leaflet-search/issues/51) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-5. 🗣 Commented on [#414](https://github.com/nextui-org/nextui/issues/414) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 🗣 Commented on [#238](https://github.com/smeijer/leaflet-geosearch/issues/238) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
+2. 🗣 Commented on [#40](https://github.com/tumerorkun/react-leaflet-search/issues/40) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
+3. ❗️ Opened issue [#52](https://github.com/tumerorkun/react-leaflet-search/issues/52) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
+4. 🗣 Commented on [#42](https://github.com/tumerorkun/react-leaflet-search/issues/42) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
+5. 🗣 Commented on [#41](https://github.com/tumerorkun/react-leaflet-search/issues/41) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
   <!--END_SECTION:activity-->
 </details>
 
