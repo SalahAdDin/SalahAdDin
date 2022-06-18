@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#329](https://github.com/smeijer/leaflet-geosearch/issues/329) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
-2. 🗣 Commented on [#60](https://github.com/smeijer/leaflet-geosearch/issues/60) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
-3. 🗣 Commented on [#238](https://github.com/smeijer/leaflet-geosearch/issues/238) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
-4. 🗣 Commented on [#40](https://github.com/tumerorkun/react-leaflet-search/issues/40) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-5. ❗️ Opened issue [#52](https://github.com/tumerorkun/react-leaflet-search/issues/52) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
+1. ❗️ Opened issue [#330](https://github.com/smeijer/leaflet-geosearch/issues/330) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
+2. ❗️ Opened issue [#329](https://github.com/smeijer/leaflet-geosearch/issues/329) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
+3. 🗣 Commented on [#60](https://github.com/smeijer/leaflet-geosearch/issues/60) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
+4. 🗣 Commented on [#238](https://github.com/smeijer/leaflet-geosearch/issues/238) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
+5. 🗣 Commented on [#40](https://github.com/tumerorkun/react-leaflet-search/issues/40) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
   <!--END_SECTION:activity-->
 </details>
 
