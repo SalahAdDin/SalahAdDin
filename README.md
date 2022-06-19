@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1846](https://github.com/jsx-eslint/eslint-plugin-react/issues/1846) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
-2. ❗️ Opened issue [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-3. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-4. ❗️ Opened issue [#330](https://github.com/smeijer/leaflet-geosearch/issues/330) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
-5. ❗️ Opened issue [#329](https://github.com/smeijer/leaflet-geosearch/issues/329) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
+2. 🗣 Commented on [#1846](https://github.com/jsx-eslint/eslint-plugin-react/issues/1846) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+3. ❗️ Opened issue [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+4. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+5. ❗️ Opened issue [#330](https://github.com/smeijer/leaflet-geosearch/issues/330) in [smeijer/leaflet-geosearch](https://github.com/smeijer/leaflet-geosearch)
   <!--END_SECTION:activity-->
 </details>
 
