@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#414](https://github.com/nextui-org/nextui/issues/414) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. 🗣 Commented on [#51](https://github.com/tumerorkun/react-leaflet-search/issues/51) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-3. 🗣 Commented on [#41](https://github.com/tumerorkun/react-leaflet-search/issues/41) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
-4. 🗣 Commented on [#1846](https://github.com/jsx-eslint/eslint-plugin-react/issues/1846) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
-5. 🗣 Commented on [#1846](https://github.com/jsx-eslint/eslint-plugin-react/issues/1846) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+1. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+2. 🗣 Commented on [#274](https://github.com/bcoe/c8/issues/274) in [bcoe/c8](https://github.com/bcoe/c8)
+3. 🗣 Commented on [#414](https://github.com/nextui-org/nextui/issues/414) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. 🗣 Commented on [#51](https://github.com/tumerorkun/react-leaflet-search/issues/51) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
+5. 🗣 Commented on [#41](https://github.com/tumerorkun/react-leaflet-search/issues/41) in [tumerorkun/react-leaflet-search](https://github.com/tumerorkun/react-leaflet-search)
   <!--END_SECTION:activity-->
 </details>
 
