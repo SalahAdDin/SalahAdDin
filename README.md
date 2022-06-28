@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-2. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-3. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-4. 🗣 Commented on [#274](https://github.com/bcoe/c8/issues/274) in [bcoe/c8](https://github.com/bcoe/c8)
-5. 🗣 Commented on [#414](https://github.com/nextui-org/nextui/issues/414) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+2. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+3. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+4. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+5. 🗣 Commented on [#274](https://github.com/bcoe/c8/issues/274) in [bcoe/c8](https://github.com/bcoe/c8)
   <!--END_SECTION:activity-->
 </details>
 
