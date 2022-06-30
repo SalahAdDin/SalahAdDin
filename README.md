@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5](https://github.com/devMozao/eruption/issues/5) in [devMozao/eruption](https://github.com/devMozao/eruption)
-2. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-3. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-4. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-5. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+2. 🗣 Commented on [#5](https://github.com/devMozao/eruption/issues/5) in [devMozao/eruption](https://github.com/devMozao/eruption)
+3. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+4. 🗣 Commented on [#999](https://github.com/PaulLeCam/react-leaflet/issues/999) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
+5. 🗣 Commented on [#998](https://github.com/PaulLeCam/react-leaflet/issues/998) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
   <!--END_SECTION:activity-->
 </details>
 
