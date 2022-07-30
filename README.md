@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
-2. 🗣 Commented on [#32](https://github.com/stisla/stisla/issues/32) in [stisla/stisla](https://github.com/stisla/stisla)
+1. 🗣 Commented on [#64](https://github.com/rrousselGit/freezed/issues/64) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+2. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
 3. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
-4. 🗣 Commented on [#3630](https://github.com/kulshekhar/ts-jest/issues/3630) in [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest)
-5. 🗣 Commented on [#839](https://github.com/react-component/slider/issues/839) in [react-component/slider](https://github.com/react-component/slider)
+4. 🗣 Commented on [#32](https://github.com/stisla/stisla/issues/32) in [stisla/stisla](https://github.com/stisla/stisla)
+5. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
   <!--END_SECTION:activity-->
 </details>
 
