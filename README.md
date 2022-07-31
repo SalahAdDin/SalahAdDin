@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/rrousselGit/freezed/issues/64) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
-2. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
-4. 🗣 Commented on [#32](https://github.com/stisla/stisla/issues/32) in [stisla/stisla](https://github.com/stisla/stisla)
-5. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
+1. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/issues/4495) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
+2. 🗣 Commented on [#64](https://github.com/rrousselGit/freezed/issues/64) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
+3. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
+5. 🗣 Commented on [#32](https://github.com/stisla/stisla/issues/32) in [stisla/stisla](https://github.com/stisla/stisla)
   <!--END_SECTION:activity-->
 </details>
 
