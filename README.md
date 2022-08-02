@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5296](https://github.com/directus/directus/issues/5296) in [directus/directus](https://github.com/directus/directus)
-2. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/issues/4495) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
-3. 🗣 Commented on [#64](https://github.com/rrousselGit/freezed/issues/64) in [rrousselGit/freezed](https://github.com/rrousselGit/freezed)
-4. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#6112](https://github.com/nestjs/nest/issues/6112) in [nestjs/nest](https://github.com/nestjs/nest)
+1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#86](https://github.com/developit/redaxios/issues/86) in [developit/redaxios](https://github.com/developit/redaxios)
+3. 🗣 Commented on [#5296](https://github.com/directus/directus/issues/5296) in [directus/directus](https://github.com/directus/directus)
+4. 🗣 Commented on [#5296](https://github.com/directus/directus/issues/5296) in [directus/directus](https://github.com/directus/directus)
+5. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/issues/4495) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
   <!--END_SECTION:activity-->
 </details>
 
