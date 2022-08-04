@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#86](https://github.com/developit/redaxios/issues/86) in [developit/redaxios](https://github.com/developit/redaxios)
-4. 🗣 Commented on [#5296](https://github.com/directus/directus/issues/5296) in [directus/directus](https://github.com/directus/directus)
+1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+2. ❗️ Opened issue [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#86](https://github.com/developit/redaxios/issues/86) in [developit/redaxios](https://github.com/developit/redaxios)
 5. 🗣 Commented on [#5296](https://github.com/directus/directus/issues/5296) in [directus/directus](https://github.com/directus/directus)
   <!--END_SECTION:activity-->
 </details>
