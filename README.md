@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#722](https://github.com/niklasvh/html2canvas/issues/722) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
-2. 🗣 Commented on [#1](https://github.com/itisnajim/strapi-plugin-fcm/issues/1) in [itisnajim/strapi-plugin-fcm](https://github.com/itisnajim/strapi-plugin-fcm)
-3. 🗣 Commented on [#1](https://github.com/osadavc/strapi-newsletter/issues/1) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
-4. ❗️ Opened issue [#1](https://github.com/itisnajim/strapi-plugin-fcm/issues/1) in [itisnajim/strapi-plugin-fcm](https://github.com/itisnajim/strapi-plugin-fcm)
-5. 🗣 Commented on [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+1. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+2. 🗣 Commented on [#722](https://github.com/niklasvh/html2canvas/issues/722) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+3. 🗣 Commented on [#1](https://github.com/itisnajim/strapi-plugin-fcm/issues/1) in [itisnajim/strapi-plugin-fcm](https://github.com/itisnajim/strapi-plugin-fcm)
+4. 🗣 Commented on [#1](https://github.com/osadavc/strapi-newsletter/issues/1) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
+5. ❗️ Opened issue [#1](https://github.com/itisnajim/strapi-plugin-fcm/issues/1) in [itisnajim/strapi-plugin-fcm](https://github.com/itisnajim/strapi-plugin-fcm)
   <!--END_SECTION:activity-->
 </details>
 
