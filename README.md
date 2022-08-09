@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/melishev/strapi-plugin-react-editorjs/issues/40) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-2. 🗣 Commented on [#32](https://github.com/melishev/strapi-plugin-react-editorjs/issues/32) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-3. ❗️ Opened issue [#14022](https://github.com/strapi/strapi/issues/14022) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#13919](https://github.com/strapi/strapi/issues/13919) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
+1. ❗️ Opened issue [#58](https://github.com/melishev/strapi-plugin-react-editorjs/issues/58) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+2. 🗣 Commented on [#40](https://github.com/melishev/strapi-plugin-react-editorjs/issues/40) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+3. 🗣 Commented on [#32](https://github.com/melishev/strapi-plugin-react-editorjs/issues/32) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+4. ❗️ Opened issue [#14022](https://github.com/strapi/strapi/issues/14022) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#13919](https://github.com/strapi/strapi/issues/13919) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
