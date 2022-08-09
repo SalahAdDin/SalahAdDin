@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
-2. ❗️ Opened issue [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
-3. ❗️ Opened issue [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-4. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-5. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+1. 🗣 Commented on [#40](https://github.com/melishev/strapi-plugin-react-editorjs/issues/40) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+2. 🗣 Commented on [#32](https://github.com/melishev/strapi-plugin-react-editorjs/issues/32) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+3. ❗️ Opened issue [#14022](https://github.com/strapi/strapi/issues/14022) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#13919](https://github.com/strapi/strapi/issues/13919) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
   <!--END_SECTION:activity-->
 </details>
 
