@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-2. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+1. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+2. ❗️ Opened issue [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
 3. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
 4. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-5. ❗️ Opened issue [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+5. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
   <!--END_SECTION:activity-->
 </details>
 
