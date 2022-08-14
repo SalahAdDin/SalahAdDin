@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-2. 🗣 Commented on [#53](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/53) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-3. 🗣 Commented on [#1](https://github.com/itisnajim/strapi-plugin-fcm/issues/1) in [itisnajim/strapi-plugin-fcm](https://github.com/itisnajim/strapi-plugin-fcm)
-4. ❗️ Opened issue [#58](https://github.com/melishev/strapi-plugin-react-editorjs/issues/58) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-5. 🗣 Commented on [#40](https://github.com/melishev/strapi-plugin-react-editorjs/issues/40) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+1. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+2. ❗️ Opened issue [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+3. 🗣 Commented on [#53](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/53) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+4. 🗣 Commented on [#1](https://github.com/itisnajim/strapi-plugin-fcm/issues/1) in [itisnajim/strapi-plugin-fcm](https://github.com/itisnajim/strapi-plugin-fcm)
+5. ❗️ Opened issue [#58](https://github.com/melishev/strapi-plugin-react-editorjs/issues/58) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
   <!--END_SECTION:activity-->
 </details>
 
