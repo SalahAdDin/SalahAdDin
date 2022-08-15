@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-2. ❗️ Opened issue [#39](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/39) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-3. 🗣 Commented on [#9](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/9) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-4. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-5. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 🗣 Commented on [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+2. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+3. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+4. ❗️ Opened issue [#39](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/39) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+5. 🗣 Commented on [#9](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/9) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
   <!--END_SECTION:activity-->
 </details>
 
