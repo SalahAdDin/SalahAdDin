@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-2. ❗️ Opened issue [#2](https://github.com/osadavc/strapi-newsletter/issues/2) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
-3. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-4. ❗️ Opened issue [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-5. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+1. 🗣 Commented on [#63](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/63) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+2. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+3. ❗️ Opened issue [#2](https://github.com/osadavc/strapi-newsletter/issues/2) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
+4. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+5. ❗️ Opened issue [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
   <!--END_SECTION:activity-->
 </details>
 
