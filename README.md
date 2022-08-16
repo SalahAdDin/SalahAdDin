@@ -66,9 +66,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
 2. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-3. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-4. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-5. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+3. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+4. 🗣 Commented on [#7323](https://github.com/keycloak/keycloak/issues/7323) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+5. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
   <!--END_SECTION:activity-->
 </details>
 
