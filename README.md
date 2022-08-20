@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-2. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-3. 🗣 Commented on [#839](https://github.com/react-component/slider/issues/839) in [react-component/slider](https://github.com/react-component/slider)
-4. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-5. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+1. 🗣 Commented on [#2](https://github.com/MiniDigger/directus-conditional-fields/issues/2) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+2. 🗣 Commented on [#4](https://github.com/MiniDigger/directus-conditional-fields/issues/4) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+3. 🗣 Commented on [#5](https://github.com/MiniDigger/directus-conditional-fields/issues/5) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+4. 🗣 Commented on [#2](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/2) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
+5. 🗣 Commented on [#5](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/5) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
   <!--END_SECTION:activity-->
 </details>
 
