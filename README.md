@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MiniDigger/directus-conditional-fields/issues/2) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
-2. 🗣 Commented on [#4](https://github.com/MiniDigger/directus-conditional-fields/issues/4) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
-3. 🗣 Commented on [#5](https://github.com/MiniDigger/directus-conditional-fields/issues/5) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
-4. 🗣 Commented on [#2](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/2) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
-5. 🗣 Commented on [#5](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/5) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
+1. 🗣 Commented on [#6](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/6) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
+2. 🗣 Commented on [#2](https://github.com/MiniDigger/directus-conditional-fields/issues/2) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+3. 🗣 Commented on [#4](https://github.com/MiniDigger/directus-conditional-fields/issues/4) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+4. 🗣 Commented on [#5](https://github.com/MiniDigger/directus-conditional-fields/issues/5) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+5. 🗣 Commented on [#2](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/2) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
   <!--END_SECTION:activity-->
 </details>
 
