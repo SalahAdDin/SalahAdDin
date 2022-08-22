@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3423](https://github.com/marktext/marktext/issues/3423) in [marktext/marktext](https://github.com/marktext/marktext)
-2. 🗣 Commented on [#6](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/6) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
-3. 🗣 Commented on [#2](https://github.com/MiniDigger/directus-conditional-fields/issues/2) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
-4. 🗣 Commented on [#4](https://github.com/MiniDigger/directus-conditional-fields/issues/4) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
-5. 🗣 Commented on [#5](https://github.com/MiniDigger/directus-conditional-fields/issues/5) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+1. 🗣 Commented on [#1625](https://github.com/jquense/yup/issues/1625) in [jquense/yup](https://github.com/jquense/yup)
+2. 🗣 Commented on [#3423](https://github.com/marktext/marktext/issues/3423) in [marktext/marktext](https://github.com/marktext/marktext)
+3. 🗣 Commented on [#6](https://github.com/dimitrov-adrian/directus-extension-masked-interface/issues/6) in [dimitrov-adrian/directus-extension-masked-interface](https://github.com/dimitrov-adrian/directus-extension-masked-interface)
+4. 🗣 Commented on [#2](https://github.com/MiniDigger/directus-conditional-fields/issues/2) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
+5. 🗣 Commented on [#4](https://github.com/MiniDigger/directus-conditional-fields/issues/4) in [MiniDigger/directus-conditional-fields](https://github.com/MiniDigger/directus-conditional-fields)
   <!--END_SECTION:activity-->
 </details>
 
