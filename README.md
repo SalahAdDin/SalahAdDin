@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-2. 🗣 Commented on [#10791](https://github.com/facebook/jest/issues/10791) in [facebook/jest](https://github.com/facebook/jest)
-3. 🗣 Commented on [#1740](https://github.com/date-fns/date-fns/issues/1740) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
-4. 🗣 Commented on [#67](https://github.com/iamkun/dayjs/issues/67) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. 🗣 Commented on [#1625](https://github.com/jquense/yup/issues/1625) in [jquense/yup](https://github.com/jquense/yup)
+1. 🗣 Commented on [#429](https://github.com/react-component/pagination/issues/429) in [react-component/pagination](https://github.com/react-component/pagination)
+2. 🗣 Commented on [#269](https://github.com/react-component/pagination/issues/269) in [react-component/pagination](https://github.com/react-component/pagination)
+3. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+4. 🗣 Commented on [#10791](https://github.com/facebook/jest/issues/10791) in [facebook/jest](https://github.com/facebook/jest)
+5. 🗣 Commented on [#1740](https://github.com/date-fns/date-fns/issues/1740) in [date-fns/date-fns](https://github.com/date-fns/date-fns)
   <!--END_SECTION:activity-->
 </details>
 
