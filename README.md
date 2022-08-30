@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-2. 🗣 Commented on [#15496](https://github.com/ant-design/ant-design/issues/15496) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
-3. 🗣 Commented on [#429](https://github.com/react-component/pagination/issues/429) in [react-component/pagination](https://github.com/react-component/pagination)
-4. 🗣 Commented on [#269](https://github.com/react-component/pagination/issues/269) in [react-component/pagination](https://github.com/react-component/pagination)
-5. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+1. ❗️ Opened issue [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+3. 🗣 Commented on [#15496](https://github.com/ant-design/ant-design/issues/15496) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+4. 🗣 Commented on [#429](https://github.com/react-component/pagination/issues/429) in [react-component/pagination](https://github.com/react-component/pagination)
+5. 🗣 Commented on [#269](https://github.com/react-component/pagination/issues/269) in [react-component/pagination](https://github.com/react-component/pagination)
   <!--END_SECTION:activity-->
 </details>
 
