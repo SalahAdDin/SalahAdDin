@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
-2. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-3. ❗️ Opened issue [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#32](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/32) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-5. 🗣 Commented on [#15496](https://github.com/ant-design/ant-design/issues/15496) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+1. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+2. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
+3. 🗣 Commented on [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
+4. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+5. ❗️ Opened issue [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
