@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-2. 🗣 Commented on [#208](https://github.com/ndresx/react-countdown/issues/208) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
-3. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
-4. 🗣 Commented on [#7323](https://github.com/keycloak/keycloak/issues/7323) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
-5. 🗣 Commented on [#93](https://github.com/boazpoolman/strapi-plugin-sitemap/issues/93) in [boazpoolman/strapi-plugin-sitemap](https://github.com/boazpoolman/strapi-plugin-sitemap)
+2. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+3. 🗣 Commented on [#208](https://github.com/ndresx/react-countdown/issues/208) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
+4. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
+5. 🗣 Commented on [#7323](https://github.com/keycloak/keycloak/issues/7323) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
   <!--END_SECTION:activity-->
 </details>
 
