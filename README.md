@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+1. ❗️ Opened issue [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
 2. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-3. 🗣 Commented on [#208](https://github.com/ndresx/react-countdown/issues/208) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
-4. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
-5. 🗣 Commented on [#7323](https://github.com/keycloak/keycloak/issues/7323) in [keycloak/keycloak](https://github.com/keycloak/keycloak)
+3. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+4. 🗣 Commented on [#208](https://github.com/ndresx/react-countdown/issues/208) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
+5. 🗣 Commented on [#1631](https://github.com/jquense/yup/issues/1631) in [jquense/yup](https://github.com/jquense/yup)
   <!--END_SECTION:activity-->
 </details>
 
