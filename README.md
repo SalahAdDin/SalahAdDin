@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2539](https://github.com/hapijs/joi/issues/2539) in [hapijs/joi](https://github.com/hapijs/joi)
-2. 🗣 Commented on [#758](https://github.com/jquense/yup/issues/758) in [jquense/yup](https://github.com/jquense/yup)
-3. 🗣 Commented on [#810](https://github.com/jquense/yup/issues/810) in [jquense/yup](https://github.com/jquense/yup)
-4. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-5. 🗣 Commented on [#507](https://github.com/jquense/yup/issues/507) in [jquense/yup](https://github.com/jquense/yup)
+1. 🗣 Commented on [#2405](https://github.com/import-js/eslint-plugin-import/issues/2405) in [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import)
+2. 🗣 Commented on [#2539](https://github.com/hapijs/joi/issues/2539) in [hapijs/joi](https://github.com/hapijs/joi)
+3. 🗣 Commented on [#758](https://github.com/jquense/yup/issues/758) in [jquense/yup](https://github.com/jquense/yup)
+4. 🗣 Commented on [#810](https://github.com/jquense/yup/issues/810) in [jquense/yup](https://github.com/jquense/yup)
+5. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
   <!--END_SECTION:activity-->
 </details>
 
