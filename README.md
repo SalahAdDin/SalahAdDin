@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
-2. 🗣 Commented on [#507](https://github.com/jquense/yup/issues/507) in [jquense/yup](https://github.com/jquense/yup)
-3. 🗣 Commented on [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
+1. ❗️ Opened issue [#63](https://github.com/melishev/strapi-plugin-react-editorjs/issues/63) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+2. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+3. 🗣 Commented on [#507](https://github.com/jquense/yup/issues/507) in [jquense/yup](https://github.com/jquense/yup)
+4. 🗣 Commented on [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
