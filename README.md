@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/13) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-2. ❗️ Opened issue [#63](https://github.com/melishev/strapi-plugin-react-editorjs/issues/63) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-3. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
-4. 🗣 Commented on [#507](https://github.com/jquense/yup/issues/507) in [jquense/yup](https://github.com/jquense/yup)
-5. 🗣 Commented on [#38](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/38) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+2. 🗣 Commented on [#23](https://github.com/strapi/strapi-plugin-seo/issues/23) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+3. 🗣 Commented on [#7](https://github.com/strapi/strapi-plugin-seo/issues/7) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+4. 🗣 Commented on [#17](https://github.com/strapi/strapi-plugin-seo/issues/17) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#13](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/13) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
   <!--END_SECTION:activity-->
 </details>
 
