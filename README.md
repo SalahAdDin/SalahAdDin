@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/melishev/strapi-plugin-react-editorjs/issues/61) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-2. 🗣 Commented on [#50](https://github.com/melishev/strapi-plugin-react-editorjs/issues/50) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-3. 🗣 Commented on [#41](https://github.com/melishev/strapi-plugin-react-editorjs/issues/41) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-4. 🗣 Commented on [#54](https://github.com/melishev/strapi-plugin-react-editorjs/issues/54) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-5. 🗣 Commented on [#58](https://github.com/melishev/strapi-plugin-react-editorjs/issues/58) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+1. 🗣 Commented on [#13](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/13) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+2. 🗣 Commented on [#61](https://github.com/melishev/strapi-plugin-react-editorjs/issues/61) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+3. 🗣 Commented on [#50](https://github.com/melishev/strapi-plugin-react-editorjs/issues/50) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+4. 🗣 Commented on [#41](https://github.com/melishev/strapi-plugin-react-editorjs/issues/41) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+5. 🗣 Commented on [#54](https://github.com/melishev/strapi-plugin-react-editorjs/issues/54) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
   <!--END_SECTION:activity-->
 </details>
 
