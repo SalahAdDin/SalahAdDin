@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
-2. 🗣 Commented on [#2019](https://github.com/codex-team/editor.js/issues/2019) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
-3. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
-4. 🗣 Commented on [#13513](https://github.com/strapi/strapi/issues/13513) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#13769](https://github.com/strapi/strapi/issues/13769) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗️ Opened issue [#9](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/9) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+2. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
+3. 🗣 Commented on [#2019](https://github.com/codex-team/editor.js/issues/2019) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
+4. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
+5. 🗣 Commented on [#13513](https://github.com/strapi/strapi/issues/13513) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
