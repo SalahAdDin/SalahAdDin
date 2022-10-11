@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#64](https://github.com/melishev/strapi-plugin-react-editorjs/issues/64) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-2. 🗣 Commented on [#3](https://github.com/edwinlunando/django-naomi/issues/3) in [edwinlunando/django-naomi](https://github.com/edwinlunando/django-naomi)
-3. 🗣 Commented on [#14](https://github.com/editor-js/inline-code/issues/14) in [editor-js/inline-code](https://github.com/editor-js/inline-code)
-4. 🗣 Commented on [#6](https://github.com/editor-js/marker/issues/6) in [editor-js/marker](https://github.com/editor-js/marker)
-5. 🗣 Commented on [#41](https://github.com/editor-js/quote/issues/41) in [editor-js/quote](https://github.com/editor-js/quote)
+1. 🗣 Commented on [#63](https://github.com/melishev/strapi-plugin-react-editorjs/issues/63) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+2. 💪 Opened PR [#65](https://github.com/melishev/strapi-plugin-react-editorjs/pull/65) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+3. ❗️ Opened issue [#64](https://github.com/melishev/strapi-plugin-react-editorjs/issues/64) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+4. 🗣 Commented on [#3](https://github.com/edwinlunando/django-naomi/issues/3) in [edwinlunando/django-naomi](https://github.com/edwinlunando/django-naomi)
+5. 🗣 Commented on [#14](https://github.com/editor-js/inline-code/issues/14) in [editor-js/inline-code](https://github.com/editor-js/inline-code)
   <!--END_SECTION:activity-->
 </details>
 
