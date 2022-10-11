@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/editor-js/raw/issues/17) in [editor-js/raw](https://github.com/editor-js/raw)
-2. ❗️ Opened issue [#9](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/9) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
-3. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
-4. 🗣 Commented on [#2019](https://github.com/codex-team/editor.js/issues/2019) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
+1. ❗️ Opened issue [#32](https://github.com/editor-js/warning/issues/32) in [editor-js/warning](https://github.com/editor-js/warning)
+2. ❗️ Opened issue [#33](https://github.com/editor-js/raw/issues/33) in [editor-js/raw](https://github.com/editor-js/raw)
+3. 🗣 Commented on [#17](https://github.com/editor-js/raw/issues/17) in [editor-js/raw](https://github.com/editor-js/raw)
+4. ❗️ Opened issue [#9](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/9) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
 5. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
   <!--END_SECTION:activity-->
 </details>
