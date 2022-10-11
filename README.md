@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/editor-js/warning/issues/32) in [editor-js/warning](https://github.com/editor-js/warning)
-2. ❗️ Opened issue [#33](https://github.com/editor-js/raw/issues/33) in [editor-js/raw](https://github.com/editor-js/raw)
-3. 🗣 Commented on [#17](https://github.com/editor-js/raw/issues/17) in [editor-js/raw](https://github.com/editor-js/raw)
-4. ❗️ Opened issue [#9](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/9) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
-5. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
+1. 🗣 Commented on [#14](https://github.com/editor-js/inline-code/issues/14) in [editor-js/inline-code](https://github.com/editor-js/inline-code)
+2. 🗣 Commented on [#6](https://github.com/editor-js/marker/issues/6) in [editor-js/marker](https://github.com/editor-js/marker)
+3. 🗣 Commented on [#41](https://github.com/editor-js/quote/issues/41) in [editor-js/quote](https://github.com/editor-js/quote)
+4. 🗣 Commented on [#52](https://github.com/editor-js/link/issues/52) in [editor-js/link](https://github.com/editor-js/link)
+5. ❗️ Opened issue [#32](https://github.com/editor-js/warning/issues/32) in [editor-js/warning](https://github.com/editor-js/warning)
   <!--END_SECTION:activity-->
 </details>
 
