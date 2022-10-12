@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/3) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-2. 🎉 Merged PR [#2](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/2) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-3. 💪 Opened PR [#2](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/2) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-4. 💪 Opened PR [#66](https://github.com/melishev/strapi-plugin-react-editorjs/pull/66) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-5. 🗣 Commented on [#63](https://github.com/melishev/strapi-plugin-react-editorjs/issues/63) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+1. 🎉 Merged PR [#3](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/3) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
+2. 💪 Opened PR [#3](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/3) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
+3. 🎉 Merged PR [#2](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/2) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
+4. 💪 Opened PR [#2](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/2) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
+5. 💪 Opened PR [#66](https://github.com/melishev/strapi-plugin-react-editorjs/pull/66) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
   <!--END_SECTION:activity-->
 </details>
 
