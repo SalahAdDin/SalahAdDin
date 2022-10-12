@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/3) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-2. 💪 Opened PR [#3](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/3) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-3. 🎉 Merged PR [#2](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/2) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-4. 💪 Opened PR [#2](https://github.com/SalahAdDin/strapi-plugin-react-editorjs/pull/2) in [SalahAdDin/strapi-plugin-react-editorjs](https://github.com/SalahAdDin/strapi-plugin-react-editorjs)
-5. 💪 Opened PR [#66](https://github.com/melishev/strapi-plugin-react-editorjs/pull/66) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+1. 🗣 Commented on [#2](https://github.com/weekwood/editorjs-video/issues/2) in [weekwood/editorjs-video](https://github.com/weekwood/editorjs-video)
+2. 🗣 Commented on [#3](https://github.com/weekwood/editorjs-video/issues/3) in [weekwood/editorjs-video](https://github.com/weekwood/editorjs-video)
+3. 🗣 Commented on [#172](https://github.com/editor-js/image/issues/172) in [editor-js/image](https://github.com/editor-js/image)
+4. 🗣 Commented on [#189](https://github.com/editor-js/image/issues/189) in [editor-js/image](https://github.com/editor-js/image)
+5. 🗣 Commented on [#188](https://github.com/editor-js/image/issues/188) in [editor-js/image](https://github.com/editor-js/image)
   <!--END_SECTION:activity-->
 </details>
 
