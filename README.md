@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/melishev/strapi-plugin-react-editorjs/issues/58) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-2. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-3. 🗣 Commented on [#57](https://github.com/melishev/strapi-plugin-react-editorjs/issues/57) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-4. 🗣 Commented on [#2](https://github.com/weekwood/editorjs-video/issues/2) in [weekwood/editorjs-video](https://github.com/weekwood/editorjs-video)
-5. 🗣 Commented on [#3](https://github.com/weekwood/editorjs-video/issues/3) in [weekwood/editorjs-video](https://github.com/weekwood/editorjs-video)
+1. 🗣 Commented on [#192](https://github.com/Jungwoo-An/react-editor-js/issues/192) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+2. ❗️ Opened issue [#212](https://github.com/Jungwoo-An/react-editor-js/issues/212) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+3. 🗣 Commented on [#58](https://github.com/melishev/strapi-plugin-react-editorjs/issues/58) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+4. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+5. 🗣 Commented on [#57](https://github.com/melishev/strapi-plugin-react-editorjs/issues/57) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
   <!--END_SECTION:activity-->
 </details>
 
