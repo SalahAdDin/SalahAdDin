@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#58](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5/issues/58) in [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
-2. 🗣 Commented on [#54](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5/issues/54) in [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
-3. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-4. 🗣 Commented on [#15](https://github.com/dasmikko/strapi-tiptap-editor/issues/15) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-5. 🗣 Commented on [#38](https://github.com/dasmikko/strapi-tiptap-editor/issues/38) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+2. 🗣 Commented on [#58](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5/issues/58) in [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
+3. 🗣 Commented on [#54](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5/issues/54) in [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
+4. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#15](https://github.com/dasmikko/strapi-tiptap-editor/issues/15) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
