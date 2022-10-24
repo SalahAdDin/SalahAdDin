@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-2. 🗣 Commented on [#11](https://github.com/flyerhq/flutter_firebase_chat_core/issues/11) in [flyerhq/flutter_firebase_chat_core](https://github.com/flyerhq/flutter_firebase_chat_core)
-3. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-5. 🗣 Commented on [#58](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5/issues/58) in [Roslovets-Inc/strapi-plugin-ckeditor5](https://github.com/Roslovets-Inc/strapi-plugin-ckeditor5)
+1. 🗣 Commented on [#52](https://github.com/editor-js/link/issues/52) in [editor-js/link](https://github.com/editor-js/link)
+2. 🗣 Commented on [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+3. 🗣 Commented on [#11](https://github.com/flyerhq/flutter_firebase_chat_core/issues/11) in [flyerhq/flutter_firebase_chat_core](https://github.com/flyerhq/flutter_firebase_chat_core)
+4. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
   <!--END_SECTION:activity-->
 </details>
 
