@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/iamsalnikov/colorize/issues/10) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
-2. 🗣 Commented on [#52](https://github.com/editor-js/link/issues/52) in [editor-js/link](https://github.com/editor-js/link)
-3. 🗣 Commented on [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-4. 🗣 Commented on [#11](https://github.com/flyerhq/flutter_firebase_chat_core/issues/11) in [flyerhq/flutter_firebase_chat_core](https://github.com/flyerhq/flutter_firebase_chat_core)
-5. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. 🗣 Commented on [#3446](https://github.com/cypress-io/cypress-documentation/issues/3446) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+3. ❗️ Closed issue [#10](https://github.com/iamsalnikov/colorize/issues/10) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
+4. 🗣 Commented on [#52](https://github.com/editor-js/link/issues/52) in [editor-js/link](https://github.com/editor-js/link)
+5. 🗣 Commented on [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
   <!--END_SECTION:activity-->
 </details>
 
