@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-2. 🗣 Commented on [#3446](https://github.com/cypress-io/cypress-documentation/issues/3446) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
-3. ❗️ Closed issue [#10](https://github.com/iamsalnikov/colorize/issues/10) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
-4. 🗣 Commented on [#52](https://github.com/editor-js/link/issues/52) in [editor-js/link](https://github.com/editor-js/link)
-5. 🗣 Commented on [#19](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/19) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+1. 🗣 Commented on [#13769](https://github.com/strapi/strapi/issues/13769) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#3336](https://github.com/conventional-changelog/commitlint/issues/3336) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+3. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+4. 🗣 Commented on [#3446](https://github.com/cypress-io/cypress-documentation/issues/3446) in [cypress-io/cypress-documentation](https://github.com/cypress-io/cypress-documentation)
+5. ❗️ Closed issue [#10](https://github.com/iamsalnikov/colorize/issues/10) in [iamsalnikov/colorize](https://github.com/iamsalnikov/colorize)
   <!--END_SECTION:activity-->
 </details>
 
