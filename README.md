@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2752](https://github.com/cypress-io/cypress/issues/2752) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-2. 🗣 Commented on [#10](https://github.com/cypress-io/cypress/issues/10) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-3. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#19651](https://github.com/cypress-io/cypress/issues/19651) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-5. 🗣 Commented on [#13769](https://github.com/strapi/strapi/issues/13769) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#7306](https://github.com/cypress-io/cypress/issues/7306) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. 🗣 Commented on [#2752](https://github.com/cypress-io/cypress/issues/2752) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+3. 🗣 Commented on [#10](https://github.com/cypress-io/cypress/issues/10) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+4. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#19651](https://github.com/cypress-io/cypress/issues/19651) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
   <!--END_SECTION:activity-->
 </details>
 
