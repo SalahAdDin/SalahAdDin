@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/immerjs/use-immer/issues/105) in [immerjs/use-immer](https://github.com/immerjs/use-immer)
-2. 🗣 Commented on [#7306](https://github.com/cypress-io/cypress/issues/7306) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-3. 🗣 Commented on [#2752](https://github.com/cypress-io/cypress/issues/2752) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-4. 🗣 Commented on [#10](https://github.com/cypress-io/cypress/issues/10) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-5. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+2. 🗣 Commented on [#105](https://github.com/immerjs/use-immer/issues/105) in [immerjs/use-immer](https://github.com/immerjs/use-immer)
+3. 🗣 Commented on [#7306](https://github.com/cypress-io/cypress/issues/7306) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+4. 🗣 Commented on [#2752](https://github.com/cypress-io/cypress/issues/2752) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+5. 🗣 Commented on [#10](https://github.com/cypress-io/cypress/issues/10) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
   <!--END_SECTION:activity-->
 </details>
 
