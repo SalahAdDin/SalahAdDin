@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#571](https://github.com/i18next/i18next/issues/571) in [i18next/i18next](https://github.com/i18next/i18next)
-2. 🗣 Commented on [#1318](https://github.com/i18next/i18next/issues/1318) in [i18next/i18next](https://github.com/i18next/i18next)
-3. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
-4. 🗣 Commented on [#67](https://github.com/iamkun/dayjs/issues/67) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+1. 🗣 Commented on [#125](https://github.com/react-component/picker/issues/125) in [react-component/picker](https://github.com/react-component/picker)
+2. 🗣 Commented on [#571](https://github.com/i18next/i18next/issues/571) in [i18next/i18next](https://github.com/i18next/i18next)
+3. 🗣 Commented on [#1318](https://github.com/i18next/i18next/issues/1318) in [i18next/i18next](https://github.com/i18next/i18next)
+4. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+5. 🗣 Commented on [#67](https://github.com/iamkun/dayjs/issues/67) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
   <!--END_SECTION:activity-->
 </details>
 
