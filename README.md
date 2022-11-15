@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
-2. 🗣 Commented on [#67](https://github.com/iamkun/dayjs/issues/67) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-3. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
-4. 🗣 Commented on [#105](https://github.com/immerjs/use-immer/issues/105) in [immerjs/use-immer](https://github.com/immerjs/use-immer)
-5. 🗣 Commented on [#7306](https://github.com/cypress-io/cypress/issues/7306) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. 🗣 Commented on [#1318](https://github.com/i18next/i18next/issues/1318) in [i18next/i18next](https://github.com/i18next/i18next)
+2. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+3. 🗣 Commented on [#67](https://github.com/iamkun/dayjs/issues/67) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+4. 🗣 Commented on [#62](https://github.com/melishev/strapi-plugin-react-editorjs/issues/62) in [melishev/strapi-plugin-react-editorjs](https://github.com/melishev/strapi-plugin-react-editorjs)
+5. 🗣 Commented on [#105](https://github.com/immerjs/use-immer/issues/105) in [immerjs/use-immer](https://github.com/immerjs/use-immer)
   <!--END_SECTION:activity-->
 </details>
 
