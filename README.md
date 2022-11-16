@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#49](https://github.com/dasmikko/strapi-tiptap-editor/issues/49) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 🗣 Commented on [#726](https://github.com/ueberdosis/tiptap/issues/726) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#49](https://github.com/dasmikko/strapi-tiptap-editor/issues/49) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-5. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#48](https://github.com/dasmikko/strapi-tiptap-editor/issues/48) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+2. 🗣 Commented on [#7306](https://github.com/cypress-io/cypress/issues/7306) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+3. 🗣 Commented on [#49](https://github.com/dasmikko/strapi-tiptap-editor/issues/49) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#726](https://github.com/ueberdosis/tiptap/issues/726) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
   <!--END_SECTION:activity-->
 </details>
 
