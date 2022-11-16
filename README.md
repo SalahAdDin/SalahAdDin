@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1215](https://github.com/iamkun/dayjs/issues/1215) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-2. 🗣 Commented on [#125](https://github.com/react-component/picker/issues/125) in [react-component/picker](https://github.com/react-component/picker)
-3. 🗣 Commented on [#571](https://github.com/i18next/i18next/issues/571) in [i18next/i18next](https://github.com/i18next/i18next)
-4. 🗣 Commented on [#1318](https://github.com/i18next/i18next/issues/1318) in [i18next/i18next](https://github.com/i18next/i18next)
-5. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+1. 🗣 Commented on [#49](https://github.com/dasmikko/strapi-tiptap-editor/issues/49) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+2. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 🗣 Commented on [#38](https://github.com/dasmikko/strapi-tiptap-editor/issues/38) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#48](https://github.com/dasmikko/strapi-tiptap-editor/issues/48) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
