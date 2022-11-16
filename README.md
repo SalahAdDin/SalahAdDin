@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. ❗️ Opened issue [#3417](https://github.com/ueberdosis/tiptap/issues/3417) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-3. 🗣 Commented on [#48](https://github.com/dasmikko/strapi-tiptap-editor/issues/48) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-4. 🗣 Commented on [#7306](https://github.com/cypress-io/cypress/issues/7306) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
-5. 🗣 Commented on [#49](https://github.com/dasmikko/strapi-tiptap-editor/issues/49) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#9](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/9) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+2. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. ❗️ Opened issue [#3417](https://github.com/ueberdosis/tiptap/issues/3417) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 🗣 Commented on [#48](https://github.com/dasmikko/strapi-tiptap-editor/issues/48) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
