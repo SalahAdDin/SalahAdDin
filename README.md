@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/dasmikko/strapi-tiptap-editor/issues/45) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-4. 🗣 Commented on [#9](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/9) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+1. 🗣 Commented on [#39](https://github.com/dasmikko/strapi-tiptap-editor/issues/39) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+2. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 🗣 Commented on [#45](https://github.com/dasmikko/strapi-tiptap-editor/issues/45) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
 5. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
