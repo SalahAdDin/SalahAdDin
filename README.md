@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
-2. 🗣 Commented on [#25](https://github.com/jrgarciadev/react-iconly/issues/25) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
-3. 🗣 Commented on [#27](https://github.com/jrgarciadev/react-iconly/issues/27) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
-4. 🗣 Commented on [#28](https://github.com/jrgarciadev/react-iconly/issues/28) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
-5. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#189](https://github.com/Jungwoo-An/react-editor-js/issues/189) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+2. 🗣 Commented on [#212](https://github.com/Jungwoo-An/react-editor-js/issues/212) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+3. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
+4. 🗣 Commented on [#25](https://github.com/jrgarciadev/react-iconly/issues/25) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
+5. 🗣 Commented on [#27](https://github.com/jrgarciadev/react-iconly/issues/27) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
   <!--END_SECTION:activity-->
 </details>
 
