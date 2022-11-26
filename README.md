@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/docker/desktop-linux/issues/96) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
-2. ❗️ Opened issue [#2](https://github.com/drunckj/Asus-ESS/issues/2) in [drunckj/Asus-ESS](https://github.com/drunckj/Asus-ESS)
-3. 🗣 Commented on [#1](https://github.com/drunckj/Asus-ESS/issues/1) in [drunckj/Asus-ESS](https://github.com/drunckj/Asus-ESS)
-4. ❗️ Opened issue [#1](https://github.com/manjaro-deepin/download/issues/1) in [manjaro-deepin/download](https://github.com/manjaro-deepin/download)
-5. 🗣 Commented on [#189](https://github.com/Jungwoo-An/react-editor-js/issues/189) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+1. ❗️ Opened issue [#97](https://github.com/docker/desktop-linux/issues/97) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+2. 🗣 Commented on [#96](https://github.com/docker/desktop-linux/issues/96) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+3. ❗️ Opened issue [#2](https://github.com/drunckj/Asus-ESS/issues/2) in [drunckj/Asus-ESS](https://github.com/drunckj/Asus-ESS)
+4. 🗣 Commented on [#1](https://github.com/drunckj/Asus-ESS/issues/1) in [drunckj/Asus-ESS](https://github.com/drunckj/Asus-ESS)
+5. ❗️ Opened issue [#1](https://github.com/manjaro-deepin/download/issues/1) in [manjaro-deepin/download](https://github.com/manjaro-deepin/download)
   <!--END_SECTION:activity-->
 </details>
 
