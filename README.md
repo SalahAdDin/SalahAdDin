@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/yeyushengfan258/DeepinV20-kde/issues/12) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
-2. 🗣 Commented on [#9](https://github.com/yeyushengfan258/DeepinV20-kde/issues/9) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
-3. ❗️ Opened issue [#1](https://github.com/zayronxio/deepin2022-look-and-feel/issues/1) in [zayronxio/deepin2022-look-and-feel](https://github.com/zayronxio/deepin2022-look-and-feel)
-4. 🗣 Commented on [#61](https://github.com/chetachiezikeuzor/cMenu-Plugin/issues/61) in [chetachiezikeuzor/cMenu-Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin)
-5. 🗣 Commented on [#62](https://github.com/chetachiezikeuzor/cMenu-Plugin/issues/62) in [chetachiezikeuzor/cMenu-Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin)
+1. 🗣 Commented on [#4997](https://github.com/pnpm/pnpm/issues/4997) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+2. ❗️ Opened issue [#12](https://github.com/yeyushengfan258/DeepinV20-kde/issues/12) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
+3. 🗣 Commented on [#9](https://github.com/yeyushengfan258/DeepinV20-kde/issues/9) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
+4. ❗️ Opened issue [#1](https://github.com/zayronxio/deepin2022-look-and-feel/issues/1) in [zayronxio/deepin2022-look-and-feel](https://github.com/zayronxio/deepin2022-look-and-feel)
+5. 🗣 Commented on [#61](https://github.com/chetachiezikeuzor/cMenu-Plugin/issues/61) in [chetachiezikeuzor/cMenu-Plugin](https://github.com/chetachiezikeuzor/cMenu-Plugin)
   <!--END_SECTION:activity-->
 </details>
 
