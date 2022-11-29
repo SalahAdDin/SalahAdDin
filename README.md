@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/79) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-2. 🗣 Commented on [#200](https://github.com/AlexCovizzi/vscode-sqlite/issues/200) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
-3. 🗣 Commented on [#183](https://github.com/AlexCovizzi/vscode-sqlite/issues/183) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
-4. 🗣 Commented on [#199](https://github.com/AlexCovizzi/vscode-sqlite/issues/199) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
-5. ❗️ Opened issue [#79](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/79) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+1. 🗣 Commented on [#1438](https://github.com/Jguer/yay/issues/1438) in [Jguer/yay](https://github.com/Jguer/yay)
+2. ❗️ Opened issue [#13](https://github.com/libin9iOak/ja-netfilter-all/issues/13) in [libin9iOak/ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all)
+3. 🗣 Commented on [#79](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/79) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+4. 🗣 Commented on [#200](https://github.com/AlexCovizzi/vscode-sqlite/issues/200) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
+5. 🗣 Commented on [#183](https://github.com/AlexCovizzi/vscode-sqlite/issues/183) in [AlexCovizzi/vscode-sqlite](https://github.com/AlexCovizzi/vscode-sqlite)
   <!--END_SECTION:activity-->
 </details>
 
