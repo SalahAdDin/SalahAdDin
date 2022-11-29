@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/osadavc/strapi-newsletter/issues/3) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
-2. 🗣 Commented on [#4997](https://github.com/pnpm/pnpm/issues/4997) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. ❗️ Opened issue [#12](https://github.com/yeyushengfan258/DeepinV20-kde/issues/12) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
-4. 🗣 Commented on [#9](https://github.com/yeyushengfan258/DeepinV20-kde/issues/9) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
-5. ❗️ Opened issue [#1](https://github.com/zayronxio/deepin2022-look-and-feel/issues/1) in [zayronxio/deepin2022-look-and-feel](https://github.com/zayronxio/deepin2022-look-and-feel)
+1. ❗️ Opened issue [#79](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/79) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+2. 🗣 Commented on [#3](https://github.com/osadavc/strapi-newsletter/issues/3) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
+3. 🗣 Commented on [#4997](https://github.com/pnpm/pnpm/issues/4997) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+4. ❗️ Opened issue [#12](https://github.com/yeyushengfan258/DeepinV20-kde/issues/12) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
+5. 🗣 Commented on [#9](https://github.com/yeyushengfan258/DeepinV20-kde/issues/9) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
   <!--END_SECTION:activity-->
 </details>
 
