@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-4. 🗣 Commented on [#79](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/79) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-5. ❗️ Closed issue [#13](https://github.com/libin9iOak/ja-netfilter-all/issues/13) in [libin9iOak/ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all)
+2. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+3. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
