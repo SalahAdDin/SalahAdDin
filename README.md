@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-2. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
-4. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-5. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#819](https://github.com/ueberdosis/tiptap/issues/819) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+3. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#64](https://github.com/boazpoolman/strapi-plugin-config-sync/issues/64) in [boazpoolman/strapi-plugin-config-sync](https://github.com/boazpoolman/strapi-plugin-config-sync)
+5. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
