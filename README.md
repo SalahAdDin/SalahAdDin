@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
-3. 🗣 Commented on [#819](https://github.com/ueberdosis/tiptap/issues/819) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-5. 🗣 Commented on [#47](https://github.com/dasmikko/strapi-tiptap-editor/issues/47) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
+2. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+4. 🗣 Commented on [#819](https://github.com/ueberdosis/tiptap/issues/819) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 🗣 Commented on [#18](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/18) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
   <!--END_SECTION:activity-->
 </details>
 
