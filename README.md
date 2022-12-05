@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
-2. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-3. 🗣 Commented on [#186](https://github.com/klaudiosinani/ao/issues/186) in [klaudiosinani/ao](https://github.com/klaudiosinani/ao)
-4. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
-5. 🗣 Commented on [#18](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment/issues/18) in [kaaaaaaaaaaai/paragraph-with-alignment](https://github.com/kaaaaaaaaaaai/paragraph-with-alignment)
+2. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+3. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+4. 🗣 Commented on [#186](https://github.com/klaudiosinani/ao/issues/186) in [klaudiosinani/ao](https://github.com/klaudiosinani/ao)
+5. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
   <!--END_SECTION:activity-->
 </details>
 
