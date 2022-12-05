@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+1. 🗣 Commented on [#11](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/11) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
 2. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
-3. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
-4. 🗣 Commented on [#186](https://github.com/klaudiosinani/ao/issues/186) in [klaudiosinani/ao](https://github.com/klaudiosinani/ao)
-5. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+3. 🗣 Commented on [#10](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune/issues/10) in [kaaaaaaaaaaai/editorjs-alignment-blocktune](https://github.com/kaaaaaaaaaaai/editorjs-alignment-blocktune)
+4. 🗣 Commented on [#14](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/14) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+5. 🗣 Commented on [#186](https://github.com/klaudiosinani/ao/issues/186) in [klaudiosinani/ao](https://github.com/klaudiosinani/ao)
   <!--END_SECTION:activity-->
 </details>
 
