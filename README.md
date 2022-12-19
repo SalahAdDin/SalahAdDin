@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
-2. 🗣 Commented on [#453](https://github.com/colinhacks/zod/issues/453) in [colinhacks/zod](https://github.com/colinhacks/zod)
-3. 🗣 Commented on [#22](https://github.com/trivago/prettier-plugin-sort-imports/issues/22) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
-4. 🗣 Commented on [#12](https://github.com/yeyushengfan258/DeepinV20-kde/issues/12) in [yeyushengfan258/DeepinV20-kde](https://github.com/yeyushengfan258/DeepinV20-kde)
-5. 🗣 Commented on [#7935](https://github.com/vitejs/vite/issues/7935) in [vitejs/vite](https://github.com/vitejs/vite)
+1. 🗣 Commented on [#188](https://github.com/editor-js/image/issues/188) in [editor-js/image](https://github.com/editor-js/image)
+2. 🗣 Commented on [#172](https://github.com/editor-js/image/issues/172) in [editor-js/image](https://github.com/editor-js/image)
+3. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+4. 🗣 Commented on [#453](https://github.com/colinhacks/zod/issues/453) in [colinhacks/zod](https://github.com/colinhacks/zod)
+5. 🗣 Commented on [#22](https://github.com/trivago/prettier-plugin-sort-imports/issues/22) in [trivago/prettier-plugin-sort-imports](https://github.com/trivago/prettier-plugin-sort-imports)
   <!--END_SECTION:activity-->
 </details>
 
