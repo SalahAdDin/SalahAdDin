@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-2. ❗️ Closed issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-3. 🗣 Commented on [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-4. ❗️ Opened issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-5. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+2. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+3. ❗️ Closed issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+4. 🗣 Commented on [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+5. ❗️ Opened issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
   <!--END_SECTION:activity-->
 </details>
 
