@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-2. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-3. 🗣 Commented on [#188](https://github.com/editor-js/image/issues/188) in [editor-js/image](https://github.com/editor-js/image)
-4. 🗣 Commented on [#172](https://github.com/editor-js/image/issues/172) in [editor-js/image](https://github.com/editor-js/image)
-5. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+1. ❗️ Closed issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+2. 🗣 Commented on [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+3. ❗️ Opened issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+4. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+5. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
   <!--END_SECTION:activity-->
 </details>
 
