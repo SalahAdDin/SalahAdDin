@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14879](https://github.com/strapi/strapi/issues/14879) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#15145](https://github.com/strapi/strapi/issues/15145) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-4. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-5. ❗️ Closed issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+1. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+2. 🗣 Commented on [#51](https://github.com/dasmikko/strapi-tiptap-editor/issues/51) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 🗣 Commented on [#14879](https://github.com/strapi/strapi/issues/14879) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#15145](https://github.com/strapi/strapi/issues/15145) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
   <!--END_SECTION:activity-->
 </details>
 
