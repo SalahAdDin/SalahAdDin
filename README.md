@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-2. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-3. ❗️ Closed issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-4. 🗣 Commented on [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-5. ❗️ Opened issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+1. 🗣 Commented on [#14879](https://github.com/strapi/strapi/issues/14879) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#15145](https://github.com/strapi/strapi/issues/15145) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+4. 🗣 Commented on [#1007](https://github.com/TypeStrong/ts-node/issues/1007) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+5. ❗️ Closed issue [#1245](https://github.com/okonet/lint-staged/issues/1245) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
   <!--END_SECTION:activity-->
 </details>
 
