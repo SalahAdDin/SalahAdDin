@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1451](https://github.com/ueberdosis/tiptap/issues/1451) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-2. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 🗣 Commented on [#51](https://github.com/dasmikko/strapi-tiptap-editor/issues/51) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-4. 🗣 Commented on [#14879](https://github.com/strapi/strapi/issues/14879) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#15145](https://github.com/strapi/strapi/issues/15145) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 🗣 Commented on [#1451](https://github.com/ueberdosis/tiptap/issues/1451) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+3. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#51](https://github.com/dasmikko/strapi-tiptap-editor/issues/51) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#14879](https://github.com/strapi/strapi/issues/14879) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
