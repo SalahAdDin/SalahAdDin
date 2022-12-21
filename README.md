@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-2. 🗣 Commented on [#1003](https://github.com/ProseMirror/prosemirror/issues/1003) in [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror)
-3. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#1451](https://github.com/ueberdosis/tiptap/issues/1451) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🗣 Commented on [#1](https://github.com/dasmikko/strapi-tiptap-editor/issues/1) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#2150](https://github.com/ueberdosis/tiptap/issues/2150) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+3. 🗣 Commented on [#3497](https://github.com/ueberdosis/tiptap/issues/3497) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+4. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 🗣 Commented on [#1003](https://github.com/ProseMirror/prosemirror/issues/1003) in [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror)
   <!--END_SECTION:activity-->
 </details>
 
