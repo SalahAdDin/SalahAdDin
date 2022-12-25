@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-2. 🗣 Commented on [#44](https://github.com/dasmikko/strapi-tiptap-editor/issues/44) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#8](https://github.com/ProseMirror/prosemirror-gapcursor/issues/8) in [ProseMirror/prosemirror-gapcursor](https://github.com/ProseMirror/prosemirror-gapcursor)
-5. 💪 Opened PR [#8](https://github.com/ProseMirror/prosemirror-gapcursor/pull/8) in [ProseMirror/prosemirror-gapcursor](https://github.com/ProseMirror/prosemirror-gapcursor)
+2. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+3. 🗣 Commented on [#44](https://github.com/dasmikko/strapi-tiptap-editor/issues/44) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 🗣 Commented on [#8](https://github.com/ProseMirror/prosemirror-gapcursor/issues/8) in [ProseMirror/prosemirror-gapcursor](https://github.com/ProseMirror/prosemirror-gapcursor)
   <!--END_SECTION:activity-->
 </details>
 
