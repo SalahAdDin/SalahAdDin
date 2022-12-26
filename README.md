@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. 🗣 Commented on [#3251](https://github.com/conventional-changelog/commitlint/issues/3251) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
 2. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-3. 🗣 Commented on [#44](https://github.com/dasmikko/strapi-tiptap-editor/issues/44) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-4. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🗣 Commented on [#8](https://github.com/ProseMirror/prosemirror-gapcursor/issues/8) in [ProseMirror/prosemirror-gapcursor](https://github.com/ProseMirror/prosemirror-gapcursor)
+3. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+4. 🗣 Commented on [#44](https://github.com/dasmikko/strapi-tiptap-editor/issues/44) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
   <!--END_SECTION:activity-->
 </details>
 
