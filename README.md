@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
-3. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
-4. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
-5. 🗣 Commented on [#3251](https://github.com/conventional-changelog/commitlint/issues/3251) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+1. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
+2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+4. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+5. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
   <!--END_SECTION:activity-->
 </details>
 
