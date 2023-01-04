@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
-5. 🗣 Commented on [#213](https://github.com/Jungwoo-An/react-editor-js/issues/213) in [Jungwoo-An/react-editor-js](https://github.com/Jungwoo-An/react-editor-js)
+2. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
+4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
   <!--END_SECTION:activity-->
 </details>
 
