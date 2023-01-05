@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-3. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
-4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512) in [mui/material-ui](https://github.com/mui/material-ui)
+1. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#193](https://github.com/django-ckeditor/django-ckeditor/issues/193) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
+3. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+4. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
