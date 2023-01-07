@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#193](https://github.com/django-ckeditor/django-ckeditor/issues/193) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
-4. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#2856](https://github.com/jsx-eslint/eslint-plugin-react/issues/2856) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+2. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#193](https://github.com/django-ckeditor/django-ckeditor/issues/193) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
 5. 🗣 Commented on [#46](https://github.com/dasmikko/strapi-tiptap-editor/issues/46) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
