@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#393](https://github.com/varietywalls/variety/issues/393) in [varietywalls/variety](https://github.com/varietywalls/variety)
-2. 🗣 Commented on [#1824](https://github.com/typescript-eslint/typescript-eslint/issues/1824) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-3. 🗣 Commented on [#113](https://github.com/zino-hofmann/graphql-flutter/issues/113) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-4. 🗣 Commented on [#819](https://github.com/ueberdosis/tiptap/issues/819) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🗣 Commented on [#2856](https://github.com/jsx-eslint/eslint-plugin-react/issues/2856) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+1. 🗣 Commented on [#3492](https://github.com/ueberdosis/tiptap/issues/3492) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 🗣 Commented on [#393](https://github.com/varietywalls/variety/issues/393) in [varietywalls/variety](https://github.com/varietywalls/variety)
+3. 🗣 Commented on [#1824](https://github.com/typescript-eslint/typescript-eslint/issues/1824) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+4. 🗣 Commented on [#113](https://github.com/zino-hofmann/graphql-flutter/issues/113) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+5. 🗣 Commented on [#819](https://github.com/ueberdosis/tiptap/issues/819) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
   <!--END_SECTION:activity-->
 </details>
 
