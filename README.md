@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#497](https://github.com/TanStack/router/issues/497) in [TanStack/router](https://github.com/TanStack/router)
-2. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445) in [TanStack/router](https://github.com/TanStack/router)
-3. ❗️ Opened issue [#495](https://github.com/TanStack/router/issues/495) in [TanStack/router](https://github.com/TanStack/router)
-4. 🗣 Commented on [#460](https://github.com/testing-library/jest-dom/issues/460) in [testing-library/jest-dom](https://github.com/testing-library/jest-dom)
-5. 🗣 Commented on [#13518](https://github.com/nrwl/nx/issues/13518) in [nrwl/nx](https://github.com/nrwl/nx)
+1. 🗣 Commented on [#496](https://github.com/TanStack/router/issues/496) in [TanStack/router](https://github.com/TanStack/router)
+2. 🗣 Commented on [#497](https://github.com/TanStack/router/issues/497) in [TanStack/router](https://github.com/TanStack/router)
+3. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445) in [TanStack/router](https://github.com/TanStack/router)
+4. ❗️ Opened issue [#495](https://github.com/TanStack/router/issues/495) in [TanStack/router](https://github.com/TanStack/router)
+5. 🗣 Commented on [#460](https://github.com/testing-library/jest-dom/issues/460) in [testing-library/jest-dom](https://github.com/testing-library/jest-dom)
   <!--END_SECTION:activity-->
 </details>
 
