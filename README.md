@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3251](https://github.com/conventional-changelog/commitlint/issues/3251) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-2. 🎉 Merged PR [#1](https://github.com/SalahAdDin/react-ts-vite-template/pull/1) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-3. 💪 Opened PR [#1](https://github.com/SalahAdDin/react-ts-vite-template/pull/1) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-4. 🗣 Commented on [#11122](https://github.com/microsoft/playwright/issues/11122) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 🗣 Commented on [#10584](https://github.com/microsoft/playwright/issues/10584) in [microsoft/playwright](https://github.com/microsoft/playwright)
+1. ❗️ Opened issue [#1333](https://github.com/jest-community/eslint-plugin-jest/issues/1333) in [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
+2. 🗣 Commented on [#3251](https://github.com/conventional-changelog/commitlint/issues/3251) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+3. 🎉 Merged PR [#1](https://github.com/SalahAdDin/react-ts-vite-template/pull/1) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+4. 💪 Opened PR [#1](https://github.com/SalahAdDin/react-ts-vite-template/pull/1) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+5. 🗣 Commented on [#11122](https://github.com/microsoft/playwright/issues/11122) in [microsoft/playwright](https://github.com/microsoft/playwright)
   <!--END_SECTION:activity-->
 </details>
 
