@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
-2. ❗️ Opened issue [#1333](https://github.com/jest-community/eslint-plugin-jest/issues/1333) in [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
-3. 🗣 Commented on [#3251](https://github.com/conventional-changelog/commitlint/issues/3251) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-4. 🎉 Merged PR [#1](https://github.com/SalahAdDin/react-ts-vite-template/pull/1) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-5. 💪 Opened PR [#1](https://github.com/SalahAdDin/react-ts-vite-template/pull/1) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+1. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+2. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+3. ❗️ Opened issue [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+4. ❗️ Opened issue [#1333](https://github.com/jest-community/eslint-plugin-jest/issues/1333) in [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
+5. 🗣 Commented on [#3251](https://github.com/conventional-changelog/commitlint/issues/3251) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
   <!--END_SECTION:activity-->
 </details>
 
