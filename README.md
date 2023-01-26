@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
-2. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+1. 🗣 Commented on [#5106](https://github.com/axios/axios/issues/5106) in [axios/axios](https://github.com/axios/axios)
+2. 🗣 Commented on [#3444](https://github.com/axios/axios/issues/3444) in [axios/axios](https://github.com/axios/axios)
 3. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
-4. ❗️ Opened issue [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
-5. ❗️ Opened issue [#1333](https://github.com/jest-community/eslint-plugin-jest/issues/1333) in [jest-community/eslint-plugin-jest](https://github.com/jest-community/eslint-plugin-jest)
+4. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+5. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
   <!--END_SECTION:activity-->
 </details>
 
