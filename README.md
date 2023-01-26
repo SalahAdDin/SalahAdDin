@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1584](https://github.com/vuejs/vue-cli/issues/1584) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
-2. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
-3. 🗣 Commented on [#5106](https://github.com/axios/axios/issues/5106) in [axios/axios](https://github.com/axios/axios)
-4. 🗣 Commented on [#3444](https://github.com/axios/axios/issues/3444) in [axios/axios](https://github.com/axios/axios)
-5. 🗣 Commented on [#289](https://github.com/testing-library/eslint-plugin-jest-dom/issues/289) in [testing-library/eslint-plugin-jest-dom](https://github.com/testing-library/eslint-plugin-jest-dom)
+1. 🗣 Commented on [#3444](https://github.com/axios/axios/issues/3444) in [axios/axios](https://github.com/axios/axios)
+2. 🗣 Commented on [#1584](https://github.com/vuejs/vue-cli/issues/1584) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
+3. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+4. 🗣 Commented on [#5106](https://github.com/axios/axios/issues/5106) in [axios/axios](https://github.com/axios/axios)
+5. 🗣 Commented on [#3444](https://github.com/axios/axios/issues/3444) in [axios/axios](https://github.com/axios/axios)
   <!--END_SECTION:activity-->
 </details>
 
