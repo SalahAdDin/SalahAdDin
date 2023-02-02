@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/weekwood/editorjs-video/issues/2) in [weekwood/editorjs-video](https://github.com/weekwood/editorjs-video)
-2. 🗣 Commented on [#13](https://github.com/libin9iOak/ja-netfilter-all/issues/13) in [libin9iOak/ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all)
-3. 🗣 Commented on [#3444](https://github.com/axios/axios/issues/3444) in [axios/axios](https://github.com/axios/axios)
-4. 🗣 Commented on [#1584](https://github.com/vuejs/vue-cli/issues/1584) in [vuejs/vue-cli](https://github.com/vuejs/vue-cli)
-5. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+1. 🗣 Commented on [#13919](https://github.com/strapi/strapi/issues/13919) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#3497](https://github.com/ueberdosis/tiptap/issues/3497) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+3. 🗣 Commented on [#2](https://github.com/weekwood/editorjs-video/issues/2) in [weekwood/editorjs-video](https://github.com/weekwood/editorjs-video)
+4. 🗣 Commented on [#13](https://github.com/libin9iOak/ja-netfilter-all/issues/13) in [libin9iOak/ja-netfilter-all](https://github.com/libin9iOak/ja-netfilter-all)
+5. 🗣 Commented on [#3444](https://github.com/axios/axios/issues/3444) in [axios/axios](https://github.com/axios/axios)
   <!--END_SECTION:activity-->
 </details>
 
