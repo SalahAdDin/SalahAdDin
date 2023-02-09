@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
-2. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-3. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
-4. 🗣 Commented on [#13919](https://github.com/strapi/strapi/issues/13919) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#3497](https://github.com/ueberdosis/tiptap/issues/3497) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. 🗣 Commented on [#25636](https://github.com/microsoft/TypeScript/issues/25636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. 🗣 Commented on [#905](https://github.com/TypeStrong/ts-loader/issues/905) in [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader)
+3. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
+4. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#524](https://github.com/Milad-Akarie/auto_route_library/issues/524) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
   <!--END_SECTION:activity-->
 </details>
 
