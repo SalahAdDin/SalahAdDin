@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 🗣 Commented on [#25636](https://github.com/microsoft/TypeScript/issues/25636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-3. 🗣 Commented on [#905](https://github.com/TypeStrong/ts-loader/issues/905) in [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader)
-4. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
-5. 🗣 Commented on [#20](https://github.com/strapi/strapi-plugin-seo/issues/20) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+2. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 🗣 Commented on [#25636](https://github.com/microsoft/TypeScript/issues/25636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+4. 🗣 Commented on [#905](https://github.com/TypeStrong/ts-loader/issues/905) in [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader)
+5. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
   <!--END_SECTION:activity-->
 </details>
 
