@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
-3. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#25636](https://github.com/microsoft/TypeScript/issues/25636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-5. 🗣 Commented on [#905](https://github.com/TypeStrong/ts-loader/issues/905) in [TypeStrong/ts-loader](https://github.com/TypeStrong/ts-loader)
+1. 🗣 Commented on [#371](https://github.com/mrvautin/openKB/issues/371) in [mrvautin/openKB](https://github.com/mrvautin/openKB)
+2. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+4. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. 🗣 Commented on [#25636](https://github.com/microsoft/TypeScript/issues/25636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
   <!--END_SECTION:activity-->
 </details>
 
