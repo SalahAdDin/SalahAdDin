@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#371](https://github.com/mrvautin/openKB/issues/371) in [mrvautin/openKB](https://github.com/mrvautin/openKB)
-2. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
-4. 🗣 Commented on [#7035](https://github.com/microsoft/playwright/issues/7035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 🗣 Commented on [#25636](https://github.com/microsoft/TypeScript/issues/25636) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. 🗣 Commented on [#11](https://github.com/deathau/Notation-for-Obsidian/issues/11) in [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian)
+2. ❗️ Closed issue [#544](https://github.com/kepano/obsidian-minimal/issues/544) in [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)
+3. 🗣 Commented on [#166](https://github.com/ceciliamay/obsidianmd-theme-primary/issues/166) in [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
+4. ❗️ Opened issue [#544](https://github.com/kepano/obsidian-minimal/issues/544) in [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)
+5. 🗣 Commented on [#103](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/issues/103) in [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
   <!--END_SECTION:activity-->
 </details>
 
