@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#168](https://github.com/ceciliamay/obsidianmd-theme-primary/issues/168) in [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
-2. 🗣 Commented on [#11](https://github.com/deathau/Notation-for-Obsidian/issues/11) in [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian)
-3. ❗️ Closed issue [#544](https://github.com/kepano/obsidian-minimal/issues/544) in [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)
-4. 🗣 Commented on [#166](https://github.com/ceciliamay/obsidianmd-theme-primary/issues/166) in [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
-5. ❗️ Opened issue [#544](https://github.com/kepano/obsidian-minimal/issues/544) in [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)
+1. 🎉 Merged PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+2. 💪 Opened PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+3. 🗣 Commented on [#168](https://github.com/ceciliamay/obsidianmd-theme-primary/issues/168) in [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
+4. 🗣 Commented on [#11](https://github.com/deathau/Notation-for-Obsidian/issues/11) in [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian)
+5. ❗️ Closed issue [#544](https://github.com/kepano/obsidian-minimal/issues/544) in [kepano/obsidian-minimal](https://github.com/kepano/obsidian-minimal)
   <!--END_SECTION:activity-->
 </details>
 
