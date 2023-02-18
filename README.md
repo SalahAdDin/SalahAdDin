@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-2. 🎉 Merged PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-3. 💪 Opened PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-4. 🗣 Commented on [#168](https://github.com/ceciliamay/obsidianmd-theme-primary/issues/168) in [ceciliamay/obsidianmd-theme-primary](https://github.com/ceciliamay/obsidianmd-theme-primary)
-5. 🗣 Commented on [#11](https://github.com/deathau/Notation-for-Obsidian/issues/11) in [deathau/Notation-for-Obsidian](https://github.com/deathau/Notation-for-Obsidian)
+1. 🗣 Commented on [#80](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/80) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+2. 🗣 Commented on [#27](https://github.com/jrgarciadev/react-iconly/issues/27) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
+3. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+4. 🎉 Merged PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+5. 💪 Opened PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
   <!--END_SECTION:activity-->
 </details>
 
