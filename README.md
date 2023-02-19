@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/chaance/vitest-dom/issues/1) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
-2. 🗣 Commented on [#80](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/80) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
-3. 🗣 Commented on [#27](https://github.com/jrgarciadev/react-iconly/issues/27) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
-4. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-5. 🎉 Merged PR [#2](https://github.com/SalahAdDin/react-ts-vite-template/pull/2) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+1. 🗣 Commented on [#80](https://github.com/vinceliuice/WhiteSur-kde/issues/80) in [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde)
+2. 🗣 Commented on [#1](https://github.com/chaance/vitest-dom/issues/1) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
+3. 🗣 Commented on [#80](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/80) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+4. 🗣 Commented on [#27](https://github.com/jrgarciadev/react-iconly/issues/27) in [jrgarciadev/react-iconly](https://github.com/jrgarciadev/react-iconly)
+5. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
   <!--END_SECTION:activity-->
 </details>
 
