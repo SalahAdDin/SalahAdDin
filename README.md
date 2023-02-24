@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1321](https://github.com/vitest-dev/vitest/issues/1321) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+1. 🗣 Commented on [#179](https://github.com/lynchjames/obsidian-day-planner/issues/179) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
 2. 🗣 Commented on [#1321](https://github.com/vitest-dev/vitest/issues/1321) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-3. 🗣 Commented on [#80](https://github.com/vinceliuice/WhiteSur-kde/issues/80) in [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde)
-4. 🗣 Commented on [#1](https://github.com/chaance/vitest-dom/issues/1) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
-5. 🗣 Commented on [#80](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/80) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+3. 🗣 Commented on [#1321](https://github.com/vitest-dev/vitest/issues/1321) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+4. 🗣 Commented on [#80](https://github.com/vinceliuice/WhiteSur-kde/issues/80) in [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde)
+5. 🗣 Commented on [#1](https://github.com/chaance/vitest-dom/issues/1) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
   <!--END_SECTION:activity-->
 </details>
 
