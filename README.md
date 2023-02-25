@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#179](https://github.com/lynchjames/obsidian-day-planner/issues/179) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
-2. 🗣 Commented on [#179](https://github.com/lynchjames/obsidian-day-planner/issues/179) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
-3. 🗣 Commented on [#1321](https://github.com/vitest-dev/vitest/issues/1321) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-4. 🗣 Commented on [#1321](https://github.com/vitest-dev/vitest/issues/1321) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-5. 🗣 Commented on [#80](https://github.com/vinceliuice/WhiteSur-kde/issues/80) in [vinceliuice/WhiteSur-kde](https://github.com/vinceliuice/WhiteSur-kde)
+1. ❗️ Opened issue [#28](https://github.com/tokenshift/obsidian-page-gallery/issues/28) in [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
+2. 🗣 Commented on [#187](https://github.com/blacksmithgu/obsidian-dataview/issues/187) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
+3. 🗣 Commented on [#179](https://github.com/lynchjames/obsidian-day-planner/issues/179) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
+4. 🗣 Commented on [#179](https://github.com/lynchjames/obsidian-day-planner/issues/179) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
+5. 🗣 Commented on [#1321](https://github.com/vitest-dev/vitest/issues/1321) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
   <!--END_SECTION:activity-->
 </details>
 
