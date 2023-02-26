@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16229](https://github.com/docker/docs/issues/16229) in [docker/docs](https://github.com/docker/docs)
+1. ❗️ Opened issue [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
 2. 🗣 Commented on [#16229](https://github.com/docker/docs/issues/16229) in [docker/docs](https://github.com/docker/docs)
-3. 🗣 Commented on [#2097](https://github.com/django-oscar/django-oscar/issues/2097) in [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar)
-4. 🗣 Commented on [#8](https://github.com/michaelkuty/django-oscar-cash-on-delivery/issues/8) in [michaelkuty/django-oscar-cash-on-delivery](https://github.com/michaelkuty/django-oscar-cash-on-delivery)
-5. ❗️ Opened issue [#441](https://github.com/marcusolsson/obsidian-projects/issues/441) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
+3. 🗣 Commented on [#16229](https://github.com/docker/docs/issues/16229) in [docker/docs](https://github.com/docker/docs)
+4. 🗣 Commented on [#2097](https://github.com/django-oscar/django-oscar/issues/2097) in [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar)
+5. 🗣 Commented on [#8](https://github.com/michaelkuty/django-oscar-cash-on-delivery/issues/8) in [michaelkuty/django-oscar-cash-on-delivery](https://github.com/michaelkuty/django-oscar-cash-on-delivery)
   <!--END_SECTION:activity-->
 </details>
 
