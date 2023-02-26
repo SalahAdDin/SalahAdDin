@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#441](https://github.com/marcusolsson/obsidian-projects/issues/441) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
-2. ❗️ Opened issue [#440](https://github.com/marcusolsson/obsidian-projects/issues/440) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
-3. ❗️ Opened issue [#28](https://github.com/tokenshift/obsidian-page-gallery/issues/28) in [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
-4. 🗣 Commented on [#187](https://github.com/blacksmithgu/obsidian-dataview/issues/187) in [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview)
-5. 🗣 Commented on [#179](https://github.com/lynchjames/obsidian-day-planner/issues/179) in [lynchjames/obsidian-day-planner](https://github.com/lynchjames/obsidian-day-planner)
+1. 🗣 Commented on [#2097](https://github.com/django-oscar/django-oscar/issues/2097) in [django-oscar/django-oscar](https://github.com/django-oscar/django-oscar)
+2. 🗣 Commented on [#8](https://github.com/michaelkuty/django-oscar-cash-on-delivery/issues/8) in [michaelkuty/django-oscar-cash-on-delivery](https://github.com/michaelkuty/django-oscar-cash-on-delivery)
+3. ❗️ Opened issue [#441](https://github.com/marcusolsson/obsidian-projects/issues/441) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
+4. ❗️ Opened issue [#440](https://github.com/marcusolsson/obsidian-projects/issues/440) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
+5. ❗️ Opened issue [#28](https://github.com/tokenshift/obsidian-page-gallery/issues/28) in [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
   <!--END_SECTION:activity-->
 </details>
 
