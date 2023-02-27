@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445) in [TanStack/router](https://github.com/TanStack/router)
-2. ❗️ Opened issue [#301](https://github.com/elias-sundqvist/obsidian-annotator/issues/301) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
-3. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-4. ❗️ Opened issue [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-5. 🗣 Commented on [#16229](https://github.com/docker/docs/issues/16229) in [docker/docs](https://github.com/docker/docs)
+1. ❗️ Opened issue [#62](https://github.com/kepano/obsidian-minimal-settings/issues/62) in [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings)
+2. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445) in [TanStack/router](https://github.com/TanStack/router)
+3. ❗️ Opened issue [#301](https://github.com/elias-sundqvist/obsidian-annotator/issues/301) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
+4. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+5. ❗️ Opened issue [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
   <!--END_SECTION:activity-->
 </details>
 
