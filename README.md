@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#62](https://github.com/kepano/obsidian-minimal-settings/issues/62) in [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings)
-2. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445) in [TanStack/router](https://github.com/TanStack/router)
-3. ❗️ Opened issue [#301](https://github.com/elias-sundqvist/obsidian-annotator/issues/301) in [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)
-4. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-5. ❗️ Opened issue [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+1. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+2. 🗣 Commented on [#28](https://github.com/tokenshift/obsidian-page-gallery/issues/28) in [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
+3. ❗️ Opened issue [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+4. ❗️ Opened issue [#62](https://github.com/kepano/obsidian-minimal-settings/issues/62) in [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings)
+5. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445) in [TanStack/router](https://github.com/TanStack/router)
   <!--END_SECTION:activity-->
 </details>
 
