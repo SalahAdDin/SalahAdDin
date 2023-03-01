@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-2. 🗣 Commented on [#25816](https://github.com/brave/brave-browser/issues/25816) in [brave/brave-browser](https://github.com/brave/brave-browser)
-3. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-4. 🗣 Commented on [#28](https://github.com/tokenshift/obsidian-page-gallery/issues/28) in [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
-5. ❗️ Opened issue [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+1. 🗣 Commented on [#96](https://github.com/docker/desktop-linux/issues/96) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+2. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+3. 🗣 Commented on [#25816](https://github.com/brave/brave-browser/issues/25816) in [brave/brave-browser](https://github.com/brave/brave-browser)
+4. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+5. 🗣 Commented on [#28](https://github.com/tokenshift/obsidian-page-gallery/issues/28) in [tokenshift/obsidian-page-gallery](https://github.com/tokenshift/obsidian-page-gallery)
   <!--END_SECTION:activity-->
 </details>
 
