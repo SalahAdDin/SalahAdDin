@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/pyrochlore/obsidian-tracker/issues/177) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-2. 🗣 Commented on [#113](https://github.com/pyrochlore/obsidian-tracker/issues/113) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-3. 🗣 Commented on [#117](https://github.com/pyrochlore/obsidian-tracker/issues/117) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-4. 🗣 Commented on [#96](https://github.com/docker/desktop-linux/issues/96) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
-5. 🗣 Commented on [#96](https://github.com/docker/desktop-linux/issues/96) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+1. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+2. 🗣 Commented on [#94](https://github.com/pyrochlore/obsidian-tracker/issues/94) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+3. 🗣 Commented on [#177](https://github.com/pyrochlore/obsidian-tracker/issues/177) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+4. 🗣 Commented on [#113](https://github.com/pyrochlore/obsidian-tracker/issues/113) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+5. 🗣 Commented on [#117](https://github.com/pyrochlore/obsidian-tracker/issues/117) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
   <!--END_SECTION:activity-->
 </details>
 
