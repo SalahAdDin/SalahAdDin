@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/pyrochlore/obsidian-tracker/issues/37) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-2. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-3. 🗣 Commented on [#94](https://github.com/pyrochlore/obsidian-tracker/issues/94) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-4. 🗣 Commented on [#177](https://github.com/pyrochlore/obsidian-tracker/issues/177) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-5. 🗣 Commented on [#113](https://github.com/pyrochlore/obsidian-tracker/issues/113) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+1. 🗣 Commented on [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+2. 🗣 Commented on [#37](https://github.com/pyrochlore/obsidian-tracker/issues/37) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+3. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+4. 🗣 Commented on [#94](https://github.com/pyrochlore/obsidian-tracker/issues/94) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+5. 🗣 Commented on [#177](https://github.com/pyrochlore/obsidian-tracker/issues/177) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
   <!--END_SECTION:activity-->
 </details>
 
