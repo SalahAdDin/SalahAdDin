@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
-3. 🗣 Commented on [#37](https://github.com/pyrochlore/obsidian-tracker/issues/37) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-4. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-5. 🗣 Commented on [#94](https://github.com/pyrochlore/obsidian-tracker/issues/94) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+1. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+2. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+3. 🗣 Commented on [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+4. 🗣 Commented on [#37](https://github.com/pyrochlore/obsidian-tracker/issues/37) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+5. 🗣 Commented on [#5](https://github.com/replete/obsidian-day-planner/issues/5) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
   <!--END_SECTION:activity-->
 </details>
 
