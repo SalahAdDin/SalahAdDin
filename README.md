@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/replete/obsidian-day-planner/issues/8) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-2. 🗣 Commented on [#7](https://github.com/replete/obsidian-day-planner/issues/7) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-5. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+1. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
+2. ❗️ Opened issue [#8](https://github.com/replete/obsidian-day-planner/issues/8) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+3. 🗣 Commented on [#7](https://github.com/replete/obsidian-day-planner/issues/7) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#1193](https://github.com/vitest-dev/vitest/issues/1193) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
   <!--END_SECTION:activity-->
 </details>
 
