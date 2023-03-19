@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#440](https://github.com/marcusolsson/obsidian-projects/issues/440) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
-2. 🗣 Commented on [#441](https://github.com/marcusolsson/obsidian-projects/issues/441) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
-3. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
-5. ❗️ Opened issue [#8](https://github.com/replete/obsidian-day-planner/issues/8) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
+1. 🗣 Commented on [#662](https://github.com/vanilla-extract-css/vanilla-extract/issues/662) in [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract)
+2. 🗣 Commented on [#440](https://github.com/marcusolsson/obsidian-projects/issues/440) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
+3. 🗣 Commented on [#441](https://github.com/marcusolsson/obsidian-projects/issues/441) in [marcusolsson/obsidian-projects](https://github.com/marcusolsson/obsidian-projects)
+4. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
   <!--END_SECTION:activity-->
 </details>
 
