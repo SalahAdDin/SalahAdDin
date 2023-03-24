@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
+1. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
 2. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
-3. 🗣 Commented on [#3916](https://github.com/socketio/socket.io/issues/3916) in [socketio/socket.io](https://github.com/socketio/socket.io)
-4. 🗣 Commented on [#3417](https://github.com/ueberdosis/tiptap/issues/3417) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🗣 Commented on [#97](https://github.com/docker/desktop-linux/issues/97) in [docker/desktop-linux](https://github.com/docker/desktop-linux)
+3. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
+4. 🗣 Commented on [#3916](https://github.com/socketio/socket.io/issues/3916) in [socketio/socket.io](https://github.com/socketio/socket.io)
+5. 🗣 Commented on [#3417](https://github.com/ueberdosis/tiptap/issues/3417) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
   <!--END_SECTION:activity-->
 </details>
 
