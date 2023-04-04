@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
-2. 🗣 Commented on [#38](https://github.com/dasmikko/strapi-tiptap-editor/issues/38) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#103](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/issues/103) in [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
 3. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
-4. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
-5. 🗣 Commented on [#1227](https://github.com/mswjs/msw/issues/1227) in [mswjs/msw](https://github.com/mswjs/msw)
+4. 🗣 Commented on [#38](https://github.com/dasmikko/strapi-tiptap-editor/issues/38) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+5. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
   <!--END_SECTION:activity-->
 </details>
 
