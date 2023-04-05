@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
-2. 🗣 Commented on [#1134](https://github.com/itinance/react-native-fs/issues/1134) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
+3. 🗣 Commented on [#1134](https://github.com/itinance/react-native-fs/issues/1134) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
 4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#103](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/issues/103) in [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
