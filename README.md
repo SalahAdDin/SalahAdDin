@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#103](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/issues/103) in [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
-3. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
-4. 🗣 Commented on [#38](https://github.com/dasmikko/strapi-tiptap-editor/issues/38) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-5. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
+2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#103](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme/issues/103) in [chetachiezikeuzor/Yin-and-Yang-Theme](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme)
+4. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
+5. 🗣 Commented on [#38](https://github.com/dasmikko/strapi-tiptap-editor/issues/38) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
