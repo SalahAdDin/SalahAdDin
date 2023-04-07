@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
+1. 🗣 Commented on [#1451](https://github.com/ueberdosis/tiptap/issues/1451) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
 2. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
-3. 🗣 Commented on [#1134](https://github.com/itinance/react-native-fs/issues/1134) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
-4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
+4. 🗣 Commented on [#1134](https://github.com/itinance/react-native-fs/issues/1134) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
 5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
