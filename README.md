@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-2. 🗣 Commented on [#8](https://github.com/replete/obsidian-day-planner/issues/8) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
-3. 🗣 Commented on [#1451](https://github.com/ueberdosis/tiptap/issues/1451) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
-5. 🗣 Commented on [#370](https://github.com/itinance/react-native-fs/issues/370) in [itinance/react-native-fs](https://github.com/itinance/react-native-fs)
+2. 🗣 Commented on [#69](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/69) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 🗣 Commented on [#8](https://github.com/replete/obsidian-day-planner/issues/8) in [replete/obsidian-day-planner](https://github.com/replete/obsidian-day-planner)
   <!--END_SECTION:activity-->
 </details>
 
