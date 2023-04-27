@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-3. 🗣 Commented on [#69](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/69) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
-4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#3563](https://github.com/ueberdosis/tiptap/issues/3563) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+4. 🗣 Commented on [#69](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/69) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
