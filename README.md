@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#65](https://github.com/dasmikko/strapi-tiptap-editor/issues/65) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-2. 🗣 Commented on [#195](https://github.com/Aelto/tw3-random-encounters-reworked/issues/195) in [Aelto/tw3-random-encounters-reworked](https://github.com/Aelto/tw3-random-encounters-reworked)
-3. ❗️ Opened issue [#195](https://github.com/Aelto/tw3-random-encounters-reworked/issues/195) in [Aelto/tw3-random-encounters-reworked](https://github.com/Aelto/tw3-random-encounters-reworked)
-4. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. 🗣 Commented on [#17](https://github.com/strapi/strapi-plugin-seo/issues/17) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+2. 🗣 Commented on [#65](https://github.com/dasmikko/strapi-tiptap-editor/issues/65) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
+3. 🗣 Commented on [#195](https://github.com/Aelto/tw3-random-encounters-reworked/issues/195) in [Aelto/tw3-random-encounters-reworked](https://github.com/Aelto/tw3-random-encounters-reworked)
+4. ❗️ Opened issue [#195](https://github.com/Aelto/tw3-random-encounters-reworked/issues/195) in [Aelto/tw3-random-encounters-reworked](https://github.com/Aelto/tw3-random-encounters-reworked)
 5. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
   <!--END_SECTION:activity-->
 </details>
