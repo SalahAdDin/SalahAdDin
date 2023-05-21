@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#826](https://github.com/Kong/insomnia/issues/826) in [Kong/insomnia](https://github.com/Kong/insomnia)
-2. 🗣 Commented on [#294](https://github.com/django-ckeditor/django-ckeditor/issues/294) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
-3. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
-4. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
-5. 🗣 Commented on [#17](https://github.com/strapi/strapi-plugin-seo/issues/17) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 🗣 Commented on [#5973](https://github.com/Kong/insomnia/issues/5973) in [Kong/insomnia](https://github.com/Kong/insomnia)
+2. 🗣 Commented on [#826](https://github.com/Kong/insomnia/issues/826) in [Kong/insomnia](https://github.com/Kong/insomnia)
+3. 🗣 Commented on [#294](https://github.com/django-ckeditor/django-ckeditor/issues/294) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
+4. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101) in [axios/axios](https://github.com/axios/axios)
+5. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
   <!--END_SECTION:activity-->
 </details>
 
