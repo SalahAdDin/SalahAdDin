@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/9) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
-2. 🗣 Commented on [#182](https://github.com/django-ckeditor/django-ckeditor/issues/182) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
-3. 🗣 Commented on [#5973](https://github.com/Kong/insomnia/issues/5973) in [Kong/insomnia](https://github.com/Kong/insomnia)
-4. 🗣 Commented on [#826](https://github.com/Kong/insomnia/issues/826) in [Kong/insomnia](https://github.com/Kong/insomnia)
-5. 🗣 Commented on [#294](https://github.com/django-ckeditor/django-ckeditor/issues/294) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
+1. 🗣 Commented on [#156](https://github.com/veler/DevToys/issues/156) in [veler/DevToys](https://github.com/veler/DevToys)
+2. 🗣 Commented on [#9](https://github.com/Baboo7/strapi-plugin-import-export-entries/issues/9) in [Baboo7/strapi-plugin-import-export-entries](https://github.com/Baboo7/strapi-plugin-import-export-entries)
+3. 🗣 Commented on [#182](https://github.com/django-ckeditor/django-ckeditor/issues/182) in [django-ckeditor/django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
+4. 🗣 Commented on [#5973](https://github.com/Kong/insomnia/issues/5973) in [Kong/insomnia](https://github.com/Kong/insomnia)
+5. 🗣 Commented on [#826](https://github.com/Kong/insomnia/issues/826) in [Kong/insomnia](https://github.com/Kong/insomnia)
   <!--END_SECTION:activity-->
 </details>
 
