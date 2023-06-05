@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#66](https://github.com/tranek/GASDocumentation/issues/66) in [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation)
-2. 🗣 Commented on [#70](https://github.com/tranek/GASDocumentation/issues/70) in [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation)
-3. 🗣 Commented on [#78](https://github.com/tranek/GASDocumentation/issues/78) in [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation)
-4. 🗣 Commented on [#23](https://github.com/nvh95/vitest-preview/issues/23) in [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview)
-5. 🗣 Commented on [#22](https://github.com/nvh95/vitest-preview/issues/22) in [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview)
+1. 🗣 Commented on [#11](https://github.com/FrankGrimm/apex7tkl_linux/issues/11) in [FrankGrimm/apex7tkl_linux](https://github.com/FrankGrimm/apex7tkl_linux)
+2. ❗ Opened issue [#38](https://github.com/not-jan/apex-tux/issues/38) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+3. 🗣 Commented on [#66](https://github.com/tranek/GASDocumentation/issues/66) in [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation)
+4. 🗣 Commented on [#70](https://github.com/tranek/GASDocumentation/issues/70) in [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation)
+5. 🗣 Commented on [#78](https://github.com/tranek/GASDocumentation/issues/78) in [tranek/GASDocumentation](https://github.com/tranek/GASDocumentation)
   <!--END_SECTION:activity-->
 </details>
 
