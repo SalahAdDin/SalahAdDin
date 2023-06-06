@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-2. 🗣 Commented on [#22](https://github.com/not-jan/apex-tux/issues/22) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#39](https://github.com/not-jan/apex-tux/issues/39) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. 🗣 Commented on [#7](https://github.com/not-jan/apex-tux/issues/7) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-5. ❗ Opened issue [#39](https://github.com/not-jan/apex-tux/issues/39) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+1. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+2. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+3. ❗ Opened issue [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#22](https://github.com/not-jan/apex-tux/issues/22) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#39](https://github.com/not-jan/apex-tux/issues/39) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
