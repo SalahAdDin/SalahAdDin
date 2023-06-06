@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
 2. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
 3. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. ❗ Opened issue [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-5. 🗣 Commented on [#22](https://github.com/not-jan/apex-tux/issues/22) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. ❗ Opened issue [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
