@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-2. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
-4. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+1. 🗣 Commented on [#1](https://github.com/andi23rosca/tiptap-solid/issues/1) in [andi23rosca/tiptap-solid](https://github.com/andi23rosca/tiptap-solid)
+2. 🔒 Closed issue [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+3. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
 5. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
