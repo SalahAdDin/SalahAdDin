@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3330](https://github.com/microsoft/winget-cli/issues/3330) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-2. 🗣 Commented on [#837](https://github.com/nhn/tui.image-editor/issues/837) in [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
-4. ❗ Opened issue [#3330](https://github.com/microsoft/winget-cli/issues/3330) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-5. 🗣 Commented on [#40](https://github.com/not-jan/apex-tux/issues/40) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+1. 🗣 Commented on [#33](https://github.com/not-jan/apex-tux/issues/33) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+2. 🗣 Commented on [#37](https://github.com/not-jan/apex-tux/issues/37) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+3. 🗣 Commented on [#3330](https://github.com/microsoft/winget-cli/issues/3330) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+4. 🗣 Commented on [#837](https://github.com/nhn/tui.image-editor/issues/837) in [nhn/tui.image-editor](https://github.com/nhn/tui.image-editor)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
