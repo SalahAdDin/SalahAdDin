@@ -65,10 +65,10 @@ Here are some ideas to get you started:
 
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-2. 🗣 Commented on [#37](https://github.com/not-jan/apex-tux/issues/37) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#3330](https://github.com/microsoft/winget-cli/issues/3330) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-4. ❗ Opened issue [#42](https://github.com/not-jan/apex-tux/issues/42) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-5. 🗣 Commented on [#33](https://github.com/not-jan/apex-tux/issues/33) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+2. 🗣 Commented on [#103](https://github.com/Flipboard/react-canvas/issues/103) in [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
+3. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#37](https://github.com/not-jan/apex-tux/issues/37) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#3330](https://github.com/microsoft/winget-cli/issues/3330) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
   <!--END_SECTION:activity-->
 </details>
 
