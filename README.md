@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/not-jan/apex-tux/issues/12) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+1. 🗣 Commented on [#56](https://github.com/storybookjs/eslint-plugin-storybook/issues/56) in [storybookjs/eslint-plugin-storybook](https://github.com/storybookjs/eslint-plugin-storybook)
 2. 🗣 Commented on [#12](https://github.com/not-jan/apex-tux/issues/12) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
 3. 🗣 Commented on [#12](https://github.com/not-jan/apex-tux/issues/12) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-5. 🗣 Commented on [#103](https://github.com/Flipboard/react-canvas/issues/103) in [Flipboard/react-canvas](https://github.com/Flipboard/react-canvas)
+4. 🗣 Commented on [#12](https://github.com/not-jan/apex-tux/issues/12) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
