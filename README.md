@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
-2. 🗣 Commented on [#15424](https://github.com/ionic-team/ionic-framework/issues/15424) in [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
-3. 🗣 Commented on [#56](https://github.com/storybookjs/eslint-plugin-storybook/issues/56) in [storybookjs/eslint-plugin-storybook](https://github.com/storybookjs/eslint-plugin-storybook)
+1. 🗣 Commented on [#7631](https://github.com/strapi/strapi/issues/7631) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#6823](https://github.com/lensapp/lens/issues/6823) in [lensapp/lens](https://github.com/lensapp/lens)
+3. 🗣 Commented on [#15424](https://github.com/ionic-team/ionic-framework/issues/15424) in [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework)
 4. 🗣 Commented on [#56](https://github.com/storybookjs/eslint-plugin-storybook/issues/56) in [storybookjs/eslint-plugin-storybook](https://github.com/storybookjs/eslint-plugin-storybook)
-5. 🗣 Commented on [#12](https://github.com/not-jan/apex-tux/issues/12) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#56](https://github.com/storybookjs/eslint-plugin-storybook/issues/56) in [storybookjs/eslint-plugin-storybook](https://github.com/storybookjs/eslint-plugin-storybook)
   <!--END_SECTION:activity-->
 </details>
 
