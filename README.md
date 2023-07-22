@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1646346963) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#23](https://github.com/strapi/strapi-plugin-seo/issues/23#issuecomment-1646346372) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-3. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1646343352) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. 🗣 Commented on [#445](https://github.com/TanStack/router/issues/445#issuecomment-1646341523) in [TanStack/router](https://github.com/TanStack/router)
-5. 🗣 Commented on [#19651](https://github.com/cypress-io/cypress/issues/19651#issuecomment-1646341175) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+1. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1646591856) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+2. ❗ Opened issue [#17](https://github.com/nicolashmln/strapi-plugin-oembed/issues/17) in [nicolashmln/strapi-plugin-oembed](https://github.com/nicolashmln/strapi-plugin-oembed)
+3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1646346963) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#23](https://github.com/strapi/strapi-plugin-seo/issues/23#issuecomment-1646346372) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1646343352) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
