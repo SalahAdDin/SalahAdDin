@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
-2. 🗣 Commented on [#536](https://github.com/peng8350/flutter_pulltorefresh/issues/536#issuecomment-1646594430) in [peng8350/flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh)
-3. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1646591856) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. ❗ Opened issue [#17](https://github.com/nicolashmln/strapi-plugin-oembed/issues/17) in [nicolashmln/strapi-plugin-oembed](https://github.com/nicolashmln/strapi-plugin-oembed)
-5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1646346963) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#19651](https://github.com/cypress-io/cypress/issues/19651#issuecomment-1650273384) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. 🗣 Commented on [#536](https://github.com/peng8350/flutter_pulltorefresh/issues/536#issuecomment-1650269990) in [peng8350/flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh)
+3. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi-tiptap-editor/pull/1) in [SalahAdDin/strapi-tiptap-editor](https://github.com/SalahAdDin/strapi-tiptap-editor)
+4. 🗣 Commented on [#536](https://github.com/peng8350/flutter_pulltorefresh/issues/536#issuecomment-1646594430) in [peng8350/flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh)
+5. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1646591856) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
