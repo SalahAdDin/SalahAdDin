@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/pyrochlore/obsidian-tracker/pull/177#issuecomment-1663839590) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
-2. 🗣 Commented on [#414](https://github.com/nextui-org/nextui/issues/414#issuecomment-1662793760) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. 🗣 Commented on [#415](https://github.com/nextui-org/nextui/issues/415#issuecomment-1662792651) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#6](https://github.com/nicollasricas/vscode-witcherscript/issues/6#issuecomment-1657295739) in [nicollasricas/vscode-witcherscript](https://github.com/nicollasricas/vscode-witcherscript)
-5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1655760640) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗ Opened issue [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+2. 🗣 Commented on [#218](https://github.com/veritem/eslint-plugin-vitest/pull/218#issuecomment-1674859654) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+3. 🗣 Commented on [#177](https://github.com/pyrochlore/obsidian-tracker/pull/177#issuecomment-1663839590) in [pyrochlore/obsidian-tracker](https://github.com/pyrochlore/obsidian-tracker)
+4. 🗣 Commented on [#414](https://github.com/nextui-org/nextui/issues/414#issuecomment-1662793760) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#415](https://github.com/nextui-org/nextui/issues/415#issuecomment-1662792651) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
   <!--END_SECTION:activity-->
 </details>
 
