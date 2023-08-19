@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1679453822) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#19562](https://github.com/microsoft/playwright/issues/19562#issuecomment-1676093572) in [microsoft/playwright](https://github.com/microsoft/playwright)
-3. 🎉 Merged PR [#3](https://github.com/SalahAdDin/react-ts-vite-template/pull/3) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-4. 💪 Opened PR [#3](https://github.com/SalahAdDin/react-ts-vite-template/pull/3) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-5. ❗ Opened issue [#117](https://github.com/IanVS/prettier-plugin-sort-imports/issues/117) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+1. 🗣 Commented on [#101](https://github.com/Kaedrin/warhammer-mod-manager/issues/101#issuecomment-1684988073) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
+2. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1679453822) in [axios/axios](https://github.com/axios/axios)
+3. 🗣 Commented on [#19562](https://github.com/microsoft/playwright/issues/19562#issuecomment-1676093572) in [microsoft/playwright](https://github.com/microsoft/playwright)
+4. 🎉 Merged PR [#3](https://github.com/SalahAdDin/react-ts-vite-template/pull/3) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+5. 💪 Opened PR [#3](https://github.com/SalahAdDin/react-ts-vite-template/pull/3) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
   <!--END_SECTION:activity-->
 </details>
 
