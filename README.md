@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/Kaedrin/warhammer-mod-manager/issues/102#issuecomment-1685117485) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
-2. 🗣 Commented on [#101](https://github.com/Kaedrin/warhammer-mod-manager/issues/101#issuecomment-1684988073) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
-3. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1679453822) in [axios/axios](https://github.com/axios/axios)
-4. 🗣 Commented on [#19562](https://github.com/microsoft/playwright/issues/19562#issuecomment-1676093572) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 🎉 Merged PR [#3](https://github.com/SalahAdDin/react-ts-vite-template/pull/3) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+1. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1690688158) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+2. 🗣 Commented on [#102](https://github.com/Kaedrin/warhammer-mod-manager/issues/102#issuecomment-1685117485) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
+3. 🗣 Commented on [#101](https://github.com/Kaedrin/warhammer-mod-manager/issues/101#issuecomment-1684988073) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
+4. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1679453822) in [axios/axios](https://github.com/axios/axios)
+5. 🗣 Commented on [#19562](https://github.com/microsoft/playwright/issues/19562#issuecomment-1676093572) in [microsoft/playwright](https://github.com/microsoft/playwright)
   <!--END_SECTION:activity-->
 </details>
 
