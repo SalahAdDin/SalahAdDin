@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88#issuecomment-1693062758) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
-2. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1690688158) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
-3. 🗣 Commented on [#102](https://github.com/Kaedrin/warhammer-mod-manager/issues/102#issuecomment-1685117485) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
-4. 🗣 Commented on [#101](https://github.com/Kaedrin/warhammer-mod-manager/issues/101#issuecomment-1684988073) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
-5. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1679453822) in [axios/axios](https://github.com/axios/axios)
+1. 🗣 Commented on [#179](https://github.com/ivan-lednev/obsidian-day-planner/pull/179#issuecomment-1699836331) in [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner)
+2. 🗣 Commented on [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88#issuecomment-1693062758) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+3. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1690688158) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+4. 🗣 Commented on [#102](https://github.com/Kaedrin/warhammer-mod-manager/issues/102#issuecomment-1685117485) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
+5. 🗣 Commented on [#101](https://github.com/Kaedrin/warhammer-mod-manager/issues/101#issuecomment-1684988073) in [Kaedrin/warhammer-mod-manager](https://github.com/Kaedrin/warhammer-mod-manager)
   <!--END_SECTION:activity-->
 </details>
 
