@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1709887076) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1704076311) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
-3. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1703763935) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
-4. 🗣 Commented on [#179](https://github.com/ivan-lednev/obsidian-day-planner/pull/179#issuecomment-1699836331) in [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner)
-5. 🗣 Commented on [#88](https://github.com/mProjectsCode/obsidian-media-db-plugin/issues/88#issuecomment-1693062758) in [mProjectsCode/obsidian-media-db-plugin](https://github.com/mProjectsCode/obsidian-media-db-plugin)
+1. 🗣 Commented on [#9210](https://github.com/jestjs/jest/issues/9210#issuecomment-1712553112) in [jestjs/jest](https://github.com/jestjs/jest)
+2. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1709887076) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1704076311) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+4. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1703763935) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+5. 🗣 Commented on [#179](https://github.com/ivan-lednev/obsidian-day-planner/pull/179#issuecomment-1699836331) in [ivan-lednev/obsidian-day-planner](https://github.com/ivan-lednev/obsidian-day-planner)
   <!--END_SECTION:activity-->
 </details>
 
