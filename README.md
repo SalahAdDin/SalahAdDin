@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1715252232) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057#issuecomment-1713649523) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#9210](https://github.com/jestjs/jest/issues/9210#issuecomment-1712553112) in [jestjs/jest](https://github.com/jestjs/jest)
-4. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1709887076) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#224](https://github.com/veritem/eslint-plugin-vitest/issues/224#issuecomment-1704076311) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1717638131) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1715252232) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#19057](https://github.com/storybookjs/storybook/issues/19057#issuecomment-1713649523) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#9210](https://github.com/jestjs/jest/issues/9210#issuecomment-1712553112) in [jestjs/jest](https://github.com/jestjs/jest)
+5. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1709887076) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
