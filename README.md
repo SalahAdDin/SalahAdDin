@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1722492812) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1722491514) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1718196705) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1717638131) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1715252232) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#182](https://github.com/veritem/eslint-plugin-vitest/issues/182#issuecomment-1735688325) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+2. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1722492812) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1722491514) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1718196705) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1717638131) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
