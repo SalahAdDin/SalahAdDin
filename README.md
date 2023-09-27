@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/scottrippey/next-router-mock/issues/67#issuecomment-1737587816) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
-2. 🗣 Commented on [#182](https://github.com/veritem/eslint-plugin-vitest/issues/182#issuecomment-1737076552) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
-3. 🗣 Commented on [#182](https://github.com/veritem/eslint-plugin-vitest/issues/182#issuecomment-1735688325) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
-4. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1722492812) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-1722491514) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗ Opened issue [#108](https://github.com/scottrippey/next-router-mock/issues/108) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
+2. 🗣 Commented on [#67](https://github.com/scottrippey/next-router-mock/issues/67#issuecomment-1737587816) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
+3. 🗣 Commented on [#182](https://github.com/veritem/eslint-plugin-vitest/issues/182#issuecomment-1737076552) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+4. 🗣 Commented on [#182](https://github.com/veritem/eslint-plugin-vitest/issues/182#issuecomment-1735688325) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-1722492812) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
