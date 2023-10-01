@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1219](https://github.com/typicode/json-server/issues/1219#issuecomment-1742082677) in [typicode/json-server](https://github.com/typicode/json-server)
-2. 🗣 Commented on [#875](https://github.com/typicode/json-server/issues/875#issuecomment-1742080150) in [typicode/json-server](https://github.com/typicode/json-server)
-3. 🗣 Commented on [#525](https://github.com/typicode/json-server/issues/525#issuecomment-1742077834) in [typicode/json-server](https://github.com/typicode/json-server)
-4. 🗣 Commented on [#833](https://github.com/typicode/json-server/issues/833#issuecomment-1742075064) in [typicode/json-server](https://github.com/typicode/json-server)
-5. 🗣 Commented on [#1568](https://github.com/faker-js/faker/issues/1568#issuecomment-1741864475) in [faker-js/faker](https://github.com/faker-js/faker)
+1. 🗣 Commented on [#470](https://github.com/typicode/json-server/issues/470#issuecomment-1742101715) in [typicode/json-server](https://github.com/typicode/json-server)
+2. 🗣 Commented on [#1219](https://github.com/typicode/json-server/issues/1219#issuecomment-1742082677) in [typicode/json-server](https://github.com/typicode/json-server)
+3. 🗣 Commented on [#875](https://github.com/typicode/json-server/issues/875#issuecomment-1742080150) in [typicode/json-server](https://github.com/typicode/json-server)
+4. 🗣 Commented on [#525](https://github.com/typicode/json-server/issues/525#issuecomment-1742077834) in [typicode/json-server](https://github.com/typicode/json-server)
+5. 🗣 Commented on [#833](https://github.com/typicode/json-server/issues/833#issuecomment-1742075064) in [typicode/json-server](https://github.com/typicode/json-server)
   <!--END_SECTION:activity-->
 </details>
 
