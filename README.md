@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#525](https://github.com/typicode/json-server/issues/525#issuecomment-1742077834) in [typicode/json-server](https://github.com/typicode/json-server)
-2. 🗣 Commented on [#833](https://github.com/typicode/json-server/issues/833#issuecomment-1742075064) in [typicode/json-server](https://github.com/typicode/json-server)
-3. 🗣 Commented on [#1568](https://github.com/faker-js/faker/issues/1568#issuecomment-1741864475) in [faker-js/faker](https://github.com/faker-js/faker)
-4. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1741841309) in [mswjs/msw](https://github.com/mswjs/msw)
-5. 🗣 Commented on [#590](https://github.com/aidenybai/million/issues/590#issuecomment-1738803624) in [aidenybai/million](https://github.com/aidenybai/million)
+1. 🗣 Commented on [#1219](https://github.com/typicode/json-server/issues/1219#issuecomment-1742082677) in [typicode/json-server](https://github.com/typicode/json-server)
+2. 🗣 Commented on [#875](https://github.com/typicode/json-server/issues/875#issuecomment-1742080150) in [typicode/json-server](https://github.com/typicode/json-server)
+3. 🗣 Commented on [#525](https://github.com/typicode/json-server/issues/525#issuecomment-1742077834) in [typicode/json-server](https://github.com/typicode/json-server)
+4. 🗣 Commented on [#833](https://github.com/typicode/json-server/issues/833#issuecomment-1742075064) in [typicode/json-server](https://github.com/typicode/json-server)
+5. 🗣 Commented on [#1568](https://github.com/faker-js/faker/issues/1568#issuecomment-1741864475) in [faker-js/faker](https://github.com/faker-js/faker)
   <!--END_SECTION:activity-->
 </details>
 
