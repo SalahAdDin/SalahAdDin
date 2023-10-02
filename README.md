@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1743136528) in [axios/axios](https://github.com/axios/axios)
-2. 🗣 Commented on [#1474](https://github.com/cookpete/react-player/issues/1474#issuecomment-1742868073) in [cookpete/react-player](https://github.com/cookpete/react-player)
-3. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1742652587) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
-4. 🗣 Commented on [#155](https://github.com/hanford/next-offline/issues/155#issuecomment-1742194387) in [hanford/next-offline](https://github.com/hanford/next-offline)
-5. 🗣 Commented on [#470](https://github.com/typicode/json-server/issues/470#issuecomment-1742101715) in [typicode/json-server](https://github.com/typicode/json-server)
+1. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1743291133) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+2. ❗ Opened issue [#132](https://github.com/IanVS/prettier-plugin-sort-imports/issues/132) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+3. 🗣 Commented on [#5101](https://github.com/axios/axios/issues/5101#issuecomment-1743136528) in [axios/axios](https://github.com/axios/axios)
+4. 🗣 Commented on [#1474](https://github.com/cookpete/react-player/issues/1474#issuecomment-1742868073) in [cookpete/react-player](https://github.com/cookpete/react-player)
+5. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1742652587) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
   <!--END_SECTION:activity-->
 </details>
 
