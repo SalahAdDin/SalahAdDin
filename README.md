@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1742652587) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
-2. 🗣 Commented on [#155](https://github.com/hanford/next-offline/issues/155#issuecomment-1742194387) in [hanford/next-offline](https://github.com/hanford/next-offline)
-3. 🗣 Commented on [#470](https://github.com/typicode/json-server/issues/470#issuecomment-1742101715) in [typicode/json-server](https://github.com/typicode/json-server)
-4. 🗣 Commented on [#1219](https://github.com/typicode/json-server/issues/1219#issuecomment-1742082677) in [typicode/json-server](https://github.com/typicode/json-server)
-5. 🗣 Commented on [#875](https://github.com/typicode/json-server/issues/875#issuecomment-1742080150) in [typicode/json-server](https://github.com/typicode/json-server)
+1. 🗣 Commented on [#1474](https://github.com/cookpete/react-player/issues/1474#issuecomment-1742868073) in [cookpete/react-player](https://github.com/cookpete/react-player)
+2. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1742652587) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+3. 🗣 Commented on [#155](https://github.com/hanford/next-offline/issues/155#issuecomment-1742194387) in [hanford/next-offline](https://github.com/hanford/next-offline)
+4. 🗣 Commented on [#470](https://github.com/typicode/json-server/issues/470#issuecomment-1742101715) in [typicode/json-server](https://github.com/typicode/json-server)
+5. 🗣 Commented on [#1219](https://github.com/typicode/json-server/issues/1219#issuecomment-1742082677) in [typicode/json-server](https://github.com/typicode/json-server)
   <!--END_SECTION:activity-->
 </details>
 
