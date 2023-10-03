@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1744488112) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-2. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155#issuecomment-1744481839) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
-3. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1743694273) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-4. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1743291133) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-5. ❗ Opened issue [#132](https://github.com/IanVS/prettier-plugin-sort-imports/issues/132) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+1. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1744949752) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+2. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1744488112) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+3. 🗣 Commented on [#155](https://github.com/reactchartjs/react-chartjs-2/issues/155#issuecomment-1744481839) in [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2)
+4. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1743694273) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+5. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-1743291133) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
   <!--END_SECTION:activity-->
 </details>
 
