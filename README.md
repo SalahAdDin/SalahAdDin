@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/osadavc/strapi-newsletter/issues/5#issuecomment-1747594268) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
-2. 🗣 Commented on [#8](https://github.com/ChrisEbert/strapi-plugin-country-select/issues/8#issuecomment-1747545406) in [ChrisEbert/strapi-plugin-country-select](https://github.com/ChrisEbert/strapi-plugin-country-select)
-3. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1747529886) in [mswjs/msw](https://github.com/mswjs/msw)
-4. 🗣 Commented on [#590](https://github.com/aidenybai/million/issues/590#issuecomment-1747526123) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 🗣 Commented on [#27](https://github.com/node-vision/strapi-plugin-entity-relationship-chart/issues/27#issuecomment-1747520570) in [node-vision/strapi-plugin-entity-relationship-chart](https://github.com/node-vision/strapi-plugin-entity-relationship-chart)
+1. 🗣 Commented on [#8](https://github.com/SKLINET/strapi-plugin-video-field/pull/8#issuecomment-1747619991) in [SKLINET/strapi-plugin-video-field](https://github.com/SKLINET/strapi-plugin-video-field)
+2. ❗ Opened issue [#1](https://github.com/play14team/strapi-plugin-timezone-select/issues/1) in [play14team/strapi-plugin-timezone-select](https://github.com/play14team/strapi-plugin-timezone-select)
+3. 🗣 Commented on [#18](https://github.com/strapi-community/strapi-plugin-redis/issues/18#issuecomment-1747605860) in [strapi-community/strapi-plugin-redis](https://github.com/strapi-community/strapi-plugin-redis)
+4. 🗣 Commented on [#5](https://github.com/osadavc/strapi-newsletter/issues/5#issuecomment-1747594268) in [osadavc/strapi-newsletter](https://github.com/osadavc/strapi-newsletter)
+5. 🗣 Commented on [#8](https://github.com/ChrisEbert/strapi-plugin-country-select/issues/8#issuecomment-1747545406) in [ChrisEbert/strapi-plugin-country-select](https://github.com/ChrisEbert/strapi-plugin-country-select)
   <!--END_SECTION:activity-->
 </details>
 
