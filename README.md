@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/hustcc/jest-canvas-mock/issues/78#issuecomment-1749104245) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
-2. 🗣 Commented on [#77](https://github.com/hustcc/jest-canvas-mock/pull/77#issuecomment-1749102007) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
-3. 🗣 Commented on [#8](https://github.com/SKLINET/strapi-plugin-video-field/pull/8#issuecomment-1747619991) in [SKLINET/strapi-plugin-video-field](https://github.com/SKLINET/strapi-plugin-video-field)
-4. ❗ Opened issue [#1](https://github.com/play14team/strapi-plugin-timezone-select/issues/1) in [play14team/strapi-plugin-timezone-select](https://github.com/play14team/strapi-plugin-timezone-select)
-5. 🗣 Commented on [#18](https://github.com/strapi-community/strapi-plugin-redis/issues/18#issuecomment-1747605860) in [strapi-community/strapi-plugin-redis](https://github.com/strapi-community/strapi-plugin-redis)
+1. 🗣 Commented on [#71](https://github.com/hustcc/jest-canvas-mock/issues/71#issuecomment-1749224272) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+2. 🗣 Commented on [#78](https://github.com/hustcc/jest-canvas-mock/issues/78#issuecomment-1749104245) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+3. 🗣 Commented on [#77](https://github.com/hustcc/jest-canvas-mock/pull/77#issuecomment-1749102007) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+4. 🗣 Commented on [#8](https://github.com/SKLINET/strapi-plugin-video-field/pull/8#issuecomment-1747619991) in [SKLINET/strapi-plugin-video-field](https://github.com/SKLINET/strapi-plugin-video-field)
+5. ❗ Opened issue [#1](https://github.com/play14team/strapi-plugin-timezone-select/issues/1) in [play14team/strapi-plugin-timezone-select](https://github.com/play14team/strapi-plugin-timezone-select)
   <!--END_SECTION:activity-->
 </details>
 
