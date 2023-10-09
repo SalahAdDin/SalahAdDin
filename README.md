@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750737740) in [mswjs/msw](https://github.com/mswjs/msw)
-2. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750513721) in [mswjs/msw](https://github.com/mswjs/msw)
-3. 🗣 Commented on [#71](https://github.com/hustcc/jest-canvas-mock/issues/71#issuecomment-1749224272) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
-4. 🗣 Commented on [#78](https://github.com/hustcc/jest-canvas-mock/issues/78#issuecomment-1749104245) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
-5. 🗣 Commented on [#77](https://github.com/hustcc/jest-canvas-mock/pull/77#issuecomment-1749102007) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+1. 🗣 Commented on [#3363](https://github.com/jsdom/jsdom/issues/3363#issuecomment-1753553088) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+2. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750737740) in [mswjs/msw](https://github.com/mswjs/msw)
+3. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750513721) in [mswjs/msw](https://github.com/mswjs/msw)
+4. 🗣 Commented on [#71](https://github.com/hustcc/jest-canvas-mock/issues/71#issuecomment-1749224272) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+5. 🗣 Commented on [#78](https://github.com/hustcc/jest-canvas-mock/issues/78#issuecomment-1749104245) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
   <!--END_SECTION:activity-->
 </details>
 
