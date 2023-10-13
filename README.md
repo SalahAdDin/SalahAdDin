@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7487](https://github.com/fabricjs/fabric.js/issues/7487#issuecomment-1759813833) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-2. 🗣 Commented on [#3363](https://github.com/jsdom/jsdom/issues/3363#issuecomment-1753553088) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
-3. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750737740) in [mswjs/msw](https://github.com/mswjs/msw)
-4. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750513721) in [mswjs/msw](https://github.com/mswjs/msw)
-5. 🗣 Commented on [#71](https://github.com/hustcc/jest-canvas-mock/issues/71#issuecomment-1749224272) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+1. 🗣 Commented on [#1121](https://github.com/typicode/json-server/pull/1121#issuecomment-1762114028) in [typicode/json-server](https://github.com/typicode/json-server)
+2. 🗣 Commented on [#1007](https://github.com/typicode/json-server/issues/1007#issuecomment-1762113001) in [typicode/json-server](https://github.com/typicode/json-server)
+3. 🗣 Commented on [#7487](https://github.com/fabricjs/fabric.js/issues/7487#issuecomment-1759813833) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+4. 🗣 Commented on [#3363](https://github.com/jsdom/jsdom/issues/3363#issuecomment-1753553088) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+5. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1750737740) in [mswjs/msw](https://github.com/mswjs/msw)
   <!--END_SECTION:activity-->
 </details>
 
