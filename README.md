@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1769128379) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
-2. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1768229022) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
-3. 🗣 Commented on [#6227](https://github.com/fabricjs/fabric.js/issues/6227#issuecomment-1766900258) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-4. 🗣 Commented on [#6227](https://github.com/fabricjs/fabric.js/issues/6227#issuecomment-1765113616) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-5. 🗣 Commented on [#1121](https://github.com/typicode/json-server/pull/1121#issuecomment-1762114028) in [typicode/json-server](https://github.com/typicode/json-server)
+1. 💪 Opened PR [#12](https://github.com/sahinkutlu/frontend-case/pull/12) in [sahinkutlu/frontend-case](https://github.com/sahinkutlu/frontend-case)
+2. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1769128379) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+3. 🗣 Commented on [#536](https://github.com/react-syntax-highlighter/react-syntax-highlighter/issues/536#issuecomment-1768229022) in [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter)
+4. 🗣 Commented on [#6227](https://github.com/fabricjs/fabric.js/issues/6227#issuecomment-1766900258) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+5. 🗣 Commented on [#6227](https://github.com/fabricjs/fabric.js/issues/6227#issuecomment-1765113616) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
   <!--END_SECTION:activity-->
 </details>
 
