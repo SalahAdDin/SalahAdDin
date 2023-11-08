@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#58](https://github.com/strapi/strapi-plugin-seo/issues/58) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-2. 🗣 Commented on [#13](https://github.com/strapi/strapi-plugin-seo/pull/13#issuecomment-1773952650) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-3. 🗣 Commented on [#29](https://github.com/strapi/strapi-plugin-seo/issues/29#issuecomment-1773952541) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-4. 🗣 Commented on [#18150](https://github.com/strapi/strapi/issues/18150#issuecomment-1773874196) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#1](https://github.com/ShahriarKh/strapi-content-type-explorer/issues/1#issuecomment-1773845620) in [ShahriarKh/strapi-content-type-explorer](https://github.com/ShahriarKh/strapi-content-type-explorer)
+1. 🗣 Commented on [#83](https://github.com/tailwindlabs/headlessui/issues/83#issuecomment-1800826934) in [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
+2. ❗ Opened issue [#58](https://github.com/strapi/strapi-plugin-seo/issues/58) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+3. 🗣 Commented on [#13](https://github.com/strapi/strapi-plugin-seo/pull/13#issuecomment-1773952650) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+4. 🗣 Commented on [#29](https://github.com/strapi/strapi-plugin-seo/issues/29#issuecomment-1773952541) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#18150](https://github.com/strapi/strapi/issues/18150#issuecomment-1773874196) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
