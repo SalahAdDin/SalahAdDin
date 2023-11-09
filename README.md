@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#99](https://github.com/everweij/react-laag/issues/99) in [everweij/react-laag](https://github.com/everweij/react-laag)
-2. 🗣 Commented on [#98](https://github.com/everweij/react-laag/pull/98#issuecomment-1801068983) in [everweij/react-laag](https://github.com/everweij/react-laag)
-3. 🗣 Commented on [#96](https://github.com/everweij/react-laag/issues/96#issuecomment-1800941280) in [everweij/react-laag](https://github.com/everweij/react-laag)
-4. 🗣 Commented on [#83](https://github.com/tailwindlabs/headlessui/issues/83#issuecomment-1800826934) in [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-5. ❗ Opened issue [#58](https://github.com/strapi/strapi-plugin-seo/issues/58) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 🗣 Commented on [#98](https://github.com/everweij/react-laag/pull/98#issuecomment-1804722392) in [everweij/react-laag](https://github.com/everweij/react-laag)
+2. ❗ Opened issue [#99](https://github.com/everweij/react-laag/issues/99) in [everweij/react-laag](https://github.com/everweij/react-laag)
+3. 🗣 Commented on [#98](https://github.com/everweij/react-laag/pull/98#issuecomment-1801068983) in [everweij/react-laag](https://github.com/everweij/react-laag)
+4. 🗣 Commented on [#96](https://github.com/everweij/react-laag/issues/96#issuecomment-1800941280) in [everweij/react-laag](https://github.com/everweij/react-laag)
+5. 🗣 Commented on [#83](https://github.com/tailwindlabs/headlessui/issues/83#issuecomment-1800826934) in [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
   <!--END_SECTION:activity-->
 </details>
 
