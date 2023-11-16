@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AstroSnail/apexctl/issues/1#issuecomment-1809291831) in [AstroSnail/apexctl](https://github.com/AstroSnail/apexctl)
-2. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1809289814) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#867](https://github.com/testing-library/user-event/issues/867#issuecomment-1805089678) in [testing-library/user-event](https://github.com/testing-library/user-event)
-4. 🗣 Commented on [#98](https://github.com/everweij/react-laag/pull/98#issuecomment-1804722392) in [everweij/react-laag](https://github.com/everweij/react-laag)
-5. ❗ Opened issue [#99](https://github.com/everweij/react-laag/issues/99) in [everweij/react-laag](https://github.com/everweij/react-laag)
+1. 🗣 Commented on [#1417](https://github.com/cypress-io/cypress/issues/1417#issuecomment-1815016990) in [cypress-io/cypress](https://github.com/cypress-io/cypress)
+2. 🗣 Commented on [#1](https://github.com/AstroSnail/apexctl/issues/1#issuecomment-1809291831) in [AstroSnail/apexctl](https://github.com/AstroSnail/apexctl)
+3. 🗣 Commented on [#42](https://github.com/not-jan/apex-tux/issues/42#issuecomment-1809289814) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#867](https://github.com/testing-library/user-event/issues/867#issuecomment-1805089678) in [testing-library/user-event](https://github.com/testing-library/user-event)
+5. 🗣 Commented on [#98](https://github.com/everweij/react-laag/pull/98#issuecomment-1804722392) in [everweij/react-laag](https://github.com/everweij/react-laag)
   <!--END_SECTION:activity-->
 </details>
 
