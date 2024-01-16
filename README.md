@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4870](https://github.com/prettier/prettier/issues/4870#issuecomment-1892882274) in [prettier/prettier](https://github.com/prettier/prettier)
-2. ❗ Opened issue [#56](https://github.com/not-jan/apex-tux/issues/56) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#457](https://github.com/mailhog/MailHog/issues/457#issuecomment-1880309629) in [mailhog/MailHog](https://github.com/mailhog/MailHog)
-4. 🗣 Commented on [#3282](https://github.com/facebook/lexical/pull/3282#issuecomment-1880206376) in [facebook/lexical](https://github.com/facebook/lexical)
-5. 🗣 Commented on [#132](https://github.com/IanVS/prettier-plugin-sort-imports/issues/132#issuecomment-1870744077) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+1. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/pull/4495#issuecomment-1894150736) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
+2. 🗣 Commented on [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39#issuecomment-1894148280) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
+3. 🗣 Commented on [#4870](https://github.com/prettier/prettier/issues/4870#issuecomment-1892882274) in [prettier/prettier](https://github.com/prettier/prettier)
+4. ❗ Opened issue [#56](https://github.com/not-jan/apex-tux/issues/56) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#457](https://github.com/mailhog/MailHog/issues/457#issuecomment-1880309629) in [mailhog/MailHog](https://github.com/mailhog/MailHog)
   <!--END_SECTION:activity-->
 </details>
 
