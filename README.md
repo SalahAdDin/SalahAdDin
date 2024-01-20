@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/martinkr/next-export-i18n/issues/50#issuecomment-1895832986) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-2. 🗣 Commented on [#64](https://github.com/martinkr/next-export-i18n/issues/64#issuecomment-1895830802) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-3. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/pull/4495#issuecomment-1894150736) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
-4. 🗣 Commented on [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39#issuecomment-1894148280) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
-5. 🗣 Commented on [#4870](https://github.com/prettier/prettier/issues/4870#issuecomment-1892882274) in [prettier/prettier](https://github.com/prettier/prettier)
+1. 🗣 Commented on [#1](https://github.com/ShahriarKh/strapi-content-type-explorer/issues/1#issuecomment-1901572450) in [ShahriarKh/strapi-content-type-explorer](https://github.com/ShahriarKh/strapi-content-type-explorer)
+2. 🗣 Commented on [#50](https://github.com/martinkr/next-export-i18n/issues/50#issuecomment-1895832986) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+3. 🗣 Commented on [#64](https://github.com/martinkr/next-export-i18n/issues/64#issuecomment-1895830802) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+4. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/pull/4495#issuecomment-1894150736) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
+5. 🗣 Commented on [#39](https://github.com/cuongdevjs/reactjs-social-login/issues/39#issuecomment-1894148280) in [cuongdevjs/reactjs-social-login](https://github.com/cuongdevjs/reactjs-social-login)
   <!--END_SECTION:activity-->
 </details>
 
