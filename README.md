@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#885](https://github.com/aidenybai/million/pull/885#issuecomment-1902472510) in [aidenybai/million](https://github.com/aidenybai/million)
-2. 🗣 Commented on [#1](https://github.com/ShahriarKh/strapi-content-type-explorer/issues/1#issuecomment-1901572450) in [ShahriarKh/strapi-content-type-explorer](https://github.com/ShahriarKh/strapi-content-type-explorer)
-3. 🗣 Commented on [#50](https://github.com/martinkr/next-export-i18n/issues/50#issuecomment-1895832986) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-4. 🗣 Commented on [#64](https://github.com/martinkr/next-export-i18n/issues/64#issuecomment-1895830802) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-5. 🗣 Commented on [#4495](https://github.com/JedWatson/react-select/pull/4495#issuecomment-1894150736) in [JedWatson/react-select](https://github.com/JedWatson/react-select)
+1. 🗣 Commented on [#1493](https://github.com/typicode/json-server/issues/1493#issuecomment-1904429771) in [typicode/json-server](https://github.com/typicode/json-server)
+2. 🗣 Commented on [#885](https://github.com/aidenybai/million/pull/885#issuecomment-1902472510) in [aidenybai/million](https://github.com/aidenybai/million)
+3. 🗣 Commented on [#1](https://github.com/ShahriarKh/strapi-content-type-explorer/issues/1#issuecomment-1901572450) in [ShahriarKh/strapi-content-type-explorer](https://github.com/ShahriarKh/strapi-content-type-explorer)
+4. 🗣 Commented on [#50](https://github.com/martinkr/next-export-i18n/issues/50#issuecomment-1895832986) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+5. 🗣 Commented on [#64](https://github.com/martinkr/next-export-i18n/issues/64#issuecomment-1895830802) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
   <!--END_SECTION:activity-->
 </details>
 
