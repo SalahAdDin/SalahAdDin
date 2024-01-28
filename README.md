@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1220](https://github.com/semantic-release/semantic-release/issues/1220#issuecomment-1908865412) in [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-2. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1908823586) in [mswjs/msw](https://github.com/mswjs/msw)
-3. 🗣 Commented on [#1493](https://github.com/typicode/json-server/issues/1493#issuecomment-1904429771) in [typicode/json-server](https://github.com/typicode/json-server)
-4. 🗣 Commented on [#885](https://github.com/aidenybai/million/pull/885#issuecomment-1902472510) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 🗣 Commented on [#1](https://github.com/ShahriarKh/strapi-content-type-explorer/issues/1#issuecomment-1901572450) in [ShahriarKh/strapi-content-type-explorer](https://github.com/ShahriarKh/strapi-content-type-explorer)
+1. 🗣 Commented on [#34448](https://github.com/vercel/next.js/issues/34448#issuecomment-1913400733) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#1220](https://github.com/semantic-release/semantic-release/issues/1220#issuecomment-1908865412) in [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+3. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-1908823586) in [mswjs/msw](https://github.com/mswjs/msw)
+4. 🗣 Commented on [#1493](https://github.com/typicode/json-server/issues/1493#issuecomment-1904429771) in [typicode/json-server](https://github.com/typicode/json-server)
+5. 🗣 Commented on [#885](https://github.com/aidenybai/million/pull/885#issuecomment-1902472510) in [aidenybai/million](https://github.com/aidenybai/million)
   <!--END_SECTION:activity-->
 </details>
 
