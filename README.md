@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-1918051840) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#7](https://github.com/GoogleChromeLabs/postcss-jit-props/issues/7#issuecomment-1917140933) in [GoogleChromeLabs/postcss-jit-props](https://github.com/GoogleChromeLabs/postcss-jit-props)
-3. 🗣 Commented on [#8100](https://github.com/microsoft/playwright/issues/8100#issuecomment-1916826947) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#11122](https://github.com/microsoft/playwright/issues/11122#issuecomment-1916758589) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 💪 Opened PR [#464](https://github.com/argyleink/open-props/pull/464) in [argyleink/open-props](https://github.com/argyleink/open-props)
+1. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-1918956927) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-1918051840) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#7](https://github.com/GoogleChromeLabs/postcss-jit-props/issues/7#issuecomment-1917140933) in [GoogleChromeLabs/postcss-jit-props](https://github.com/GoogleChromeLabs/postcss-jit-props)
+4. 🗣 Commented on [#8100](https://github.com/microsoft/playwright/issues/8100#issuecomment-1916826947) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. 🗣 Commented on [#11122](https://github.com/microsoft/playwright/issues/11122#issuecomment-1916758589) in [microsoft/playwright](https://github.com/microsoft/playwright)
   <!--END_SECTION:activity-->
 </details>
 
