@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#323](https://github.com/QuiiBz/next-international/issues/323#issuecomment-1921552862) in [QuiiBz/next-international](https://github.com/QuiiBz/next-international)
-2. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921330244) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-3. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921272406) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-4. 🗣 Commented on [#55](https://github.com/martinkr/next-export-i18n/issues/55#issuecomment-1921263310) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-5. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921230453) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+1. 🗣 Commented on [#653](https://github.com/amannn/next-intl/issues/653#issuecomment-1922244321) in [amannn/next-intl](https://github.com/amannn/next-intl)
+2. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-1922225905) in [vercel/next.js](https://github.com/vercel/next.js)
+3. ❗ Opened issue [#831](https://github.com/amannn/next-intl/issues/831) in [amannn/next-intl](https://github.com/amannn/next-intl)
+4. 🗣 Commented on [#323](https://github.com/QuiiBz/next-international/issues/323#issuecomment-1921552862) in [QuiiBz/next-international](https://github.com/QuiiBz/next-international)
+5. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921330244) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
   <!--END_SECTION:activity-->
 </details>
 
