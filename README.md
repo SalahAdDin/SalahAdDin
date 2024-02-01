@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921272406) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-2. 🗣 Commented on [#55](https://github.com/martinkr/next-export-i18n/issues/55#issuecomment-1921263310) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-3. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921230453) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-4. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1919555296) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
-5. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-1919484430) in [mswjs/examples](https://github.com/mswjs/examples)
+1. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921330244) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+2. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921272406) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+3. 🗣 Commented on [#55](https://github.com/martinkr/next-export-i18n/issues/55#issuecomment-1921263310) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+4. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1921230453) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
+5. 🗣 Commented on [#32](https://github.com/martinkr/next-export-i18n/issues/32#issuecomment-1919555296) in [martinkr/next-export-i18n](https://github.com/martinkr/next-export-i18n)
   <!--END_SECTION:activity-->
 </details>
 
