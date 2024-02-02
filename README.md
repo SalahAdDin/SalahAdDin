@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1923820460) in [amannn/next-intl](https://github.com/amannn/next-intl)
-2. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1923811146) in [amannn/next-intl](https://github.com/amannn/next-intl)
-3. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1923791013) in [amannn/next-intl](https://github.com/amannn/next-intl)
-4. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1922264071) in [amannn/next-intl](https://github.com/amannn/next-intl)
-5. 🗣 Commented on [#833](https://github.com/amannn/next-intl/issues/833#issuecomment-1922263718) in [amannn/next-intl](https://github.com/amannn/next-intl)
+1. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1924057240) in [amannn/next-intl](https://github.com/amannn/next-intl)
+2. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1923820460) in [amannn/next-intl](https://github.com/amannn/next-intl)
+3. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1923811146) in [amannn/next-intl](https://github.com/amannn/next-intl)
+4. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1923791013) in [amannn/next-intl](https://github.com/amannn/next-intl)
+5. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1922264071) in [amannn/next-intl](https://github.com/amannn/next-intl)
   <!--END_SECTION:activity-->
 </details>
 
