@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1925380320) in [amannn/next-intl](https://github.com/amannn/next-intl)
-2. 🗣 Commented on [#570](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/570#issuecomment-1925372528) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
-3. ❗ Opened issue [#570](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/570) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
-4. 🗣 Commented on [#9080](https://github.com/facebook/docusaurus/issues/9080#issuecomment-1924237182) in [facebook/docusaurus](https://github.com/facebook/docusaurus)
-5. 🗣 Commented on [#170](https://github.com/TypeStrong/typedoc/issues/170#issuecomment-1924211720) in [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc)
+1. 🗣 Commented on [#570](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/570#issuecomment-1925438685) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+2. 🔒 Closed issue [#570](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/570) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+3. 🗣 Commented on [#832](https://github.com/amannn/next-intl/issues/832#issuecomment-1925380320) in [amannn/next-intl](https://github.com/amannn/next-intl)
+4. 🗣 Commented on [#570](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/570#issuecomment-1925372528) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+5. ❗ Opened issue [#570](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/570) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
   <!--END_SECTION:activity-->
 </details>
 
