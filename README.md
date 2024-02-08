@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#146](https://github.com/IanVS/prettier-plugin-sort-imports/issues/146) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-2. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1932049954) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
-3. 🗣 Commented on [#3](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/3#issuecomment-1932048254) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
-4. 🗣 Commented on [#3](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/3#issuecomment-1932038192) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
-5. ❗ Opened issue [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+1. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1934253451) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+2. ❗ Opened issue [#6](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/6) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
+3. ❗ Opened issue [#146](https://github.com/IanVS/prettier-plugin-sort-imports/issues/146) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+4. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1932049954) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+5. 🗣 Commented on [#3](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/3#issuecomment-1932048254) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
   <!--END_SECTION:activity-->
 </details>
 
