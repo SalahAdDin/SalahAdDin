@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-1936042744) in [mswjs/examples](https://github.com/mswjs/examples)
-2. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-1935045644) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1934562177) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
-4. 🗣 Commented on [#6](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/6#issuecomment-1934556209) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
-5. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1934253451) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+1. 🗣 Commented on [#25966](https://github.com/storybookjs/storybook/issues/25966#issuecomment-1936128988) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-1936042744) in [mswjs/examples](https://github.com/mswjs/examples)
+3. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-1935045644) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1934562177) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+5. 🗣 Commented on [#6](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/6#issuecomment-1934556209) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
   <!--END_SECTION:activity-->
 </details>
 
