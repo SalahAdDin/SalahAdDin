@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1937367058) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1937020526) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-1936854660) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#6](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/6#issuecomment-1936823882) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
-5. 🗣 Commented on [#573](https://github.com/tgreyuk/typedoc-plugin-markdown/issues/573#issuecomment-1936814424) in [tgreyuk/typedoc-plugin-markdown](https://github.com/tgreyuk/typedoc-plugin-markdown)
+1. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1938572387) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1937367058) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1937020526) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-1936854660) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#6](https://github.com/Gerrit0/typedoc-plugin-coverage/issues/6#issuecomment-1936823882) in [Gerrit0/typedoc-plugin-coverage](https://github.com/Gerrit0/typedoc-plugin-coverage)
   <!--END_SECTION:activity-->
 </details>
 
