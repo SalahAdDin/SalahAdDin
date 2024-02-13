@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1940339031) in [aidenybai/million](https://github.com/aidenybai/million)
-2. 🗣 Commented on [#3648](https://github.com/withastro/astro/issues/3648#issuecomment-1940334546) in [withastro/astro](https://github.com/withastro/astro)
-3. 🗣 Commented on [#207](https://github.com/argyleink/open-props/issues/207#issuecomment-1940234771) in [argyleink/open-props](https://github.com/argyleink/open-props)
-4. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1939864668) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 🗣 Commented on [#1462](https://github.com/radix-ui/primitives/issues/1462#issuecomment-1938876735) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+1. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1941489548) in [aidenybai/million](https://github.com/aidenybai/million)
+2. ❗ Opened issue [#7](https://github.com/literalpie/storybook-addon-rtl/issues/7) in [literalpie/storybook-addon-rtl](https://github.com/literalpie/storybook-addon-rtl)
+3. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1940339031) in [aidenybai/million](https://github.com/aidenybai/million)
+4. 🗣 Commented on [#3648](https://github.com/withastro/astro/issues/3648#issuecomment-1940334546) in [withastro/astro](https://github.com/withastro/astro)
+5. 🗣 Commented on [#207](https://github.com/argyleink/open-props/issues/207#issuecomment-1940234771) in [argyleink/open-props](https://github.com/argyleink/open-props)
   <!--END_SECTION:activity-->
 </details>
 
