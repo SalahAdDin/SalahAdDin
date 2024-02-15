@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19711](https://github.com/storybookjs/storybook/issues/19711#issuecomment-1942958750) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. ❗ Opened issue [#2703](https://github.com/radix-ui/primitives/issues/2703) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-3. 🗣 Commented on [#18269](https://github.com/storybookjs/storybook/issues/18269#issuecomment-1942482510) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1942226983) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1941489548) in [aidenybai/million](https://github.com/aidenybai/million)
+1. ❗ Opened issue [#868](https://github.com/amannn/next-intl/issues/868) in [amannn/next-intl](https://github.com/amannn/next-intl)
+2. 🗣 Commented on [#19711](https://github.com/storybookjs/storybook/issues/19711#issuecomment-1942958750) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. ❗ Opened issue [#2703](https://github.com/radix-ui/primitives/issues/2703) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+4. 🗣 Commented on [#18269](https://github.com/storybookjs/storybook/issues/18269#issuecomment-1942482510) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-1942226983) in [aidenybai/million](https://github.com/aidenybai/million)
   <!--END_SECTION:activity-->
 </details>
 
