@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#207](https://github.com/argyleink/open-props/issues/207#issuecomment-1956642068) in [argyleink/open-props](https://github.com/argyleink/open-props)
-2. ❗ Opened issue [#26076](https://github.com/storybookjs/storybook/issues/26076) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#868](https://github.com/amannn/next-intl/issues/868#issuecomment-1949629483) in [amannn/next-intl](https://github.com/amannn/next-intl)
-4. 🗣 Commented on [#987](https://github.com/radix-ui/primitives/issues/987#issuecomment-1948527482) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-5. ❗ Opened issue [#868](https://github.com/amannn/next-intl/issues/868) in [amannn/next-intl](https://github.com/amannn/next-intl)
+1. 🗣 Commented on [#25966](https://github.com/storybookjs/storybook/issues/25966#issuecomment-1957182061) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#207](https://github.com/argyleink/open-props/issues/207#issuecomment-1956642068) in [argyleink/open-props](https://github.com/argyleink/open-props)
+3. ❗ Opened issue [#26076](https://github.com/storybookjs/storybook/issues/26076) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#868](https://github.com/amannn/next-intl/issues/868#issuecomment-1949629483) in [amannn/next-intl](https://github.com/amannn/next-intl)
+5. 🗣 Commented on [#987](https://github.com/radix-ui/primitives/issues/987#issuecomment-1948527482) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
   <!--END_SECTION:activity-->
 </details>
 
