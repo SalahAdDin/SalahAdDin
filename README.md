@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1969607646) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#26239](https://github.com/storybookjs/storybook/issues/26239#issuecomment-1969594347) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. ❗ Opened issue [#26239](https://github.com/storybookjs/storybook/issues/26239) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#24625](https://github.com/storybookjs/storybook/issues/24625#issuecomment-1969579434) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. ❗ Opened issue [#301](https://github.com/mswjs/data/issues/301) in [mswjs/data](https://github.com/mswjs/data)
+1. 🗣 Commented on [#19711](https://github.com/storybookjs/storybook/issues/19711#issuecomment-1970000133) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#136](https://github.com/mswjs/msw-storybook-addon/issues/136#issuecomment-1969966708) in [mswjs/msw-storybook-addon](https://github.com/mswjs/msw-storybook-addon)
+3. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-1969607646) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#26239](https://github.com/storybookjs/storybook/issues/26239#issuecomment-1969594347) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. ❗ Opened issue [#26239](https://github.com/storybookjs/storybook/issues/26239) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
