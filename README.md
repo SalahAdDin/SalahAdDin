@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
-2. 🗣 Commented on [#1340](https://github.com/mswjs/msw/issues/1340#issuecomment-1979372012) in [mswjs/msw](https://github.com/mswjs/msw)
-3. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-1979204994) in [mswjs/examples](https://github.com/mswjs/examples)
-4. 🗣 Commented on [#146](https://github.com/IanVS/prettier-plugin-sort-imports/issues/146#issuecomment-1977407087) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-5. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-1976497154) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#2033](https://github.com/TypeStrong/ts-node/issues/2033#issuecomment-1979481526) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+2. 🔒 Closed issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
+3. ❗ Opened issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
+4. 🗣 Commented on [#1340](https://github.com/mswjs/msw/issues/1340#issuecomment-1979372012) in [mswjs/msw](https://github.com/mswjs/msw)
+5. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-1979204994) in [mswjs/examples](https://github.com/mswjs/examples)
   <!--END_SECTION:activity-->
 </details>
 
