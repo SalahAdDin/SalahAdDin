@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146](https://github.com/IanVS/prettier-plugin-sort-imports/issues/146#issuecomment-1977407087) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-2. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-1976497154) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#26031](https://github.com/storybookjs/storybook/issues/26031#issuecomment-1972274053) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. ❗ Opened issue [#26270](https://github.com/storybookjs/storybook/issues/26270) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#26243](https://github.com/storybookjs/storybook/pull/26243#issuecomment-1972246707) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-1979204994) in [mswjs/examples](https://github.com/mswjs/examples)
+2. 🗣 Commented on [#146](https://github.com/IanVS/prettier-plugin-sort-imports/issues/146#issuecomment-1977407087) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+3. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-1976497154) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#26031](https://github.com/storybookjs/storybook/issues/26031#issuecomment-1972274053) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. ❗ Opened issue [#26270](https://github.com/storybookjs/storybook/issues/26270) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
