@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-1979663450) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#2033](https://github.com/TypeStrong/ts-node/issues/2033#issuecomment-1979481526) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
-3. 🔒 Closed issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
-4. ❗ Opened issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
-5. 🗣 Commented on [#1340](https://github.com/mswjs/msw/issues/1340#issuecomment-1979372012) in [mswjs/msw](https://github.com/mswjs/msw)
+1. 🗣 Commented on [#1784](https://github.com/radix-ui/primitives/issues/1784#issuecomment-1980990832) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+2. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-1979663450) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#2033](https://github.com/TypeStrong/ts-node/issues/2033#issuecomment-1979481526) in [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node)
+4. 🔒 Closed issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
+5. ❗ Opened issue [#42](https://github.com/mswjs/http-middleware/issues/42) in [mswjs/http-middleware](https://github.com/mswjs/http-middleware)
   <!--END_SECTION:activity-->
 </details>
 
