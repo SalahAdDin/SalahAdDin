@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-2002030502) in [mswjs/msw](https://github.com/mswjs/msw)
-2. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2002007839) in [aidenybai/million](https://github.com/aidenybai/million)
-3. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-2002007425) in [mswjs/msw](https://github.com/mswjs/msw)
-4. ❗ Opened issue [#991](https://github.com/aidenybai/million/issues/991) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 🗣 Commented on [#2622](https://github.com/radix-ui/primitives/issues/2622#issuecomment-1992659817) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+1. 🗣 Commented on [#34448](https://github.com/vercel/next.js/issues/34448#issuecomment-2003989659) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2003978896) in [aidenybai/million](https://github.com/aidenybai/million)
+3. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2003975491) in [aidenybai/million](https://github.com/aidenybai/million)
+4. 🗣 Commented on [#1644](https://github.com/mswjs/msw/issues/1644#issuecomment-2002030502) in [mswjs/msw](https://github.com/mswjs/msw)
+5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2002007839) in [aidenybai/million](https://github.com/aidenybai/million)
   <!--END_SECTION:activity-->
 </details>
 
