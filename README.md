@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#294](https://github.com/semantic-release/commit-analyzer/issues/294#issuecomment-2007528799) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
-2. 🗣 Commented on [#178](https://github.com/semantic-release/commit-analyzer/issues/178#issuecomment-2007475765) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
-3. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2007424762) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#34448](https://github.com/vercel/next.js/issues/34448#issuecomment-2003989659) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2003978896) in [aidenybai/million](https://github.com/aidenybai/million)
+1. 🗣 Commented on [#394](https://github.com/semantic-release/commit-analyzer/issues/394#issuecomment-2007692065) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
+2. 🗣 Commented on [#294](https://github.com/semantic-release/commit-analyzer/issues/294#issuecomment-2007528799) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
+3. 🗣 Commented on [#178](https://github.com/semantic-release/commit-analyzer/issues/178#issuecomment-2007475765) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
+4. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2007424762) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#34448](https://github.com/vercel/next.js/issues/34448#issuecomment-2003989659) in [vercel/next.js](https://github.com/vercel/next.js)
   <!--END_SECTION:activity-->
 </details>
 
