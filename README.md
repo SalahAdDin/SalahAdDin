@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#302](https://github.com/mswjs/data/issues/302) in [mswjs/data](https://github.com/mswjs/data)
-2. 🗣 Commented on [#162](https://github.com/mswjs/data/issues/162#issuecomment-2013736456) in [mswjs/data](https://github.com/mswjs/data)
-3. 🗣 Commented on [#285](https://github.com/mswjs/data/issues/285#issuecomment-2013732768) in [mswjs/data](https://github.com/mswjs/data)
-4. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2012509013) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 🗣 Commented on [#394](https://github.com/semantic-release/commit-analyzer/issues/394#issuecomment-2007692065) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
+1. ❗ Opened issue [#1352](https://github.com/capricorn86/happy-dom/issues/1352) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+2. ❗ Opened issue [#302](https://github.com/mswjs/data/issues/302) in [mswjs/data](https://github.com/mswjs/data)
+3. 🗣 Commented on [#162](https://github.com/mswjs/data/issues/162#issuecomment-2013736456) in [mswjs/data](https://github.com/mswjs/data)
+4. 🗣 Commented on [#285](https://github.com/mswjs/data/issues/285#issuecomment-2013732768) in [mswjs/data](https://github.com/mswjs/data)
+5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2012509013) in [aidenybai/million](https://github.com/aidenybai/million)
   <!--END_SECTION:activity-->
 </details>
 
