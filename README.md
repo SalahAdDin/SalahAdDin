@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1352](https://github.com/capricorn86/happy-dom/issues/1352) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-2. ❗ Opened issue [#302](https://github.com/mswjs/data/issues/302) in [mswjs/data](https://github.com/mswjs/data)
-3. 🗣 Commented on [#162](https://github.com/mswjs/data/issues/162#issuecomment-2013736456) in [mswjs/data](https://github.com/mswjs/data)
-4. 🗣 Commented on [#285](https://github.com/mswjs/data/issues/285#issuecomment-2013732768) in [mswjs/data](https://github.com/mswjs/data)
-5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2012509013) in [aidenybai/million](https://github.com/aidenybai/million)
+1. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2018224431) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+2. 🗣 Commented on [#26031](https://github.com/storybookjs/storybook/issues/26031#issuecomment-2018218989) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#178](https://github.com/semantic-release/commit-analyzer/issues/178#issuecomment-2018192298) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
+4. ❗ Opened issue [#1352](https://github.com/capricorn86/happy-dom/issues/1352) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+5. ❗ Opened issue [#302](https://github.com/mswjs/data/issues/302) in [mswjs/data](https://github.com/mswjs/data)
   <!--END_SECTION:activity-->
 </details>
 
