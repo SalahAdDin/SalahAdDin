@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2020583656) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-2. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2018284802) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-3. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2018224431) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
-4. 🗣 Commented on [#26031](https://github.com/storybookjs/storybook/issues/26031#issuecomment-2018218989) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#178](https://github.com/semantic-release/commit-analyzer/issues/178#issuecomment-2018192298) in [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer)
+1. 🗣 Commented on [#302](https://github.com/mswjs/data/issues/302#issuecomment-2021502486) in [mswjs/data](https://github.com/mswjs/data)
+2. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2020583656) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+3. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2018284802) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+4. 🗣 Commented on [#1352](https://github.com/capricorn86/happy-dom/issues/1352#issuecomment-2018224431) in [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom)
+5. 🗣 Commented on [#26031](https://github.com/storybookjs/storybook/issues/26031#issuecomment-2018218989) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
