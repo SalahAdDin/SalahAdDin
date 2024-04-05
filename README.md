@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1462](https://github.com/radix-ui/primitives/issues/1462#issuecomment-2035500600) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-2. 🗣 Commented on [#75995](https://github.com/flutter/flutter/issues/75995#issuecomment-2034841459) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2034840000) in [aidenybai/million](https://github.com/aidenybai/million)
-4. 🗣 Commented on [#453](https://github.com/video-react/video-react/issues/453#issuecomment-2033168959) in [video-react/video-react](https://github.com/video-react/video-react)
-5. 🗣 Commented on [#18773](https://github.com/strapi/strapi/pull/18773#issuecomment-2022894517) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗ Opened issue [#223](https://github.com/muxinc/next-video/issues/223) in [muxinc/next-video](https://github.com/muxinc/next-video)
+2. 🗣 Commented on [#1462](https://github.com/radix-ui/primitives/issues/1462#issuecomment-2035500600) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+3. 🗣 Commented on [#75995](https://github.com/flutter/flutter/issues/75995#issuecomment-2034841459) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2034840000) in [aidenybai/million](https://github.com/aidenybai/million)
+5. 🗣 Commented on [#453](https://github.com/video-react/video-react/issues/453#issuecomment-2033168959) in [video-react/video-react](https://github.com/video-react/video-react)
   <!--END_SECTION:activity-->
 </details>
 
