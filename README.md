@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2041254980) in [aidenybai/million](https://github.com/aidenybai/million)
-2. 🗣 Commented on [#1791](https://github.com/faker-js/faker/issues/1791#issuecomment-2041250785) in [faker-js/faker](https://github.com/faker-js/faker)
-3. 🗣 Commented on [#26651](https://github.com/storybookjs/storybook/pull/26651#issuecomment-2040655140) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#58687](https://github.com/vercel/next.js/issues/58687#issuecomment-2040619630) in [vercel/next.js](https://github.com/vercel/next.js)
-5. ❗ Opened issue [#223](https://github.com/muxinc/next-video/issues/223) in [muxinc/next-video](https://github.com/muxinc/next-video)
+1. ❗ Opened issue [#414](https://github.com/veritem/eslint-plugin-vitest/issues/414) in [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest)
+2. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2041254980) in [aidenybai/million](https://github.com/aidenybai/million)
+3. 🗣 Commented on [#1791](https://github.com/faker-js/faker/issues/1791#issuecomment-2041250785) in [faker-js/faker](https://github.com/faker-js/faker)
+4. 🗣 Commented on [#26651](https://github.com/storybookjs/storybook/pull/26651#issuecomment-2040655140) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#58687](https://github.com/vercel/next.js/issues/58687#issuecomment-2040619630) in [vercel/next.js](https://github.com/vercel/next.js)
   <!--END_SECTION:activity-->
 </details>
 
