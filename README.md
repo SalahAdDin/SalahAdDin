@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#121](https://github.com/mswjs/msw-storybook-addon/issues/121#issuecomment-2061989764) in [mswjs/msw-storybook-addon](https://github.com/mswjs/msw-storybook-addon)
-2. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2059721271) in [muxinc/next-video](https://github.com/muxinc/next-video)
-3. 🗣 Commented on [#25891](https://github.com/storybookjs/storybook/issues/25891#issuecomment-2051778917) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#2790](https://github.com/faker-js/faker/pull/2790#issuecomment-2049480085) in [faker-js/faker](https://github.com/faker-js/faker)
-5. 🗣 Commented on [#189](https://github.com/odoo/docker/issues/189#issuecomment-2048649756) in [odoo/docker](https://github.com/odoo/docker)
+1. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2065493389) in [muxinc/next-video](https://github.com/muxinc/next-video)
+2. 🗣 Commented on [#121](https://github.com/mswjs/msw-storybook-addon/issues/121#issuecomment-2061989764) in [mswjs/msw-storybook-addon](https://github.com/mswjs/msw-storybook-addon)
+3. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2059721271) in [muxinc/next-video](https://github.com/muxinc/next-video)
+4. 🗣 Commented on [#25891](https://github.com/storybookjs/storybook/issues/25891#issuecomment-2051778917) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#2790](https://github.com/faker-js/faker/pull/2790#issuecomment-2049480085) in [faker-js/faker](https://github.com/faker-js/faker)
   <!--END_SECTION:activity-->
 </details>
 
