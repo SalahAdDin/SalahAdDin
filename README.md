@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256#issuecomment-2067430869) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
-2. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2067428724) in [aidenybai/million](https://github.com/aidenybai/million)
-3. ❗ Opened issue [#11](https://github.com/luluhoc/medusa-plugin-abandoned-cart/issues/11) in [luluhoc/medusa-plugin-abandoned-cart](https://github.com/luluhoc/medusa-plugin-abandoned-cart)
-4. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2065493389) in [muxinc/next-video](https://github.com/muxinc/next-video)
-5. 🗣 Commented on [#121](https://github.com/mswjs/msw-storybook-addon/issues/121#issuecomment-2061989764) in [mswjs/msw-storybook-addon](https://github.com/mswjs/msw-storybook-addon)
+1. 🗣 Commented on [#24389](https://github.com/frappe/erpnext/issues/24389#issuecomment-2067544984) in [frappe/erpnext](https://github.com/frappe/erpnext)
+2. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256#issuecomment-2067430869) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
+3. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2067428724) in [aidenybai/million](https://github.com/aidenybai/million)
+4. ❗ Opened issue [#11](https://github.com/luluhoc/medusa-plugin-abandoned-cart/issues/11) in [luluhoc/medusa-plugin-abandoned-cart](https://github.com/luluhoc/medusa-plugin-abandoned-cart)
+5. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2065493389) in [muxinc/next-video](https://github.com/muxinc/next-video)
   <!--END_SECTION:activity-->
 </details>
 
