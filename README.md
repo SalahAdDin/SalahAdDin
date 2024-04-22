@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15850](https://github.com/frappe/erpnext/issues/15850#issuecomment-2068318279) in [frappe/erpnext](https://github.com/frappe/erpnext)
-2. ❗ Opened issue [#41119](https://github.com/frappe/erpnext/issues/41119) in [frappe/erpnext](https://github.com/frappe/erpnext)
-3. 🗣 Commented on [#24389](https://github.com/frappe/erpnext/issues/24389#issuecomment-2067544984) in [frappe/erpnext](https://github.com/frappe/erpnext)
-4. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256#issuecomment-2067430869) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
-5. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2067428724) in [aidenybai/million](https://github.com/aidenybai/million)
+1. ❗ Opened issue [#41128](https://github.com/frappe/erpnext/issues/41128) in [frappe/erpnext](https://github.com/frappe/erpnext)
+2. 🗣 Commented on [#15850](https://github.com/frappe/erpnext/issues/15850#issuecomment-2068318279) in [frappe/erpnext](https://github.com/frappe/erpnext)
+3. ❗ Opened issue [#41119](https://github.com/frappe/erpnext/issues/41119) in [frappe/erpnext](https://github.com/frappe/erpnext)
+4. 🗣 Commented on [#24389](https://github.com/frappe/erpnext/issues/24389#issuecomment-2067544984) in [frappe/erpnext](https://github.com/frappe/erpnext)
+5. 🗣 Commented on [#256](https://github.com/cchanxzy/react-currency-input-field/issues/256#issuecomment-2067430869) in [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field)
   <!--END_SECTION:activity-->
 </details>
 
