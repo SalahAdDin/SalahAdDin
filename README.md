@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41119](https://github.com/frappe/erpnext/issues/41119#issuecomment-2070987759) in [frappe/erpnext](https://github.com/frappe/erpnext)
-2. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2068551281) in [muxinc/next-video](https://github.com/muxinc/next-video)
-3. ❗ Opened issue [#41128](https://github.com/frappe/erpnext/issues/41128) in [frappe/erpnext](https://github.com/frappe/erpnext)
-4. 🗣 Commented on [#15850](https://github.com/frappe/erpnext/issues/15850#issuecomment-2068318279) in [frappe/erpnext](https://github.com/frappe/erpnext)
-5. ❗ Opened issue [#41119](https://github.com/frappe/erpnext/issues/41119) in [frappe/erpnext](https://github.com/frappe/erpnext)
+1. 🗣 Commented on [#11](https://github.com/luluhoc/medusa-plugin-abandoned-cart/issues/11#issuecomment-2071244673) in [luluhoc/medusa-plugin-abandoned-cart](https://github.com/luluhoc/medusa-plugin-abandoned-cart)
+2. 🗣 Commented on [#41119](https://github.com/frappe/erpnext/issues/41119#issuecomment-2070987759) in [frappe/erpnext](https://github.com/frappe/erpnext)
+3. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2068551281) in [muxinc/next-video](https://github.com/muxinc/next-video)
+4. ❗ Opened issue [#41128](https://github.com/frappe/erpnext/issues/41128) in [frappe/erpnext](https://github.com/frappe/erpnext)
+5. 🗣 Commented on [#15850](https://github.com/frappe/erpnext/issues/15850#issuecomment-2068318279) in [frappe/erpnext](https://github.com/frappe/erpnext)
   <!--END_SECTION:activity-->
 </details>
 
