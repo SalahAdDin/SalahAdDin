@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-plugin-seo/pull/1) in [SalahAdDin/strapi-plugin-seo](https://github.com/SalahAdDin/strapi-plugin-seo)
-2. ❗ Opened issue [#70](https://github.com/strapi/strapi-plugin-seo/issues/70) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-3. 🗣 Commented on [#66](https://github.com/strapi/strapi-plugin-seo/issues/66#issuecomment-2071285976) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-4. 🗣 Commented on [#59](https://github.com/strapi/strapi-plugin-seo/issues/59#issuecomment-2071285437) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-5. 🗣 Commented on [#66](https://github.com/strapi/strapi-plugin-seo/issues/66#issuecomment-2071285007) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 💪 Opened PR [#71](https://github.com/strapi/strapi-plugin-seo/pull/71) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+2. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-plugin-seo/pull/1) in [SalahAdDin/strapi-plugin-seo](https://github.com/SalahAdDin/strapi-plugin-seo)
+3. ❗ Opened issue [#70](https://github.com/strapi/strapi-plugin-seo/issues/70) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+4. 🗣 Commented on [#66](https://github.com/strapi/strapi-plugin-seo/issues/66#issuecomment-2071285976) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#59](https://github.com/strapi/strapi-plugin-seo/issues/59#issuecomment-2071285437) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
   <!--END_SECTION:activity-->
 </details>
 
