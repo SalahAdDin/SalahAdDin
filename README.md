@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/luluhoc/medusa-plugin-abandoned-cart/issues/11#issuecomment-2071244673) in [luluhoc/medusa-plugin-abandoned-cart](https://github.com/luluhoc/medusa-plugin-abandoned-cart)
-2. 🗣 Commented on [#41119](https://github.com/frappe/erpnext/issues/41119#issuecomment-2070987759) in [frappe/erpnext](https://github.com/frappe/erpnext)
-3. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2068551281) in [muxinc/next-video](https://github.com/muxinc/next-video)
-4. ❗ Opened issue [#41128](https://github.com/frappe/erpnext/issues/41128) in [frappe/erpnext](https://github.com/frappe/erpnext)
-5. 🗣 Commented on [#15850](https://github.com/frappe/erpnext/issues/15850#issuecomment-2068318279) in [frappe/erpnext](https://github.com/frappe/erpnext)
+1. ❗ Opened issue [#70](https://github.com/strapi/strapi-plugin-seo/issues/70) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+2. 🗣 Commented on [#66](https://github.com/strapi/strapi-plugin-seo/issues/66#issuecomment-2071285976) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+3. 🗣 Commented on [#59](https://github.com/strapi/strapi-plugin-seo/issues/59#issuecomment-2071285437) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+4. 🗣 Commented on [#66](https://github.com/strapi/strapi-plugin-seo/issues/66#issuecomment-2071285007) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#67](https://github.com/strapi/strapi-plugin-seo/issues/67#issuecomment-2071283821) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
   <!--END_SECTION:activity-->
 </details>
 
