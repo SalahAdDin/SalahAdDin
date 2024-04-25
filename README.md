@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/luluhoc/medusa-plugin-abandoned-cart/issues/11#issuecomment-2073608364) in [luluhoc/medusa-plugin-abandoned-cart](https://github.com/luluhoc/medusa-plugin-abandoned-cart)
-2. 🗣 Commented on [#22](https://github.com/nvh95/vitest-preview/issues/22#issuecomment-2073593117) in [nvh95/vitest-preview](https://github.com/nvh95/vitest-preview)
-3. 🗣 Commented on [#41119](https://github.com/frappe/erpnext/issues/41119#issuecomment-2073587758) in [frappe/erpnext](https://github.com/frappe/erpnext)
-4. 💪 Opened PR [#71](https://github.com/strapi/strapi-plugin-seo/pull/71) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-5. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-plugin-seo/pull/1) in [SalahAdDin/strapi-plugin-seo](https://github.com/SalahAdDin/strapi-plugin-seo)
+1. 🗣 Commented on [#20028](https://github.com/strapi/strapi/issues/20028#issuecomment-2076309954) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#19953](https://github.com/strapi/strapi/issues/19953#issuecomment-2076303401) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2076297299) in [aidenybai/million](https://github.com/aidenybai/million)
+4. 🗣 Commented on [#958](https://github.com/aidenybai/million/issues/958#issuecomment-2076288896) in [aidenybai/million](https://github.com/aidenybai/million)
+5. 🗣 Commented on [#11](https://github.com/luluhoc/medusa-plugin-abandoned-cart/issues/11#issuecomment-2073608364) in [luluhoc/medusa-plugin-abandoned-cart](https://github.com/luluhoc/medusa-plugin-abandoned-cart)
   <!--END_SECTION:activity-->
 </details>
 
