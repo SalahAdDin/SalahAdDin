@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20149](https://github.com/strapi/strapi/issues/20149#issuecomment-2078772069) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#6075](https://github.com/yarnpkg/berry/pull/6075#issuecomment-2078643194) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-3. 🗣 Commented on [#4514](https://github.com/yarnpkg/berry/issues/4514#issuecomment-2078630594) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-4. 🗣 Commented on [#20028](https://github.com/strapi/strapi/issues/20028#issuecomment-2076309954) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#19953](https://github.com/strapi/strapi/issues/19953#issuecomment-2076303401) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗ Opened issue [#20220](https://github.com/strapi/strapi/issues/20220) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#20149](https://github.com/strapi/strapi/issues/20149#issuecomment-2078772069) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#6075](https://github.com/yarnpkg/berry/pull/6075#issuecomment-2078643194) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+4. 🗣 Commented on [#4514](https://github.com/yarnpkg/berry/issues/4514#issuecomment-2078630594) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+5. 🗣 Commented on [#20028](https://github.com/strapi/strapi/issues/20028#issuecomment-2076309954) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
