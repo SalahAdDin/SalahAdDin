@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20222](https://github.com/strapi/strapi/issues/20222) in [strapi/strapi](https://github.com/strapi/strapi)
-2. ❗ Opened issue [#20220](https://github.com/strapi/strapi/issues/20220) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#20149](https://github.com/strapi/strapi/issues/20149#issuecomment-2078772069) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#6075](https://github.com/yarnpkg/berry/pull/6075#issuecomment-2078643194) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
-5. 🗣 Commented on [#4514](https://github.com/yarnpkg/berry/issues/4514#issuecomment-2078630594) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+1. 🗣 Commented on [#133](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/133#issuecomment-2081327317) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+2. ❗ Opened issue [#20222](https://github.com/strapi/strapi/issues/20222) in [strapi/strapi](https://github.com/strapi/strapi)
+3. ❗ Opened issue [#20220](https://github.com/strapi/strapi/issues/20220) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#20149](https://github.com/strapi/strapi/issues/20149#issuecomment-2078772069) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#6075](https://github.com/yarnpkg/berry/pull/6075#issuecomment-2078643194) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
   <!--END_SECTION:activity-->
 </details>
 
