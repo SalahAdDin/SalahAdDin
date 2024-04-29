@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/133#issuecomment-2081327317) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-2. ❗ Opened issue [#20222](https://github.com/strapi/strapi/issues/20222) in [strapi/strapi](https://github.com/strapi/strapi)
-3. ❗ Opened issue [#20220](https://github.com/strapi/strapi/issues/20220) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#20149](https://github.com/strapi/strapi/issues/20149#issuecomment-2078772069) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#6075](https://github.com/yarnpkg/berry/pull/6075#issuecomment-2078643194) in [yarnpkg/berry](https://github.com/yarnpkg/berry)
+1. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2081719022) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#20](https://github.com/gianlucaparadise/strapi-plugin-vercel-deploy/issues/20#issuecomment-2081716835) in [gianlucaparadise/strapi-plugin-vercel-deploy](https://github.com/gianlucaparadise/strapi-plugin-vercel-deploy)
+3. 🗣 Commented on [#2](https://github.com/remidej/strapi-plugin-todo/issues/2#issuecomment-2081711727) in [remidej/strapi-plugin-todo](https://github.com/remidej/strapi-plugin-todo)
+4. 🗣 Commented on [#133](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/133#issuecomment-2081327317) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+5. ❗ Opened issue [#20222](https://github.com/strapi/strapi/issues/20222) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
