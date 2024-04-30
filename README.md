@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager/issues/25#issuecomment-2081837992) in [eigengrau-ch/strapi-plugin-cookie-manager](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager)
-2. ❗ Opened issue [#1691](https://github.com/typesense/typesense/issues/1691) in [typesense/typesense](https://github.com/typesense/typesense)
-3. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2081719022) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#20](https://github.com/gianlucaparadise/strapi-plugin-vercel-deploy/issues/20#issuecomment-2081716835) in [gianlucaparadise/strapi-plugin-vercel-deploy](https://github.com/gianlucaparadise/strapi-plugin-vercel-deploy)
-5. 🗣 Commented on [#2](https://github.com/remidej/strapi-plugin-todo/issues/2#issuecomment-2081711727) in [remidej/strapi-plugin-todo](https://github.com/remidej/strapi-plugin-todo)
+1. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2084399281) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#25](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager/issues/25#issuecomment-2081837992) in [eigengrau-ch/strapi-plugin-cookie-manager](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager)
+3. ❗ Opened issue [#1691](https://github.com/typesense/typesense/issues/1691) in [typesense/typesense](https://github.com/typesense/typesense)
+4. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2081719022) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#20](https://github.com/gianlucaparadise/strapi-plugin-vercel-deploy/issues/20#issuecomment-2081716835) in [gianlucaparadise/strapi-plugin-vercel-deploy](https://github.com/gianlucaparadise/strapi-plugin-vercel-deploy)
   <!--END_SECTION:activity-->
 </details>
 
