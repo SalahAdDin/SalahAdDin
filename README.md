@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20253](https://github.com/strapi/strapi/issues/20253) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2084399281) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#25](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager/issues/25#issuecomment-2081837992) in [eigengrau-ch/strapi-plugin-cookie-manager](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager)
-4. ❗ Opened issue [#1691](https://github.com/typesense/typesense/issues/1691) in [typesense/typesense](https://github.com/typesense/typesense)
-5. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2081719022) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗ Opened issue [#100](https://github.com/strapi-community/strapi-plugin-transformer/issues/100) in [strapi-community/strapi-plugin-transformer](https://github.com/strapi-community/strapi-plugin-transformer)
+2. ❗ Opened issue [#20253](https://github.com/strapi/strapi/issues/20253) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2084399281) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#25](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager/issues/25#issuecomment-2081837992) in [eigengrau-ch/strapi-plugin-cookie-manager](https://github.com/eigengrau-ch/strapi-plugin-cookie-manager)
+5. ❗ Opened issue [#1691](https://github.com/typesense/typesense/issues/1691) in [typesense/typesense](https://github.com/typesense/typesense)
   <!--END_SECTION:activity-->
 </details>
 
