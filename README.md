@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. ❗ Opened issue [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. ❗ Opened issue [#100](https://github.com/strapi-community/strapi-plugin-transformer/issues/100) in [strapi-community/strapi-plugin-transformer](https://github.com/strapi-community/strapi-plugin-transformer)
-4. ❗ Opened issue [#20253](https://github.com/strapi/strapi/issues/20253) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2084399281) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2094354482) in [aidenybai/million](https://github.com/aidenybai/million)
+2. ❗ Opened issue [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. ❗ Opened issue [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. ❗ Opened issue [#100](https://github.com/strapi-community/strapi-plugin-transformer/issues/100) in [strapi-community/strapi-plugin-transformer](https://github.com/strapi-community/strapi-plugin-transformer)
+5. ❗ Opened issue [#20253](https://github.com/strapi/strapi/issues/20253) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
