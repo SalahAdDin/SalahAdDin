@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095612088) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095610252) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. 🗣 Commented on [#11](https://github.com/ChrisEbert/strapi-plugin-country-select/issues/11#issuecomment-2095566384) in [ChrisEbert/strapi-plugin-country-select](https://github.com/ChrisEbert/strapi-plugin-country-select)
-4. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2094354482) in [aidenybai/million](https://github.com/aidenybai/million)
-5. ❗ Opened issue [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. ❗ Opened issue [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+2. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095612088) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095610252) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#11](https://github.com/ChrisEbert/strapi-plugin-country-select/issues/11#issuecomment-2095566384) in [ChrisEbert/strapi-plugin-country-select](https://github.com/ChrisEbert/strapi-plugin-country-select)
+5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2094354482) in [aidenybai/million](https://github.com/aidenybai/million)
   <!--END_SECTION:activity-->
 </details>
 
