@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512#issuecomment-2099523597) in [mui/material-ui](https://github.com/mui/material-ui)
-2. ❗ Opened issue [#430](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/430) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. ❗ Opened issue [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-4. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095612088) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095610252) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. 🗣 Commented on [#722](https://github.com/niklasvh/html2canvas/issues/722#issuecomment-2099537370) in [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas)
+2. 🗣 Commented on [#27512](https://github.com/mui/material-ui/issues/27512#issuecomment-2099523597) in [mui/material-ui](https://github.com/mui/material-ui)
+3. ❗ Opened issue [#430](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/430) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. ❗ Opened issue [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+5. 🗣 Commented on [#351](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/351#issuecomment-2095612088) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
