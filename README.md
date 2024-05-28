@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2128256916) in [aidenybai/million](https://github.com/aidenybai/million)
-2. ❗ Opened issue [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-3. 🗣 Commented on [#29](https://github.com/nateshmbhat/card-scanner-flutter/issues/29#issuecomment-2121337496) in [nateshmbhat/card-scanner-flutter](https://github.com/nateshmbhat/card-scanner-flutter)
-4. 🗣 Commented on [#20253](https://github.com/strapi/strapi/issues/20253#issuecomment-2121333087) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2119043174) in [aidenybai/million](https://github.com/aidenybai/million)
+1. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2134243517) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+2. 🗣 Commented on [#26243](https://github.com/storybookjs/storybook/pull/26243#issuecomment-2134240253) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2128256916) in [aidenybai/million](https://github.com/aidenybai/million)
+4. ❗ Opened issue [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+5. 🗣 Commented on [#29](https://github.com/nateshmbhat/card-scanner-flutter/issues/29#issuecomment-2121337496) in [nateshmbhat/card-scanner-flutter](https://github.com/nateshmbhat/card-scanner-flutter)
   <!--END_SECTION:activity-->
 </details>
 
