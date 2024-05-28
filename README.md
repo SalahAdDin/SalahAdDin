@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/christophebe/strapi-julius-editor/issues/1) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-2. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2134243517) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#26243](https://github.com/storybookjs/storybook/pull/26243#issuecomment-2134240253) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2128256916) in [aidenybai/million](https://github.com/aidenybai/million)
-5. ❗ Opened issue [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+1. ❗ Opened issue [#2](https://github.com/christophebe/strapi-julius-editor/issues/2) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+2. ❗ Opened issue [#1](https://github.com/christophebe/strapi-julius-editor/issues/1) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+3. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2134243517) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#26243](https://github.com/storybookjs/storybook/pull/26243#issuecomment-2134240253) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#991](https://github.com/aidenybai/million/issues/991#issuecomment-2128256916) in [aidenybai/million](https://github.com/aidenybai/million)
   <!--END_SECTION:activity-->
 </details>
 
