@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2136228310) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-2. ❗ Opened issue [#168](https://github.com/edificeio/edifice-ui/issues/168) in [edificeio/edifice-ui](https://github.com/edificeio/edifice-ui)
-3. ❗ Opened issue [#2](https://github.com/christophebe/strapi-julius-editor/issues/2) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-4. ❗ Opened issue [#1](https://github.com/christophebe/strapi-julius-editor/issues/1) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-5. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2134243517) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+1. ❗ Opened issue [#13](https://github.com/vinceliuice/Monterey-kde/issues/13) in [vinceliuice/Monterey-kde](https://github.com/vinceliuice/Monterey-kde)
+2. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2136228310) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+3. ❗ Opened issue [#168](https://github.com/edificeio/edifice-ui/issues/168) in [edificeio/edifice-ui](https://github.com/edificeio/edifice-ui)
+4. ❗ Opened issue [#2](https://github.com/christophebe/strapi-julius-editor/issues/2) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+5. ❗ Opened issue [#1](https://github.com/christophebe/strapi-julius-editor/issues/1) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
   <!--END_SECTION:activity-->
 </details>
 
