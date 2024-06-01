@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6437](https://github.com/medusajs/medusa/pull/6437#issuecomment-2141128659) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#1](https://github.com/lambda-curry/medusa-plugin-product-reviews/pull/1#issuecomment-2141064990) in [lambda-curry/medusa-plugin-product-reviews](https://github.com/lambda-curry/medusa-plugin-product-reviews)
-3. ❗ Opened issue [#13](https://github.com/vinceliuice/Monterey-kde/issues/13) in [vinceliuice/Monterey-kde](https://github.com/vinceliuice/Monterey-kde)
-4. 🗣 Commented on [#59](https://github.com/not-jan/apex-tux/issues/59#issuecomment-2136228310) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-5. ❗ Opened issue [#168](https://github.com/edificeio/edifice-ui/issues/168) in [edificeio/edifice-ui](https://github.com/edificeio/edifice-ui)
+1. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143531805) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+2. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143531641) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+3. 🗣 Commented on [#6437](https://github.com/medusajs/medusa/pull/6437#issuecomment-2141128659) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#1](https://github.com/lambda-curry/medusa-plugin-product-reviews/pull/1#issuecomment-2141064990) in [lambda-curry/medusa-plugin-product-reviews](https://github.com/lambda-curry/medusa-plugin-product-reviews)
+5. ❗ Opened issue [#13](https://github.com/vinceliuice/Monterey-kde/issues/13) in [vinceliuice/Monterey-kde](https://github.com/vinceliuice/Monterey-kde)
   <!--END_SECTION:activity-->
 </details>
 
