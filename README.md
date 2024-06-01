@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143544246) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-2. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143542357) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-3. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143531805) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-4. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143531641) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-5. 🗣 Commented on [#6437](https://github.com/medusajs/medusa/pull/6437#issuecomment-2141128659) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143576157) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+2. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143576045) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+3. ❗ Opened issue [#150](https://github.com/pluginpal/strapi-webtools/issues/150) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+4. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143544246) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+5. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143542357) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
   <!--END_SECTION:activity-->
 </details>
 
