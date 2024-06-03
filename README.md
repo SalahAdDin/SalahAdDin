@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143576157) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-2. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143576045) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-3. ❗ Opened issue [#150](https://github.com/pluginpal/strapi-webtools/issues/150) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-4. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143544246) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-5. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143542357) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+1. 🗣 Commented on [#2](https://github.com/christophebe/strapi-julius-editor/issues/2#issuecomment-2146133973) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+2. 🗣 Commented on [#1](https://github.com/christophebe/strapi-julius-editor/issues/1#issuecomment-2146133046) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+3. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143576157) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+4. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143576045) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+5. ❗ Opened issue [#150](https://github.com/pluginpal/strapi-webtools/issues/150) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
   <!--END_SECTION:activity-->
 </details>
 
