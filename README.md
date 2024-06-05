@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/christophebe/strapi-julius-editor/issues/2#issuecomment-2146133973) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-2. 🗣 Commented on [#1](https://github.com/christophebe/strapi-julius-editor/issues/1#issuecomment-2146133046) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-3. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143576157) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-4. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143576045) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-5. ❗ Opened issue [#150](https://github.com/pluginpal/strapi-webtools/issues/150) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+1. ❌ Closed PR [#71](https://github.com/strapi/strapi-plugin-seo/pull/71) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+2. 🗣 Commented on [#2](https://github.com/christophebe/strapi-julius-editor/issues/2#issuecomment-2146133973) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+3. 🗣 Commented on [#1](https://github.com/christophebe/strapi-julius-editor/issues/1#issuecomment-2146133046) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
+4. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143576157) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+5. 🗣 Commented on [#169](https://github.com/pluginpal/strapi-plugin-sitemap/issues/169#issuecomment-2143576045) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
   <!--END_SECTION:activity-->
 </details>
 
