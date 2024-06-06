@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20446](https://github.com/strapi/strapi/issues/20446) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🎉 Merged PR [#10](https://github.com/SalahAdDin/strapi-template/pull/10) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-3. 💪 Opened PR [#10](https://github.com/SalahAdDin/strapi-template/pull/10) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-4. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2150533053) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. ❌ Closed PR [#71](https://github.com/strapi/strapi-plugin-seo/pull/71) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 🗣 Commented on [#20446](https://github.com/strapi/strapi/issues/20446#issuecomment-2153433954) in [strapi/strapi](https://github.com/strapi/strapi)
+2. ❗ Opened issue [#20446](https://github.com/strapi/strapi/issues/20446) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🎉 Merged PR [#10](https://github.com/SalahAdDin/strapi-template/pull/10) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+4. 💪 Opened PR [#10](https://github.com/SalahAdDin/strapi-template/pull/10) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+5. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2150533053) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
