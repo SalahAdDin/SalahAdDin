@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2150533053) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. ❌ Closed PR [#71](https://github.com/strapi/strapi-plugin-seo/pull/71) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-3. 🗣 Commented on [#2](https://github.com/christophebe/strapi-julius-editor/issues/2#issuecomment-2146133973) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-4. 🗣 Commented on [#1](https://github.com/christophebe/strapi-julius-editor/issues/1#issuecomment-2146133046) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
-5. 🗣 Commented on [#167](https://github.com/pluginpal/strapi-plugin-sitemap/issues/167#issuecomment-2143576157) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+1. 🎉 Merged PR [#10](https://github.com/SalahAdDin/strapi-template/pull/10) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+2. 💪 Opened PR [#10](https://github.com/SalahAdDin/strapi-template/pull/10) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+3. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2150533053) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. ❌ Closed PR [#71](https://github.com/strapi/strapi-plugin-seo/pull/71) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#2](https://github.com/christophebe/strapi-julius-editor/issues/2#issuecomment-2146133973) in [christophebe/strapi-julius-editor](https://github.com/christophebe/strapi-julius-editor)
   <!--END_SECTION:activity-->
 </details>
 
