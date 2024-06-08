@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/SalahAdDin/strapi-template/pull/11) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-2. 💪 Opened PR [#11](https://github.com/SalahAdDin/strapi-template/pull/11) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-3. ❗ Opened issue [#20461](https://github.com/strapi/strapi/issues/20461) in [strapi/strapi](https://github.com/strapi/strapi)
-4. ❗ Opened issue [#20460](https://github.com/strapi/strapi/issues/20460) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2153782741) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 💪 Opened PR [#151](https://github.com/pluginpal/strapi-webtools/pull/151) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+2. 🎉 Merged PR [#11](https://github.com/SalahAdDin/strapi-template/pull/11) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+3. 💪 Opened PR [#11](https://github.com/SalahAdDin/strapi-template/pull/11) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+4. ❗ Opened issue [#20461](https://github.com/strapi/strapi/issues/20461) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗ Opened issue [#20460](https://github.com/strapi/strapi/issues/20460) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
