@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/pluginpal/strapi-webtools/pull/151#issuecomment-2156154768) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-2. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2156134032) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. 🗣 Commented on [#151](https://github.com/pluginpal/strapi-webtools/pull/151#issuecomment-2156133565) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-4. 🗣 Commented on [#430](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/430#issuecomment-2156133257) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 🗣 Commented on [#20469](https://github.com/strapi/strapi/pull/20469#issuecomment-2155802618) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-2158534151) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#151](https://github.com/pluginpal/strapi-webtools/pull/151#issuecomment-2156154768) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+3. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2156134032) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#151](https://github.com/pluginpal/strapi-webtools/pull/151#issuecomment-2156133565) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+5. 🗣 Commented on [#430](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/430#issuecomment-2156133257) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
