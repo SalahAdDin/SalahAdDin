@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19953](https://github.com/strapi/strapi/issues/19953#issuecomment-2195560398) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2195522590) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#20253](https://github.com/strapi/strapi/issues/20253#issuecomment-2195513963) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#20446](https://github.com/strapi/strapi/issues/20446#issuecomment-2195506024) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🔒 Closed issue [#20446](https://github.com/strapi/strapi/issues/20446) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#132](https://github.com/IanVS/prettier-plugin-sort-imports/issues/132#issuecomment-2195615416) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+2. 🗣 Commented on [#2137](https://github.com/strapi/documentation/issues/2137#issuecomment-2195586725) in [strapi/documentation](https://github.com/strapi/documentation)
+3. 🗣 Commented on [#19953](https://github.com/strapi/strapi/issues/19953#issuecomment-2195560398) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2195522590) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#20253](https://github.com/strapi/strapi/issues/20253#issuecomment-2195513963) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
