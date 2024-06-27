@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20446](https://github.com/strapi/strapi/issues/20446#issuecomment-2193637452) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#103](https://github.com/scottrippey/next-router-mock/pull/103#issuecomment-2189201245) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
-3. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2187702893) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#20220](https://github.com/strapi/strapi/issues/20220#issuecomment-2187401012) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#20446](https://github.com/strapi/strapi/issues/20446#issuecomment-2185453838) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2195522590) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#20253](https://github.com/strapi/strapi/issues/20253#issuecomment-2195513963) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#20446](https://github.com/strapi/strapi/issues/20446#issuecomment-2195506024) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🔒 Closed issue [#20446](https://github.com/strapi/strapi/issues/20446) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗ Opened issue [#2137](https://github.com/strapi/documentation/issues/2137) in [strapi/documentation](https://github.com/strapi/documentation)
   <!--END_SECTION:activity-->
 </details>
 
