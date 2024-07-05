@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/scottrippey/next-router-mock/pull/103#issuecomment-2209181065) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
-2. 💪 Opened PR [#126](https://github.com/scottrippey/next-router-mock/pull/126) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
-3. 🗣 Commented on [#338](https://github.com/0xfe/vexflow/issues/338#issuecomment-2208077410) in [0xfe/vexflow](https://github.com/0xfe/vexflow)
-4. 💪 Opened PR [#12](https://github.com/SalahAdDin/strapi-template/pull/12) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-5. 🗣 Commented on [#150](https://github.com/pluginpal/strapi-webtools/issues/150#issuecomment-2205110807) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+1. 🗣 Commented on [#1568](https://github.com/faker-js/faker/issues/1568#issuecomment-2209663213) in [faker-js/faker](https://github.com/faker-js/faker)
+2. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2209659953) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#103](https://github.com/scottrippey/next-router-mock/pull/103#issuecomment-2209181065) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
+4. 💪 Opened PR [#126](https://github.com/scottrippey/next-router-mock/pull/126) in [scottrippey/next-router-mock](https://github.com/scottrippey/next-router-mock)
+5. 🗣 Commented on [#338](https://github.com/0xfe/vexflow/issues/338#issuecomment-2208077410) in [0xfe/vexflow](https://github.com/0xfe/vexflow)
   <!--END_SECTION:activity-->
 </details>
 
