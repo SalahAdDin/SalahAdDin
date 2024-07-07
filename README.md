@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/SalahAdDin/strapi-template/pull/13) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-2. 💪 Opened PR [#13](https://github.com/SalahAdDin/strapi-template/pull/13) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-3. ❗ Opened issue [#7987](https://github.com/medusajs/medusa/issues/7987) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#1568](https://github.com/faker-js/faker/issues/1568#issuecomment-2209663213) in [faker-js/faker](https://github.com/faker-js/faker)
-5. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2209659953) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ❗ Opened issue [#20697](https://github.com/strapi/strapi/issues/20697) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🎉 Merged PR [#13](https://github.com/SalahAdDin/strapi-template/pull/13) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+3. 💪 Opened PR [#13](https://github.com/SalahAdDin/strapi-template/pull/13) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+4. ❗ Opened issue [#7987](https://github.com/medusajs/medusa/issues/7987) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#1568](https://github.com/faker-js/faker/issues/1568#issuecomment-2209663213) in [faker-js/faker](https://github.com/faker-js/faker)
   <!--END_SECTION:activity-->
 </details>
 
