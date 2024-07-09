@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20264](https://github.com/strapi/strapi/issues/20264#issuecomment-2212917414) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#20378](https://github.com/strapi/strapi/issues/20378#issuecomment-2212912843) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#20697](https://github.com/strapi/strapi/issues/20697#issuecomment-2212322220) in [strapi/strapi](https://github.com/strapi/strapi)
-4. ❗ Opened issue [#20697](https://github.com/strapi/strapi/issues/20697) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🎉 Merged PR [#13](https://github.com/SalahAdDin/strapi-template/pull/13) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+1. 🗣 Commented on [#505](https://github.com/ventoy/Ventoy/issues/505#issuecomment-2216493918) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+2. 🗣 Commented on [#20264](https://github.com/strapi/strapi/issues/20264#issuecomment-2212917414) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#20378](https://github.com/strapi/strapi/issues/20378#issuecomment-2212912843) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#20697](https://github.com/strapi/strapi/issues/20697#issuecomment-2212322220) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗ Opened issue [#20697](https://github.com/strapi/strapi/issues/20697) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
