@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/4#issuecomment-2219451370) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-2. ❗ Opened issue [#20716](https://github.com/strapi/strapi/issues/20716) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-2218739953) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2218738557) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#505](https://github.com/ventoy/Ventoy/issues/505#issuecomment-2216493918) in [ventoy/Ventoy](https://github.com/ventoy/Ventoy)
+1. 💪 Opened PR [#20717](https://github.com/strapi/strapi/pull/20717) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#4](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/4#issuecomment-2219451370) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+3. ❗ Opened issue [#20716](https://github.com/strapi/strapi/issues/20716) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-2218739953) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2218738557) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
