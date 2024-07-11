@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#287](https://github.com/microsoft/winget-cli/issues/287#issuecomment-2221737659) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-2. 🗣 Commented on [#2](https://github.com/drunckj/Asus-ESS/issues/2#issuecomment-2219618383) in [drunckj/Asus-ESS](https://github.com/drunckj/Asus-ESS)
-3. ❗ Opened issue [#5](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/5) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 💪 Opened PR [#20717](https://github.com/strapi/strapi/pull/20717) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#4](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/4#issuecomment-2219451370) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🗣 Commented on [#5](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/5#issuecomment-2223322545) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. 🗣 Commented on [#287](https://github.com/microsoft/winget-cli/issues/287#issuecomment-2221737659) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+3. 🗣 Commented on [#2](https://github.com/drunckj/Asus-ESS/issues/2#issuecomment-2219618383) in [drunckj/Asus-ESS](https://github.com/drunckj/Asus-ESS)
+4. ❗ Opened issue [#5](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/5) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+5. 💪 Opened PR [#20717](https://github.com/strapi/strapi/pull/20717) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
