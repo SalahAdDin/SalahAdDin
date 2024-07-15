@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1948](https://github.com/sddm/sddm/issues/1948#issuecomment-2226798991) in [sddm/sddm](https://github.com/sddm/sddm)
-2. 🗣 Commented on [#1696](https://github.com/sddm/sddm/issues/1696#issuecomment-2226798428) in [sddm/sddm](https://github.com/sddm/sddm)
-3. 🗣 Commented on [#1697](https://github.com/sddm/sddm/issues/1697#issuecomment-2226798006) in [sddm/sddm](https://github.com/sddm/sddm)
-4. 🗣 Commented on [#1916](https://github.com/sddm/sddm/issues/1916#issuecomment-2226794751) in [sddm/sddm](https://github.com/sddm/sddm)
-5. 🗣 Commented on [#5](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/5#issuecomment-2223322545) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🗣 Commented on [#1967](https://github.com/sddm/sddm/issues/1967#issuecomment-2227723133) in [sddm/sddm](https://github.com/sddm/sddm)
+2. 🗣 Commented on [#1948](https://github.com/sddm/sddm/issues/1948#issuecomment-2226798991) in [sddm/sddm](https://github.com/sddm/sddm)
+3. 🗣 Commented on [#1696](https://github.com/sddm/sddm/issues/1696#issuecomment-2226798428) in [sddm/sddm](https://github.com/sddm/sddm)
+4. 🗣 Commented on [#1697](https://github.com/sddm/sddm/issues/1697#issuecomment-2226798006) in [sddm/sddm](https://github.com/sddm/sddm)
+5. 🗣 Commented on [#1916](https://github.com/sddm/sddm/issues/1916#issuecomment-2226794751) in [sddm/sddm](https://github.com/sddm/sddm)
   <!--END_SECTION:activity-->
 </details>
 
