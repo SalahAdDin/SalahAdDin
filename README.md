@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1967](https://github.com/sddm/sddm/issues/1967#issuecomment-2227723133) in [sddm/sddm](https://github.com/sddm/sddm)
-2. 🗣 Commented on [#1948](https://github.com/sddm/sddm/issues/1948#issuecomment-2226798991) in [sddm/sddm](https://github.com/sddm/sddm)
-3. 🗣 Commented on [#1696](https://github.com/sddm/sddm/issues/1696#issuecomment-2226798428) in [sddm/sddm](https://github.com/sddm/sddm)
-4. 🗣 Commented on [#1697](https://github.com/sddm/sddm/issues/1697#issuecomment-2226798006) in [sddm/sddm](https://github.com/sddm/sddm)
-5. 🗣 Commented on [#1916](https://github.com/sddm/sddm/issues/1916#issuecomment-2226794751) in [sddm/sddm](https://github.com/sddm/sddm)
+1. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2229656488) in [sddm/sddm](https://github.com/sddm/sddm)
+2. 🗣 Commented on [#1896](https://github.com/sddm/sddm/pull/1896#issuecomment-2229631307) in [sddm/sddm](https://github.com/sddm/sddm)
+3. 🗣 Commented on [#1844](https://github.com/sddm/sddm/issues/1844#issuecomment-2229630883) in [sddm/sddm](https://github.com/sddm/sddm)
+4. 🗣 Commented on [#1967](https://github.com/sddm/sddm/issues/1967#issuecomment-2227723133) in [sddm/sddm](https://github.com/sddm/sddm)
+5. 🗣 Commented on [#1948](https://github.com/sddm/sddm/issues/1948#issuecomment-2226798991) in [sddm/sddm](https://github.com/sddm/sddm)
   <!--END_SECTION:activity-->
 </details>
 
