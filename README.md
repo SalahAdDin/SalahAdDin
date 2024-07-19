@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/capacitor-community/proposals/issues/43#issuecomment-2231448602) in [capacitor-community/proposals](https://github.com/capacitor-community/proposals)
-2. 🗣 Commented on [#1844](https://github.com/sddm/sddm/issues/1844#issuecomment-2231446706) in [sddm/sddm](https://github.com/sddm/sddm)
-3. 🗣 Commented on [#70](https://github.com/strapi/strapi-plugin-seo/issues/70#issuecomment-2231440055) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-4. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2229656488) in [sddm/sddm](https://github.com/sddm/sddm)
-5. 🗣 Commented on [#1896](https://github.com/sddm/sddm/pull/1896#issuecomment-2229631307) in [sddm/sddm](https://github.com/sddm/sddm)
+1. ❗ Opened issue [#7](https://github.com/Frodo45127/runcher/issues/7) in [Frodo45127/runcher](https://github.com/Frodo45127/runcher)
+2. 🗣 Commented on [#43](https://github.com/capacitor-community/proposals/issues/43#issuecomment-2231448602) in [capacitor-community/proposals](https://github.com/capacitor-community/proposals)
+3. 🗣 Commented on [#1844](https://github.com/sddm/sddm/issues/1844#issuecomment-2231446706) in [sddm/sddm](https://github.com/sddm/sddm)
+4. 🗣 Commented on [#70](https://github.com/strapi/strapi-plugin-seo/issues/70#issuecomment-2231440055) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+5. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2229656488) in [sddm/sddm](https://github.com/sddm/sddm)
   <!--END_SECTION:activity-->
 </details>
 
