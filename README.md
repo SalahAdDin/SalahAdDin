@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/pluginpal/strapi-webtools/pull/13#issuecomment-2238084491) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-2. 🗣 Commented on [#151](https://github.com/pluginpal/strapi-webtools/pull/151#issuecomment-2238083831) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-3. ❗ Opened issue [#7](https://github.com/Frodo45127/runcher/issues/7) in [Frodo45127/runcher](https://github.com/Frodo45127/runcher)
-4. 🗣 Commented on [#43](https://github.com/capacitor-community/proposals/issues/43#issuecomment-2231448602) in [capacitor-community/proposals](https://github.com/capacitor-community/proposals)
-5. 🗣 Commented on [#1844](https://github.com/sddm/sddm/issues/1844#issuecomment-2231446706) in [sddm/sddm](https://github.com/sddm/sddm)
+1. 🗣 Commented on [#13](https://github.com/pluginpal/strapi-webtools/pull/13#issuecomment-2239447280) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+2. 🗣 Commented on [#13](https://github.com/pluginpal/strapi-webtools/pull/13#issuecomment-2238084491) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+3. 🗣 Commented on [#151](https://github.com/pluginpal/strapi-webtools/pull/151#issuecomment-2238083831) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+4. ❗ Opened issue [#7](https://github.com/Frodo45127/runcher/issues/7) in [Frodo45127/runcher](https://github.com/Frodo45127/runcher)
+5. 🗣 Commented on [#43](https://github.com/capacitor-community/proposals/issues/43#issuecomment-2231448602) in [capacitor-community/proposals](https://github.com/capacitor-community/proposals)
   <!--END_SECTION:activity-->
 </details>
 
