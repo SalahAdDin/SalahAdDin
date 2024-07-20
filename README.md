@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20858](https://github.com/strapi/strapi/pull/20858) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-2240741780) in [strapi/strapi](https://github.com/strapi/strapi)
-3. ❗ Opened issue [#20857](https://github.com/strapi/strapi/issues/20857) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#20717](https://github.com/strapi/strapi/pull/20717#issuecomment-2240439267) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#13](https://github.com/pluginpal/strapi-webtools/pull/13#issuecomment-2239447280) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+1. ❗ Opened issue [#6](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/6) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. 💪 Opened PR [#20858](https://github.com/strapi/strapi/pull/20858) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-2240741780) in [strapi/strapi](https://github.com/strapi/strapi)
+4. ❗ Opened issue [#20857](https://github.com/strapi/strapi/issues/20857) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#20717](https://github.com/strapi/strapi/pull/20717#issuecomment-2240439267) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
