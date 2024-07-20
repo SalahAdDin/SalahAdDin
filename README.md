@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/8) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-2. 💪 Opened PR [#7](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/7) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-3. ❗ Opened issue [#6](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/6) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 💪 Opened PR [#20858](https://github.com/strapi/strapi/pull/20858) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-2240741780) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 💪 Opened PR [#9](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/9) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. ❗ Opened issue [#8](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/8) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+3. 💪 Opened PR [#7](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/7) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. ❗ Opened issue [#6](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/6) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+5. 💪 Opened PR [#20858](https://github.com/strapi/strapi/pull/20858) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
