@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2217](https://github.com/mswjs/msw/pull/2217#issuecomment-2246361766) in [mswjs/msw](https://github.com/mswjs/msw)
-2. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-2246359570) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#7](https://github.com/Frodo45127/runcher/issues/7#issuecomment-2244096207) in [Frodo45127/runcher](https://github.com/Frodo45127/runcher)
-4. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2243416204) in [vercel/next.js](https://github.com/vercel/next.js)
-5. ❗ Opened issue [#13](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/13) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 💪 Opened PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. 🗣 Commented on [#2217](https://github.com/mswjs/msw/pull/2217#issuecomment-2246361766) in [mswjs/msw](https://github.com/mswjs/msw)
+3. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-2246359570) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#7](https://github.com/Frodo45127/runcher/issues/7#issuecomment-2244096207) in [Frodo45127/runcher](https://github.com/Frodo45127/runcher)
+5. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2243416204) in [vercel/next.js](https://github.com/vercel/next.js)
   <!--END_SECTION:activity-->
 </details>
 
