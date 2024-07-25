@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/9) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-2. 💪 Opened PR [#17](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/17) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-3. 💪 Opened PR [#16](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/16) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 💪 Opened PR [#15](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/15) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. ❌ Closed PR [#7](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/7) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. ❌ Closed PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. ❌ Closed PR [#9](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/9) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+3. 💪 Opened PR [#17](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/17) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 💪 Opened PR [#16](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/16) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+5. 💪 Opened PR [#15](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/15) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
