@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#377](https://github.com/hibiken/react-places-autocomplete/issues/377#issuecomment-2251857251) in [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete)
-2. 🗣 Commented on [#120](https://github.com/shadcn-ui/ui/issues/120#issuecomment-2251598891) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. ❌ Closed PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. ❌ Closed PR [#9](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/9) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. 💪 Opened PR [#17](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/17) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. ❌ Reopened PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. 🗣 Commented on [#377](https://github.com/hibiken/react-places-autocomplete/issues/377#issuecomment-2251857251) in [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete)
+3. 🗣 Commented on [#120](https://github.com/shadcn-ui/ui/issues/120#issuecomment-2251598891) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. ❌ Closed PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+5. ❌ Closed PR [#9](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/9) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
