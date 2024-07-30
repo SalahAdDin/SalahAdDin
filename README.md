@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2254582399) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#1438](https://github.com/Jguer/yay/issues/1438#issuecomment-2254581732) in [Jguer/yay](https://github.com/Jguer/yay)
-3. ❌ Reopened PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 🗣 Commented on [#377](https://github.com/hibiken/react-places-autocomplete/issues/377#issuecomment-2251857251) in [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete)
-5. 🗣 Commented on [#120](https://github.com/shadcn-ui/ui/issues/120#issuecomment-2251598891) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2258626709) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2254582399) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#1438](https://github.com/Jguer/yay/issues/1438#issuecomment-2254581732) in [Jguer/yay](https://github.com/Jguer/yay)
+4. ❌ Reopened PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+5. 🗣 Commented on [#377](https://github.com/hibiken/react-places-autocomplete/issues/377#issuecomment-2251857251) in [hibiken/react-places-autocomplete](https://github.com/hibiken/react-places-autocomplete)
   <!--END_SECTION:activity-->
 </details>
 
