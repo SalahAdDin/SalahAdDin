@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2258781974) in [muxinc/next-video](https://github.com/muxinc/next-video)
-2. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2258626709) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2254582399) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#1438](https://github.com/Jguer/yay/issues/1438#issuecomment-2254581732) in [Jguer/yay](https://github.com/Jguer/yay)
-5. ❌ Reopened PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. ❗ Opened issue [#230](https://github.com/Aurora-RGB/Aurora/issues/230) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+2. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2258781974) in [muxinc/next-video](https://github.com/muxinc/next-video)
+3. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-2258626709) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2254582399) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#1438](https://github.com/Jguer/yay/issues/1438#issuecomment-2254581732) in [Jguer/yay](https://github.com/Jguer/yay)
   <!--END_SECTION:activity-->
 </details>
 
