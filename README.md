@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2266197890) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2265755213) in [muxinc/next-video](https://github.com/muxinc/next-video)
-3. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2265753503) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#230](https://github.com/Aurora-RGB/Aurora/issues/230#issuecomment-2264278481) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
-5. ❗ Opened issue [#230](https://github.com/Aurora-RGB/Aurora/issues/230) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+1. 🗣 Commented on [#301](https://github.com/mswjs/data/issues/301#issuecomment-2267055637) in [mswjs/data](https://github.com/mswjs/data)
+2. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2266197890) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2265755213) in [muxinc/next-video](https://github.com/muxinc/next-video)
+4. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2265753503) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#230](https://github.com/Aurora-RGB/Aurora/issues/230#issuecomment-2264278481) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
   <!--END_SECTION:activity-->
 </details>
 
