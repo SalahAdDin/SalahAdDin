@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/Aurora-RGB/Aurora/issues/232#issuecomment-2274294164) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
-2. ❗ Opened issue [#232](https://github.com/Aurora-RGB/Aurora/issues/232) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
-3. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2272573056) in [muxinc/next-video](https://github.com/muxinc/next-video)
-4. 🗣 Commented on [#20924](https://github.com/strapi/strapi/pull/20924#issuecomment-2271970408) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#301](https://github.com/mswjs/data/issues/301#issuecomment-2267055637) in [mswjs/data](https://github.com/mswjs/data)
+1. 🗣 Commented on [#6](https://github.com/guopenghui/obsidian-language-learner/issues/6#issuecomment-2278116999) in [guopenghui/obsidian-language-learner](https://github.com/guopenghui/obsidian-language-learner)
+2. 🗣 Commented on [#232](https://github.com/Aurora-RGB/Aurora/issues/232#issuecomment-2274294164) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+3. ❗ Opened issue [#232](https://github.com/Aurora-RGB/Aurora/issues/232) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+4. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-2272573056) in [muxinc/next-video](https://github.com/muxinc/next-video)
+5. 🗣 Commented on [#20924](https://github.com/strapi/strapi/pull/20924#issuecomment-2271970408) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
