@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/SalahAdDin/react-ts-vite-template/pull/5) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-2. 💪 Opened PR [#5](https://github.com/SalahAdDin/react-ts-vite-template/pull/5) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-3. 🗣 Commented on [#6](https://github.com/guopenghui/obsidian-language-learner/issues/6#issuecomment-2278116999) in [guopenghui/obsidian-language-learner](https://github.com/guopenghui/obsidian-language-learner)
-4. 🗣 Commented on [#232](https://github.com/Aurora-RGB/Aurora/issues/232#issuecomment-2274294164) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
-5. ❗ Opened issue [#232](https://github.com/Aurora-RGB/Aurora/issues/232) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+1. 💪 Opened PR [#6](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/6) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 🎉 Merged PR [#5](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/5) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#5](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/5) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+4. 🎉 Merged PR [#4](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/4) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#4](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/4) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
