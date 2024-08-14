@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#899](https://github.com/testing-library/eslint-plugin-testing-library/issues/899#issuecomment-2287164110) in [testing-library/eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library)
-2. 🎉 Merged PR [#6](https://github.com/SalahAdDin/react-ts-vite-template/pull/6) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-3. 💪 Opened PR [#6](https://github.com/SalahAdDin/react-ts-vite-template/pull/6) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-4. ❌ Closed PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. 💪 Opened PR [#18](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/18) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🗣 Commented on [#18](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/18#issuecomment-2289421191) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. 🗣 Commented on [#899](https://github.com/testing-library/eslint-plugin-testing-library/issues/899#issuecomment-2287164110) in [testing-library/eslint-plugin-testing-library](https://github.com/testing-library/eslint-plugin-testing-library)
+3. 🎉 Merged PR [#6](https://github.com/SalahAdDin/react-ts-vite-template/pull/6) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+4. 💪 Opened PR [#6](https://github.com/SalahAdDin/react-ts-vite-template/pull/6) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+5. ❌ Closed PR [#14](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/14) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
