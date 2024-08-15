@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#310](https://github.com/import-js/eslint-import-resolver-typescript/issues/310) in [import-js/eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript)
-2. ❌ Closed PR [#4](https://github.com/SalahAdDin/react-ts-vite-template/pull/4) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-3. 🗣 Commented on [#2112](https://github.com/conventional-changelog/commitlint/issues/2112#issuecomment-2289910315) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-4. 🗣 Commented on [#4088](https://github.com/conventional-changelog/commitlint/issues/4088#issuecomment-2289891438) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-5. 🗣 Commented on [#18](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/18#issuecomment-2289421191) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. ❗ Opened issue [#3802](https://github.com/jsx-eslint/eslint-plugin-react/issues/3802) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+2. ❗ Opened issue [#310](https://github.com/import-js/eslint-import-resolver-typescript/issues/310) in [import-js/eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript)
+3. ❌ Closed PR [#4](https://github.com/SalahAdDin/react-ts-vite-template/pull/4) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+4. 🗣 Commented on [#2112](https://github.com/conventional-changelog/commitlint/issues/2112#issuecomment-2289910315) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+5. 🗣 Commented on [#4088](https://github.com/conventional-changelog/commitlint/issues/4088#issuecomment-2289891438) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
   <!--END_SECTION:activity-->
 </details>
 
