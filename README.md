@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9733](https://github.com/typescript-eslint/typescript-eslint/issues/9733#issuecomment-2290686065) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. ❗ Opened issue [#3802](https://github.com/jsx-eslint/eslint-plugin-react/issues/3802) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
-3. ❗ Opened issue [#310](https://github.com/import-js/eslint-import-resolver-typescript/issues/310) in [import-js/eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript)
-4. ❌ Closed PR [#4](https://github.com/SalahAdDin/react-ts-vite-template/pull/4) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-5. 🗣 Commented on [#2112](https://github.com/conventional-changelog/commitlint/issues/2112#issuecomment-2289910315) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+1. 🗣 Commented on [#3802](https://github.com/jsx-eslint/eslint-plugin-react/issues/3802#issuecomment-2291472277) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+2. 🗣 Commented on [#9733](https://github.com/typescript-eslint/typescript-eslint/issues/9733#issuecomment-2290686065) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+3. ❗ Opened issue [#3802](https://github.com/jsx-eslint/eslint-plugin-react/issues/3802) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+4. ❗ Opened issue [#310](https://github.com/import-js/eslint-import-resolver-typescript/issues/310) in [import-js/eslint-import-resolver-typescript](https://github.com/import-js/eslint-import-resolver-typescript)
+5. ❌ Closed PR [#4](https://github.com/SalahAdDin/react-ts-vite-template/pull/4) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
   <!--END_SECTION:activity-->
 </details>
 
