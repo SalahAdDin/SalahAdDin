@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2292425186) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. ❗ Opened issue [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-3. 🗣 Commented on [#3802](https://github.com/jsx-eslint/eslint-plugin-react/issues/3802#issuecomment-2292002825) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
-4. ❗ Opened issue [#510](https://github.com/vitest-dev/eslint-plugin-vitest/issues/510) in [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
-5. 🗣 Commented on [#3802](https://github.com/jsx-eslint/eslint-plugin-react/issues/3802#issuecomment-2291472277) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+1. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2292605374) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+2. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2292585952) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#510](https://github.com/vitest-dev/eslint-plugin-vitest/issues/510#issuecomment-2292577522) in [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
+4. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2292425186) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+5. ❗ Opened issue [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
   <!--END_SECTION:activity-->
 </details>
 
