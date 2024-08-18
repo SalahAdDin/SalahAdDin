@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-2. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-3. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295016537) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-4. 🗣 Commented on [#438](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/438#issuecomment-2295016110) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2294992407) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+1. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295087836) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+2. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+3. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+4. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295016537) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+5. 🗣 Commented on [#438](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/438#issuecomment-2295016110) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
