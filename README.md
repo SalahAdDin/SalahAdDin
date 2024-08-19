@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295087836) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-2. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-3. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-4. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295016537) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-5. 🗣 Commented on [#438](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/438#issuecomment-2295016110) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. 🗣 Commented on [#9733](https://github.com/typescript-eslint/typescript-eslint/issues/9733#issuecomment-2295557459) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+2. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295087836) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+3. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+4. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi/pull/1) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+5. 🗣 Commented on [#9803](https://github.com/typescript-eslint/typescript-eslint/issues/9803#issuecomment-2295016537) in [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
   <!--END_SECTION:activity-->
 </details>
 
