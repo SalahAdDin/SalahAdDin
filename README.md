@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-2297948287) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-2. ❗ Opened issue [#108](https://github.com/web-padawan/vanilla-colorful/issues/108) in [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)
-3. 🗣 Commented on [#107](https://github.com/web-padawan/vanilla-colorful/issues/107#issuecomment-2297227591) in [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)
-4. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-2295808541) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🗣 Commented on [#203](https://github.com/omgovich/react-colorful/issues/203#issuecomment-2295750262) in [omgovich/react-colorful](https://github.com/omgovich/react-colorful)
+1. 🎉 Merged PR [#8](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/8) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#8](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/8) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#19](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/19) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-2297948287) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. ❗ Opened issue [#108](https://github.com/web-padawan/vanilla-colorful/issues/108) in [web-padawan/vanilla-colorful](https://github.com/web-padawan/vanilla-colorful)
   <!--END_SECTION:activity-->
 </details>
 
