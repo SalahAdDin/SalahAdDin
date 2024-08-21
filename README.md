@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2299620760) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🎉 Merged PR [#8](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/8) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-3. 💪 Opened PR [#8](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/8) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-4. 💪 Opened PR [#19](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/19) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-2297948287) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+1. 🎉 Merged PR [#9](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/9) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#9](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/9) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#20](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/20) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2299620760) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. 🎉 Merged PR [#8](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/8) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
