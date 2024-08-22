@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/9) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-2. 💪 Opened PR [#9](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/9) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-3. 💪 Opened PR [#20](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/20) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2299620760) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 🎉 Merged PR [#8](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/8) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🎉 Merged PR [#10](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/10) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#10](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/10) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#21](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/21) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🎉 Merged PR [#9](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/9) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#9](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/9) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
