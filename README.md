@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1023](https://github.com/zen-browser/desktop/issues/1023) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2313225247) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#2249](https://github.com/shadcn-ui/ui/issues/2249#issuecomment-2311573537) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 🗣 Commented on [#102](https://github.com/strapi-community/strapi-plugin-transformer/issues/102#issuecomment-2308658426) in [strapi-community/strapi-plugin-transformer](https://github.com/strapi-community/strapi-plugin-transformer)
-5. 💪 Opened PR [#11](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/11) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🗣 Commented on [#1014](https://github.com/zen-browser/desktop/issues/1014#issuecomment-2316683496) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. ❗ Opened issue [#1023](https://github.com/zen-browser/desktop/issues/1023) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2313225247) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#2249](https://github.com/shadcn-ui/ui/issues/2249#issuecomment-2311573537) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. 🗣 Commented on [#102](https://github.com/strapi-community/strapi-plugin-transformer/issues/102#issuecomment-2308658426) in [strapi-community/strapi-plugin-transformer](https://github.com/strapi-community/strapi-plugin-transformer)
   <!--END_SECTION:activity-->
 </details>
 
