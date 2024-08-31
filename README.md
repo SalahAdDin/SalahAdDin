@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/shadcn-ui/ui/issues/120#issuecomment-2322655948) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 🗣 Commented on [#1023](https://github.com/zen-browser/desktop/issues/1023#issuecomment-2322536523) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#1014](https://github.com/zen-browser/desktop/issues/1014#issuecomment-2316683496) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. ❗ Opened issue [#1023](https://github.com/zen-browser/desktop/issues/1023) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2313225247) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🎉 Merged PR [#12](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/12) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#12](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/12) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#22](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/22) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🗣 Commented on [#120](https://github.com/shadcn-ui/ui/issues/120#issuecomment-2322655948) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. 🗣 Commented on [#1023](https://github.com/zen-browser/desktop/issues/1023#issuecomment-2322536523) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
   <!--END_SECTION:activity-->
 </details>
 
