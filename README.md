@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7487](https://github.com/fabricjs/fabric.js/issues/7487#issuecomment-2327032893) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
-2. 🗣 Commented on [#1896](https://github.com/matterport/Mask_RCNN/pull/1896#issuecomment-2325601175) in [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
-3. 🗣 Commented on [#15](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/15#issuecomment-2323076676) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 🗣 Commented on [#23](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/23#issuecomment-2323076401) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. 🎉 Merged PR [#11](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/11) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🗣 Commented on [#2856](https://github.com/jsx-eslint/eslint-plugin-react/issues/2856#issuecomment-2330567831) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+2. 🗣 Commented on [#7487](https://github.com/fabricjs/fabric.js/issues/7487#issuecomment-2330558192) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+3. 🗣 Commented on [#2856](https://github.com/jsx-eslint/eslint-plugin-react/issues/2856#issuecomment-2330556430) in [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react)
+4. 🗣 Commented on [#7487](https://github.com/fabricjs/fabric.js/issues/7487#issuecomment-2327032893) in [fabricjs/fabric.js](https://github.com/fabricjs/fabric.js)
+5. 🗣 Commented on [#1896](https://github.com/matterport/Mask_RCNN/pull/1896#issuecomment-2325601175) in [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
   <!--END_SECTION:activity-->
 </details>
 
