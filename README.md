@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/13) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-2. 💪 Opened PR [#13](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/13) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-3. 💪 Opened PR [#24](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/24) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 🗣 Commented on [#133](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/133#issuecomment-2347318631) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-5. 🗣 Commented on [#890](https://github.com/pastelsky/bundlephobia/issues/890#issuecomment-2344825517) in [pastelsky/bundlephobia](https://github.com/pastelsky/bundlephobia)
+1. 🎉 Merged PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#25](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/25) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🎉 Merged PR [#13](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/13) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#13](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/13) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
