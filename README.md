@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-2. 💪 Opened PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-3. 💪 Opened PR [#25](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/25) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 🎉 Merged PR [#13](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/13) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-5. 💪 Opened PR [#13](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/13) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🎉 Merged PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#26](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/26) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🎉 Merged PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
