@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4625](https://github.com/ueberdosis/tiptap/issues/4625#issuecomment-2351362354) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-2. 🎉 Merged PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-3. 💪 Opened PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-4. 💪 Opened PR [#26](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/26) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. 🎉 Merged PR [#14](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/14) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🗣 Commented on [#4625](https://github.com/ueberdosis/tiptap/issues/4625#issuecomment-2351654983) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 🗣 Commented on [#4625](https://github.com/ueberdosis/tiptap/issues/4625#issuecomment-2351362354) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+3. 🎉 Merged PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+4. 💪 Opened PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#26](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/26) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
