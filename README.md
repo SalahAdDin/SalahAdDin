@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#226](https://github.com/CariusLars/ar_flutter_plugin/issues/226#issuecomment-2354424648) in [CariusLars/ar_flutter_plugin](https://github.com/CariusLars/ar_flutter_plugin)
-2. 🗣 Commented on [#133](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/133#issuecomment-2354277550) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-3. 🗣 Commented on [#4625](https://github.com/ueberdosis/tiptap/issues/4625#issuecomment-2351654983) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#4625](https://github.com/ueberdosis/tiptap/issues/4625#issuecomment-2351362354) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🎉 Merged PR [#15](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/15) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🎉 Merged PR [#17](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/17) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#17](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/17) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#28](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/28) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🎉 Merged PR [#16](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/16) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#16](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/16) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
