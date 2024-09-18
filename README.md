@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/17) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-2. 💪 Opened PR [#17](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/17) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-3. 💪 Opened PR [#28](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/28) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. 🎉 Merged PR [#16](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/16) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-5. 💪 Opened PR [#16](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/16) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+1. 🗣 Commented on [#20858](https://github.com/strapi/strapi/pull/20858#issuecomment-2359254587) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#20924](https://github.com/strapi/strapi/pull/20924#issuecomment-2359247657) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🎉 Merged PR [#17](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/17) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+4. 💪 Opened PR [#17](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/17) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#28](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/28) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
