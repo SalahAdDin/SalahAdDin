@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SalahAdDin/strapi/pull/2) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-2. 💪 Opened PR [#2](https://github.com/SalahAdDin/strapi/pull/2) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-3. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2359909903) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#20858](https://github.com/strapi/strapi/pull/20858#issuecomment-2359254587) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#20924](https://github.com/strapi/strapi/pull/20924#issuecomment-2359247657) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2359954514) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🎉 Merged PR [#2](https://github.com/SalahAdDin/strapi/pull/2) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+3. 💪 Opened PR [#2](https://github.com/SalahAdDin/strapi/pull/2) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+4. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2359909903) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#20858](https://github.com/strapi/strapi/pull/20858#issuecomment-2359254587) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
