@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3363](https://github.com/jsdom/jsdom/issues/3363#issuecomment-2362616530) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
-2. 🗣 Commented on [#26](https://github.com/mllrr96/Medusa-Admin-Flutter/issues/26#issuecomment-2362604868) in [mllrr96/Medusa-Admin-Flutter](https://github.com/mllrr96/Medusa-Admin-Flutter)
-3. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2359980118) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2359954514) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🎉 Merged PR [#2](https://github.com/SalahAdDin/strapi/pull/2) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+1. 🗣 Commented on [#28](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/28#issuecomment-2364134186) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. 🗣 Commented on [#70](https://github.com/strapi/strapi-plugin-seo/issues/70#issuecomment-2364122601) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+3. 🗣 Commented on [#3363](https://github.com/jsdom/jsdom/issues/3363#issuecomment-2362616530) in [jsdom/jsdom](https://github.com/jsdom/jsdom)
+4. 🗣 Commented on [#26](https://github.com/mllrr96/Medusa-Admin-Flutter/issues/26#issuecomment-2362604868) in [mllrr96/Medusa-Admin-Flutter](https://github.com/mllrr96/Medusa-Admin-Flutter)
+5. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2359980118) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
