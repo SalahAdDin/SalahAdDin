@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2374534781) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#9235](https://github.com/medusajs/medusa/issues/9235#issuecomment-2374532412) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#9295](https://github.com/medusajs/medusa/issues/9295#issuecomment-2372856865) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. ❗ Opened issue [#9295](https://github.com/medusajs/medusa/issues/9295) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#2110](https://github.com/mikro-orm/mikro-orm/issues/2110#issuecomment-2372769225) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+1. ❗ Opened issue [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
+2. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2374534781) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#9235](https://github.com/medusajs/medusa/issues/9235#issuecomment-2374532412) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#9295](https://github.com/medusajs/medusa/issues/9295#issuecomment-2372856865) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ❗ Opened issue [#9295](https://github.com/medusajs/medusa/issues/9295) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
