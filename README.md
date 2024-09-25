@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2110](https://github.com/mikro-orm/mikro-orm/issues/2110#issuecomment-2372769225) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
-2. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2372755034) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2372652277) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2372649594) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. ❗ Opened issue [#9294](https://github.com/medusajs/medusa/issues/9294) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#9295](https://github.com/medusajs/medusa/issues/9295#issuecomment-2372856865) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ❗ Opened issue [#9295](https://github.com/medusajs/medusa/issues/9295) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#2110](https://github.com/mikro-orm/mikro-orm/issues/2110#issuecomment-2372769225) in [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+4. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2372755034) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2372652277) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
