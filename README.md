@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8435](https://github.com/medusajs/medusa/issues/8435#issuecomment-2375537689) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#9235](https://github.com/medusajs/medusa/issues/9235#issuecomment-2375280456) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2375201341) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
-4. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2375162214) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
-5. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2374874775) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
+1. 🗣 Commented on [#8243](https://github.com/medusajs/medusa/issues/8243#issuecomment-2375761285) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#8086](https://github.com/medusajs/medusa/issues/8086#issuecomment-2375756807) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#8772](https://github.com/medusajs/medusa/pull/8772#issuecomment-2375715722) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2375708306) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#7995](https://github.com/medusajs/medusa/issues/7995#issuecomment-2375688536) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
