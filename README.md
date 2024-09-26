@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2375201341) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
-2. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2375162214) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
-3. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2374874775) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
-4. 🗣 Commented on [#189](https://github.com/typesense/typesense-js/issues/189#issuecomment-2374857029) in [typesense/typesense-js](https://github.com/typesense/typesense-js)
-5. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2374735309) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
+1. 🗣 Commented on [#9235](https://github.com/medusajs/medusa/issues/9235#issuecomment-2375280456) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2375201341) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
+3. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2375162214) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
+4. 🗣 Commented on [#1](https://github.com/voxsar/medusa-plugin-typesense-voxsar/issues/1#issuecomment-2374874775) in [voxsar/medusa-plugin-typesense-voxsar](https://github.com/voxsar/medusa-plugin-typesense-voxsar)
+5. 🗣 Commented on [#189](https://github.com/typesense/typesense-js/issues/189#issuecomment-2374857029) in [typesense/typesense-js](https://github.com/typesense/typesense-js)
   <!--END_SECTION:activity-->
 </details>
 
