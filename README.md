@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/pull/1) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
-2. 🗣 Commented on [#8695](https://github.com/medusajs/medusa/issues/8695#issuecomment-2379584489) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#8243](https://github.com/medusajs/medusa/issues/8243#issuecomment-2378074858) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#8477](https://github.com/medusajs/medusa/issues/8477#issuecomment-2378057961) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2377830863) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#10](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/10#issuecomment-2379684231) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+2. ❗ Opened issue [#2](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/issues/2) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
+3. 💪 Opened PR [#1](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/pull/1) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
+4. 🗣 Commented on [#8695](https://github.com/medusajs/medusa/issues/8695#issuecomment-2379584489) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#8243](https://github.com/medusajs/medusa/issues/8243#issuecomment-2378074858) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
