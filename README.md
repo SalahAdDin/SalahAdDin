@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7885](https://github.com/medusajs/medusa/pull/7885#issuecomment-2381427629) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#8772](https://github.com/medusajs/medusa/pull/8772#issuecomment-2381427428) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ❗ Opened issue [#9359](https://github.com/medusajs/medusa/issues/9359) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#10](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/10#issuecomment-2379684231) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. ❗ Opened issue [#2](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/issues/2) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
+1. 🗣 Commented on [#7988](https://github.com/medusajs/medusa/issues/7988#issuecomment-2381665967) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#7885](https://github.com/medusajs/medusa/pull/7885#issuecomment-2381427629) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#8772](https://github.com/medusajs/medusa/pull/8772#issuecomment-2381427428) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ❗ Opened issue [#9359](https://github.com/medusajs/medusa/issues/9359) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#10](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/10#issuecomment-2379684231) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
