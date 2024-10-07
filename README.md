@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#30](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/30) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-2. 💪 Opened PR [#30](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/30) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-3. 🗣 Commented on [#1717](https://github.com/wagtail/wagtail/issues/1717#issuecomment-2397423452) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-4. 🗣 Commented on [#1](https://github.com/manjaro-deepin/download/issues/1#issuecomment-2395754805) in [manjaro-deepin/download](https://github.com/manjaro-deepin/download)
-5. 🗣 Commented on [#13](https://github.com/konstantinmuenster/strapi-plugin-rich-text/issues/13#issuecomment-2394843577) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🗣 Commented on [#5699](https://github.com/ueberdosis/tiptap/issues/5699#issuecomment-2397505421) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+2. 💪 Opened PR [#31](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/31) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+3. ❌ Closed PR [#30](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/30) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 💪 Opened PR [#30](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/30) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+5. 🗣 Commented on [#1717](https://github.com/wagtail/wagtail/issues/1717#issuecomment-2397423452) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
   <!--END_SECTION:activity-->
 </details>
 
