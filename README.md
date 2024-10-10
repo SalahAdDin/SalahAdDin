@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-2400517307) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#5699](https://github.com/ueberdosis/tiptap/issues/5699#issuecomment-2397505421) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-3. 💪 Opened PR [#31](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/31) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-4. ❌ Closed PR [#30](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/30) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-5. 💪 Opened PR [#30](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/30) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🎉 Merged PR [#18](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/18) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+2. 💪 Opened PR [#18](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/18) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+3. 💪 Opened PR [#32](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/32) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🗣 Commented on [#22922](https://github.com/storybookjs/storybook/issues/22922#issuecomment-2400517307) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#5699](https://github.com/ueberdosis/tiptap/issues/5699#issuecomment-2397505421) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
   <!--END_SECTION:activity-->
 </details>
 
