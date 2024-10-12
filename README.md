@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7568](https://github.com/medusajs/medusa/issues/7568#issuecomment-2407417914) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 💪 Opened PR [#33](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/33) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
-3. 🎉 Merged PR [#18](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/18) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-4. 💪 Opened PR [#18](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/18) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
-5. 💪 Opened PR [#32](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/32) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🗣 Commented on [#7466](https://github.com/medusajs/medusa/issues/7466#issuecomment-2408622854) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#7568](https://github.com/medusajs/medusa/issues/7568#issuecomment-2407417914) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 💪 Opened PR [#33](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/33) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+4. 🎉 Merged PR [#18](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/18) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
+5. 💪 Opened PR [#18](https://github.com/SalahAdDin/strapi-plugin-rich-text/pull/18) in [SalahAdDin/strapi-plugin-rich-text](https://github.com/SalahAdDin/strapi-plugin-rich-text)
   <!--END_SECTION:activity-->
 </details>
 
