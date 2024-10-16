@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20697](https://github.com/strapi/strapi/issues/20697#issuecomment-2414103212) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#9564](https://github.com/medusajs/medusa/pull/9564#issuecomment-2411743172) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#7466](https://github.com/medusajs/medusa/issues/7466#issuecomment-2408622854) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#7568](https://github.com/medusajs/medusa/issues/7568#issuecomment-2407417914) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 💪 Opened PR [#33](https://github.com/konstantinmuenster/strapi-plugin-rich-text/pull/33) in [konstantinmuenster/strapi-plugin-rich-text](https://github.com/konstantinmuenster/strapi-plugin-rich-text)
+1. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2415258576) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#20697](https://github.com/strapi/strapi/issues/20697#issuecomment-2414103212) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#9564](https://github.com/medusajs/medusa/pull/9564#issuecomment-2411743172) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#7466](https://github.com/medusajs/medusa/issues/7466#issuecomment-2408622854) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#7568](https://github.com/medusajs/medusa/issues/7568#issuecomment-2407417914) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
