@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1238](https://github.com/rxhanson/Rectangle/issues/1238#issuecomment-2417447184) in [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
-2. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2415258576) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#20697](https://github.com/strapi/strapi/issues/20697#issuecomment-2414103212) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#9564](https://github.com/medusajs/medusa/pull/9564#issuecomment-2411743172) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#7466](https://github.com/medusajs/medusa/issues/7466#issuecomment-2408622854) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#8046](https://github.com/medusajs/medusa/issues/8046#issuecomment-2423585623) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#1238](https://github.com/rxhanson/Rectangle/issues/1238#issuecomment-2417447184) in [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+3. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2415258576) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#20697](https://github.com/strapi/strapi/issues/20697#issuecomment-2414103212) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#9564](https://github.com/medusajs/medusa/pull/9564#issuecomment-2411743172) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
