@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/issues/2#issuecomment-2426837870) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
-2. 🗣 Commented on [#2](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/issues/2#issuecomment-2425356441) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
-3. 🗣 Commented on [#8046](https://github.com/medusajs/medusa/issues/8046#issuecomment-2423585623) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#1238](https://github.com/rxhanson/Rectangle/issues/1238#issuecomment-2417447184) in [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
-5. 🗣 Commented on [#64409](https://github.com/vercel/next.js/issues/64409#issuecomment-2415258576) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#9483](https://github.com/medusajs/medusa/issues/9483#issuecomment-2427114228) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#2](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/issues/2#issuecomment-2426837870) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
+3. 🗣 Commented on [#2](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles/issues/2#issuecomment-2425356441) in [CodeTuple-Solutions/medusa-plugin-user-roles](https://github.com/CodeTuple-Solutions/medusa-plugin-user-roles)
+4. 🗣 Commented on [#8046](https://github.com/medusajs/medusa/issues/8046#issuecomment-2423585623) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#1238](https://github.com/rxhanson/Rectangle/issues/1238#issuecomment-2417447184) in [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
   <!--END_SECTION:activity-->
 </details>
 
