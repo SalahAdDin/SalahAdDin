@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8695](https://github.com/medusajs/medusa/issues/8695#issuecomment-2460129526) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#9926](https://github.com/medusajs/medusa/issues/9926#issuecomment-2458116913) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#22132](https://github.com/storybookjs/storybook/issues/22132#issuecomment-2451257908) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#59](https://github.com/strapi/strapi-plugin-seo/issues/59#issuecomment-2447516925) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-5. 🗣 Commented on [#9783](https://github.com/medusajs/medusa/issues/9783#issuecomment-2437983361) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#7997](https://github.com/medusajs/medusa/issues/7997#issuecomment-2462396662) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#7992](https://github.com/medusajs/medusa/issues/7992#issuecomment-2462392234) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2462389899) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#8695](https://github.com/medusajs/medusa/issues/8695#issuecomment-2460129526) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#9926](https://github.com/medusajs/medusa/issues/9926#issuecomment-2458116913) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
