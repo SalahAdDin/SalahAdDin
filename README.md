@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10054](https://github.com/medusajs/medusa/issues/10054#issuecomment-2473734846) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#9905](https://github.com/medusajs/medusa/issues/9905#issuecomment-2472238500) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2471547636) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2465307498) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#7997](https://github.com/medusajs/medusa/issues/7997#issuecomment-2463217997) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2475408988) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-2475408437) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#6496](https://github.com/medusajs/medusa/issues/6496#issuecomment-2475407260) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#6488](https://github.com/medusajs/medusa/issues/6488#issuecomment-2475406851) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#6479](https://github.com/medusajs/medusa/issues/6479#issuecomment-2475406076) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
