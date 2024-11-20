@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2985](https://github.com/zen-browser/desktop/issues/2985#issuecomment-2480067431) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#1812](https://github.com/zen-browser/desktop/issues/1812#issuecomment-2480047246) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2475408988) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-2475408437) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#6496](https://github.com/medusajs/medusa/issues/6496#issuecomment-2475407260) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#3018](https://github.com/zen-browser/desktop/issues/3018#issuecomment-2485992928) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#2985](https://github.com/zen-browser/desktop/issues/2985#issuecomment-2480067431) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#1812](https://github.com/zen-browser/desktop/issues/1812#issuecomment-2480047246) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2475408988) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-2475408437) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
