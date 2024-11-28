@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1812](https://github.com/zen-browser/desktop/issues/1812#issuecomment-2500935211) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#8952](https://github.com/medusajs/medusa/issues/8952#issuecomment-2498594956) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#9483](https://github.com/medusajs/medusa/issues/9483#issuecomment-2491132770) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#3018](https://github.com/zen-browser/desktop/issues/3018#issuecomment-2485992928) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🗣 Commented on [#2985](https://github.com/zen-browser/desktop/issues/2985#issuecomment-2480067431) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#10054](https://github.com/medusajs/medusa/issues/10054#issuecomment-2506274362) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-2506262541) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#3336](https://github.com/conventional-changelog/commitlint/issues/3336#issuecomment-2506259278) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+4. 🗣 Commented on [#1812](https://github.com/zen-browser/desktop/issues/1812#issuecomment-2500935211) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#8952](https://github.com/medusajs/medusa/issues/8952#issuecomment-2498594956) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
