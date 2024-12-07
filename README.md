@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-2518183050) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-2. 🗣 Commented on [#5526](https://github.com/medusajs/medusa/issues/5526#issuecomment-2515976857) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#5526](https://github.com/medusajs/medusa/issues/5526#issuecomment-2511733815) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#5647](https://github.com/medusajs/medusa/issues/5647#issuecomment-2509018795) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#5647](https://github.com/medusajs/medusa/issues/5647#issuecomment-2508805619) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#2985](https://github.com/zen-browser/desktop/issues/2985#issuecomment-2523391188) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#1215](https://github.com/iamkun/dayjs/issues/1215#issuecomment-2523389836) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+3. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-2518183050) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+4. 🗣 Commented on [#5526](https://github.com/medusajs/medusa/issues/5526#issuecomment-2515976857) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#5526](https://github.com/medusajs/medusa/issues/5526#issuecomment-2511733815) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
