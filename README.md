@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2526655492) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#9295](https://github.com/medusajs/medusa/issues/9295#issuecomment-2525413124) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#2985](https://github.com/zen-browser/desktop/issues/2985#issuecomment-2523391188) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#1215](https://github.com/iamkun/dayjs/issues/1215#issuecomment-2523389836) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. 🗣 Commented on [#119](https://github.com/IanVS/prettier-plugin-sort-imports/issues/119#issuecomment-2518183050) in [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+1. 🗣 Commented on [#24625](https://github.com/storybookjs/storybook/issues/24625#issuecomment-2530040795) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2526655492) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#9295](https://github.com/medusajs/medusa/issues/9295#issuecomment-2525413124) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#2985](https://github.com/zen-browser/desktop/issues/2985#issuecomment-2523391188) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#1215](https://github.com/iamkun/dayjs/issues/1215#issuecomment-2523389836) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
   <!--END_SECTION:activity-->
 </details>
 
