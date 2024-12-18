@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2549762526) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#9470](https://github.com/medusajs/medusa/issues/9470#issuecomment-2543428987) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#6585](https://github.com/medusajs/medusa/issues/6585#issuecomment-2543375471) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#9879](https://github.com/medusajs/medusa/issues/9879#issuecomment-2543364258) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#54](https://github.com/NearHuscarl/flutter_login/issues/54#issuecomment-2543364146) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
+1. 🗣 Commented on [#40](https://github.com/bubkoo/html-to-image/issues/40#issuecomment-2550185413) in [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image)
+2. 🗣 Commented on [#5729](https://github.com/medusajs/medusa/issues/5729#issuecomment-2550177955) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#5542](https://github.com/medusajs/medusa/issues/5542#issuecomment-2550175425) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2549762526) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#9470](https://github.com/medusajs/medusa/issues/9470#issuecomment-2543428987) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
