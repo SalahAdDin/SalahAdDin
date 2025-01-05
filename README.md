@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2571479826) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#438](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/438#issuecomment-2571468373) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. 🗣 Commented on [#22536](https://github.com/strapi/strapi/issues/22536#issuecomment-2571396727) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#10682](https://github.com/medusajs/medusa/issues/10682#issuecomment-2571393802) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2571385709) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#10](https://github.com/BayBreezy/strapi-plugin-email-designer-5/issues/10#issuecomment-2571487390) in [BayBreezy/strapi-plugin-email-designer-5](https://github.com/BayBreezy/strapi-plugin-email-designer-5)
+2. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2571479826) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#438](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/438#issuecomment-2571468373) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#22536](https://github.com/strapi/strapi/issues/22536#issuecomment-2571396727) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#10682](https://github.com/medusajs/medusa/issues/10682#issuecomment-2571393802) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
