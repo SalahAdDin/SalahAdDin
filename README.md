@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9740](https://github.com/medusajs/medusa/issues/9740#issuecomment-2573617143) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#45](https://github.com/WinterSquire/AlphaRing/issues/45#issuecomment-2572145115) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-3. 🗣 Commented on [#8124](https://github.com/medusajs/medusa/issues/8124#issuecomment-2571880001) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#8245](https://github.com/medusajs/medusa/pull/8245#issuecomment-2571854944) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#4729](https://github.com/medusajs/medusa/issues/4729#issuecomment-2571851480) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#4117](https://github.com/medusajs/medusa/issues/4117#issuecomment-2574316077) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#232](https://github.com/Aurora-RGB/Aurora/issues/232#issuecomment-2574315228) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+3. 🗣 Commented on [#9740](https://github.com/medusajs/medusa/issues/9740#issuecomment-2573617143) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#45](https://github.com/WinterSquire/AlphaRing/issues/45#issuecomment-2572145115) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
+5. 🗣 Commented on [#8124](https://github.com/medusajs/medusa/issues/8124#issuecomment-2571880001) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
