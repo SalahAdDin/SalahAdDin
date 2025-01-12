@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2581857249) in [typicode/json-server](https://github.com/typicode/json-server)
-2. 🗣 Commented on [#5729](https://github.com/medusajs/medusa/issues/5729#issuecomment-2575938355) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#5729](https://github.com/medusajs/medusa/issues/5729#issuecomment-2575268909) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2575267909) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 🗣 Commented on [#4117](https://github.com/medusajs/medusa/issues/4117#issuecomment-2574316077) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗ Opened issue [#7216](https://github.com/vitest-dev/vitest/issues/7216) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+2. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2581857249) in [typicode/json-server](https://github.com/typicode/json-server)
+3. 🗣 Commented on [#5729](https://github.com/medusajs/medusa/issues/5729#issuecomment-2575938355) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#5729](https://github.com/medusajs/medusa/issues/5729#issuecomment-2575268909) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2575267909) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
