@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2587764940) in [typicode/json-server](https://github.com/typicode/json-server)
-2. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2587761590) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#22536](https://github.com/strapi/strapi/issues/22536#issuecomment-2587726363) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#7216](https://github.com/vitest-dev/vitest/issues/7216#issuecomment-2585557465) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-5. ❗ Opened issue [#7216](https://github.com/vitest-dev/vitest/issues/7216) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+1. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2590702406) in [sddm/sddm](https://github.com/sddm/sddm)
+2. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2587764940) in [typicode/json-server](https://github.com/typicode/json-server)
+3. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2587761590) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#22536](https://github.com/strapi/strapi/issues/22536#issuecomment-2587726363) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#7216](https://github.com/vitest-dev/vitest/issues/7216#issuecomment-2585557465) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
   <!--END_SECTION:activity-->
 </details>
 
