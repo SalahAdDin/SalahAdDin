@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/fulldotdev/ui/issues/80#issuecomment-2597312600) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
-2. ❗ Opened issue [#136](https://github.com/fulldotdev/ui/issues/136) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
-3. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2590702406) in [sddm/sddm](https://github.com/sddm/sddm)
-4. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2587764940) in [typicode/json-server](https://github.com/typicode/json-server)
-5. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2587761590) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#9848](https://github.com/medusajs/medusa/pull/9848#issuecomment-2598840414) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#80](https://github.com/fulldotdev/ui/issues/80#issuecomment-2597312600) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
+3. ❗ Opened issue [#136](https://github.com/fulldotdev/ui/issues/136) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
+4. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2590702406) in [sddm/sddm](https://github.com/sddm/sddm)
+5. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2587764940) in [typicode/json-server](https://github.com/typicode/json-server)
   <!--END_SECTION:activity-->
 </details>
 
