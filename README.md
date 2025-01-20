@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9848](https://github.com/medusajs/medusa/pull/9848#issuecomment-2598840414) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#80](https://github.com/fulldotdev/ui/issues/80#issuecomment-2597312600) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
-3. ❗ Opened issue [#136](https://github.com/fulldotdev/ui/issues/136) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
-4. 🗣 Commented on [#1779](https://github.com/sddm/sddm/pull/1779#issuecomment-2590702406) in [sddm/sddm](https://github.com/sddm/sddm)
-5. 🗣 Commented on [#440](https://github.com/typicode/json-server/issues/440#issuecomment-2587764940) in [typicode/json-server](https://github.com/typicode/json-server)
+1. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2602962114) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2602961179) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#9848](https://github.com/medusajs/medusa/pull/9848#issuecomment-2598840414) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#80](https://github.com/fulldotdev/ui/issues/80#issuecomment-2597312600) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
+5. ❗ Opened issue [#136](https://github.com/fulldotdev/ui/issues/136) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
   <!--END_SECTION:activity-->
 </details>
 
