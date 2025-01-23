@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22717](https://github.com/strapi/strapi/pull/22717) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 💪 Opened PR [#22716](https://github.com/strapi/strapi/pull/22716) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 💪 Opened PR [#22715](https://github.com/strapi/strapi/pull/22715) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 💪 Opened PR [#22714](https://github.com/strapi/strapi/pull/22714) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2608734066) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2608908854) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 💪 Opened PR [#22717](https://github.com/strapi/strapi/pull/22717) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 💪 Opened PR [#22716](https://github.com/strapi/strapi/pull/22716) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 💪 Opened PR [#22715](https://github.com/strapi/strapi/pull/22715) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 💪 Opened PR [#22714](https://github.com/strapi/strapi/pull/22714) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
