@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2606209327) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 💪 Opened PR [#22699](https://github.com/strapi/strapi/pull/22699) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 💪 Opened PR [#22698](https://github.com/strapi/strapi/pull/22698) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#466](https://github.com/mailhog/MailHog/issues/466#issuecomment-2603398026) in [mailhog/MailHog](https://github.com/mailhog/MailHog)
-5. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2602962114) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#22698](https://github.com/strapi/strapi/pull/22698#issuecomment-2608708667) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2608705023) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2608671158) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2606209327) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 💪 Opened PR [#22699](https://github.com/strapi/strapi/pull/22699) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
