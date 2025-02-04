@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22722](https://github.com/strapi/strapi/issues/22722) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#20461](https://github.com/strapi/strapi/issues/20461#issuecomment-2611178503) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#22698](https://github.com/strapi/strapi/pull/22698#issuecomment-2611175825) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#466](https://github.com/mailhog/MailHog/issues/466#issuecomment-2611169925) in [mailhog/MailHog](https://github.com/mailhog/MailHog)
-5. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2611159522) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#22717](https://github.com/strapi/strapi/pull/22717#issuecomment-2632938508) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-2632935132) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#987](https://github.com/radix-ui/primitives/issues/987#issuecomment-2632934249) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2632931022) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-2632924942) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
