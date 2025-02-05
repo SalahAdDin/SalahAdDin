@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-2634315518) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#22717](https://github.com/strapi/strapi/pull/22717#issuecomment-2632938508) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#17860](https://github.com/strapi/strapi/issues/17860#issuecomment-2632935132) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#987](https://github.com/radix-ui/primitives/issues/987#issuecomment-2632934249) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2632931022) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 💪 Opened PR [#22800](https://github.com/strapi/strapi/pull/22800) in [strapi/strapi](https://github.com/strapi/strapi)
+2. ❌ Closed PR [#22699](https://github.com/strapi/strapi/pull/22699) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🎉 Merged PR [#3](https://github.com/SalahAdDin/strapi/pull/3) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+4. 💪 Opened PR [#3](https://github.com/SalahAdDin/strapi/pull/3) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+5. 🗣 Commented on [#12538](https://github.com/strapi/strapi/issues/12538#issuecomment-2634315518) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
