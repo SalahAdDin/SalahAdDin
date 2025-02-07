@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-2635586360) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 💪 Opened PR [#22800](https://github.com/strapi/strapi/pull/22800) in [strapi/strapi](https://github.com/strapi/strapi)
-3. ❌ Closed PR [#22699](https://github.com/strapi/strapi/pull/22699) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🎉 Merged PR [#3](https://github.com/SalahAdDin/strapi/pull/3) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
-5. 💪 Opened PR [#3](https://github.com/SalahAdDin/strapi/pull/3) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
+1. ❗ Opened issue [#22825](https://github.com/strapi/strapi/issues/22825) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-2635586360) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 💪 Opened PR [#22800](https://github.com/strapi/strapi/pull/22800) in [strapi/strapi](https://github.com/strapi/strapi)
+4. ❌ Closed PR [#22699](https://github.com/strapi/strapi/pull/22699) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🎉 Merged PR [#3](https://github.com/SalahAdDin/strapi/pull/3) in [SalahAdDin/strapi](https://github.com/SalahAdDin/strapi)
   <!--END_SECTION:activity-->
 </details>
 
