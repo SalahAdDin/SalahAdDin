@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-2646626717) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#1557](https://github.com/typicode/json-server/issues/1557#issuecomment-2646088047) in [typicode/json-server](https://github.com/typicode/json-server)
-3. ❗ Opened issue [#22838](https://github.com/strapi/strapi/issues/22838) in [strapi/strapi](https://github.com/strapi/strapi)
-4. ❗ Opened issue [#22837](https://github.com/strapi/strapi/issues/22837) in [strapi/strapi](https://github.com/strapi/strapi)
-5. ❗ Opened issue [#22825](https://github.com/strapi/strapi/issues/22825) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#229](https://github.com/un-ts/eslint-plugin-import-x/issues/229#issuecomment-2654352604) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+2. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-2646626717) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#1557](https://github.com/typicode/json-server/issues/1557#issuecomment-2646088047) in [typicode/json-server](https://github.com/typicode/json-server)
+4. ❗ Opened issue [#22838](https://github.com/strapi/strapi/issues/22838) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗ Opened issue [#22837](https://github.com/strapi/strapi/issues/22837) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
