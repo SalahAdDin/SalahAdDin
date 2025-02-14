@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SalahAdDin/react-ts-vite-template/pull/7) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-2. 💪 Opened PR [#7](https://github.com/SalahAdDin/react-ts-vite-template/pull/7) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
-3. 🗣 Commented on [#229](https://github.com/un-ts/eslint-plugin-import-x/issues/229#issuecomment-2654512757) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-4. 🗣 Commented on [#229](https://github.com/un-ts/eslint-plugin-import-x/issues/229#issuecomment-2654352604) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-5. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-2646626717) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2660115422) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🎉 Merged PR [#7](https://github.com/SalahAdDin/react-ts-vite-template/pull/7) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+3. 💪 Opened PR [#7](https://github.com/SalahAdDin/react-ts-vite-template/pull/7) in [SalahAdDin/react-ts-vite-template](https://github.com/SalahAdDin/react-ts-vite-template)
+4. 🗣 Commented on [#229](https://github.com/un-ts/eslint-plugin-import-x/issues/229#issuecomment-2654512757) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+5. 🗣 Commented on [#229](https://github.com/un-ts/eslint-plugin-import-x/issues/229#issuecomment-2654352604) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
   <!--END_SECTION:activity-->
 </details>
 
