@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/pluginpal/strapi-webtools/issues/209#issuecomment-2660568342) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-2. 🗣 Commented on [#204](https://github.com/pluginpal/strapi-webtools/pull/204#issuecomment-2660567740) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-3. 💪 Opened PR [#102](https://github.com/strapi/strapi-plugin-seo/pull/102) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-4. 🗣 Commented on [#101](https://github.com/strapi/strapi-plugin-seo/pull/101#issuecomment-2660360235) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-5. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2660115422) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#438](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/438#issuecomment-2660605193) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660604507) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#430](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/430#issuecomment-2660589936) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#428](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/428#issuecomment-2660584083) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. 🗣 Commented on [#209](https://github.com/pluginpal/strapi-webtools/issues/209#issuecomment-2660568342) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
   <!--END_SECTION:activity-->
 </details>
 
