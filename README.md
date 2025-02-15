@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660753835) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#9](https://github.com/SalahAdDin/strapi-template/pull/9#issuecomment-2660727112) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-3. ❌ Closed PR [#9](https://github.com/SalahAdDin/strapi-template/pull/9) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-4. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2660722635) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 💪 Opened PR [#149](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/149) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+1. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660984083) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660753835) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#9](https://github.com/SalahAdDin/strapi-template/pull/9#issuecomment-2660727112) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+4. ❌ Closed PR [#9](https://github.com/SalahAdDin/strapi-template/pull/9) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
+5. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2660722635) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
