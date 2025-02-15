@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660984083) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660753835) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. 🗣 Commented on [#9](https://github.com/SalahAdDin/strapi-template/pull/9#issuecomment-2660727112) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-4. ❌ Closed PR [#9](https://github.com/SalahAdDin/strapi-template/pull/9) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
-5. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2660722635) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660988961) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#526](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/526#issuecomment-2660987880) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660984083) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#429](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/429#issuecomment-2660753835) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. 🗣 Commented on [#9](https://github.com/SalahAdDin/strapi-template/pull/9#issuecomment-2660727112) in [SalahAdDin/strapi-template](https://github.com/SalahAdDin/strapi-template)
   <!--END_SECTION:activity-->
 </details>
 
