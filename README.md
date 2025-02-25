@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2677096650) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2676493657) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#5593](https://github.com/zen-browser/desktop/issues/5593#issuecomment-2676493547) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#5593](https://github.com/zen-browser/desktop/issues/5593#issuecomment-2676467320) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2676466499) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2680100245) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2680098891) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2677096650) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2676493657) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#5593](https://github.com/zen-browser/desktop/issues/5593#issuecomment-2676493547) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
   <!--END_SECTION:activity-->
 </details>
 
