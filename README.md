@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2682981164) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2682977202) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2680287381) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2680286544) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#527](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/527#issuecomment-2680100245) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2683019557) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2682981164) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2682977202) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2680287381) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2680286544) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
