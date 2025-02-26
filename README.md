@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ybirader/medusa-plugin-typesense/issues/1#issuecomment-2683436994) in [ybirader/medusa-plugin-typesense](https://github.com/ybirader/medusa-plugin-typesense)
-2. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2683408186) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2683387315) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2683370773) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2683019557) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. ❗ Opened issue [#1](https://github.com/RSC-Labs/medusa-wishlist/issues/1) in [RSC-Labs/medusa-wishlist](https://github.com/RSC-Labs/medusa-wishlist)
+2. 🗣 Commented on [#1](https://github.com/ybirader/medusa-plugin-typesense/issues/1#issuecomment-2683436994) in [ybirader/medusa-plugin-typesense](https://github.com/ybirader/medusa-plugin-typesense)
+3. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2683408186) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#9294](https://github.com/medusajs/medusa/issues/9294#issuecomment-2683387315) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2683370773) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
