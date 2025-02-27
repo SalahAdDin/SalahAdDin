@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2683921942) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2683799250) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2683798571) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. ❗ Opened issue [#1](https://github.com/RSC-Labs/medusa-wishlist/issues/1) in [RSC-Labs/medusa-wishlist](https://github.com/RSC-Labs/medusa-wishlist)
-5. 🗣 Commented on [#1](https://github.com/ybirader/medusa-plugin-typesense/issues/1#issuecomment-2683436994) in [ybirader/medusa-plugin-typesense](https://github.com/ybirader/medusa-plugin-typesense)
+1. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2685751616) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2683921942) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2683799250) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+4. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2683798571) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ❗ Opened issue [#1](https://github.com/RSC-Labs/medusa-wishlist/issues/1) in [RSC-Labs/medusa-wishlist](https://github.com/RSC-Labs/medusa-wishlist)
   <!--END_SECTION:activity-->
 </details>
 
