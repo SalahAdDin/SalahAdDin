@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2685751616) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2683921942) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-3. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2683799250) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2683798571) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. ❗ Opened issue [#1](https://github.com/RSC-Labs/medusa-wishlist/issues/1) in [RSC-Labs/medusa-wishlist](https://github.com/RSC-Labs/medusa-wishlist)
+1. 🗣 Commented on [#22800](https://github.com/strapi/strapi/pull/22800#issuecomment-2686720692) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2686710108) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+3. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2685751616) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+4. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2683921942) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#5556](https://github.com/zen-browser/desktop/issues/5556#issuecomment-2683799250) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
   <!--END_SECTION:activity-->
 </details>
 
