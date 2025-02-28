@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22714](https://github.com/strapi/strapi/pull/22714#issuecomment-2689712992) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-2689679362) in [strapi/strapi](https://github.com/strapi/strapi)
-3. ❗ Opened issue [#23032](https://github.com/strapi/strapi/issues/23032) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#22800](https://github.com/strapi/strapi/pull/22800#issuecomment-2686720692) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#5741](https://github.com/zen-browser/desktop/issues/5741#issuecomment-2686710108) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#209](https://github.com/pluginpal/strapi-webtools/issues/209#issuecomment-2689767468) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+2. 🗣 Commented on [#22714](https://github.com/strapi/strapi/pull/22714#issuecomment-2689712992) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-2689679362) in [strapi/strapi](https://github.com/strapi/strapi)
+4. ❗ Opened issue [#23032](https://github.com/strapi/strapi/issues/23032) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#22800](https://github.com/strapi/strapi/pull/22800#issuecomment-2686720692) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
