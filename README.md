@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-2. 🗣 Commented on [#191](https://github.com/adrien2p/medusa-plugins/issues/191#issuecomment-2695455799) in [adrien2p/medusa-plugins](https://github.com/adrien2p/medusa-plugins)
-3. 🗣 Commented on [#12](https://github.com/DennisSnijder/payload-workflow/issues/12#issuecomment-2695102351) in [DennisSnijder/payload-workflow](https://github.com/DennisSnijder/payload-workflow)
-4. 🗣 Commented on [#2](https://github.com/aritrakrbasu/payload-kanban-board/issues/2#issuecomment-2695096111) in [aritrakrbasu/payload-kanban-board](https://github.com/aritrakrbasu/payload-kanban-board)
-5. 🗣 Commented on [#101](https://github.com/jonasmerlin/astro-seo/issues/101#issuecomment-2692949619) in [jonasmerlin/astro-seo](https://github.com/jonasmerlin/astro-seo)
+1. 🗣 Commented on [#5589](https://github.com/pnpm/pnpm/issues/5589#issuecomment-2696205735) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+2. 💪 Opened PR [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+3. 🗣 Commented on [#191](https://github.com/adrien2p/medusa-plugins/issues/191#issuecomment-2695455799) in [adrien2p/medusa-plugins](https://github.com/adrien2p/medusa-plugins)
+4. 🗣 Commented on [#12](https://github.com/DennisSnijder/payload-workflow/issues/12#issuecomment-2695102351) in [DennisSnijder/payload-workflow](https://github.com/DennisSnijder/payload-workflow)
+5. 🗣 Commented on [#2](https://github.com/aritrakrbasu/payload-kanban-board/issues/2#issuecomment-2695096111) in [aritrakrbasu/payload-kanban-board](https://github.com/aritrakrbasu/payload-kanban-board)
   <!--END_SECTION:activity-->
 </details>
 
