@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/hashbite/strapi-plugin-lexical/pull/4) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-2. 🗣 Commented on [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3#issuecomment-2698498621) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-3. 🗣 Commented on [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3#issuecomment-2698199373) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-4. 🗣 Commented on [#5589](https://github.com/pnpm/pnpm/issues/5589#issuecomment-2696205735) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-5. 💪 Opened PR [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+1. 🗣 Commented on [#75](https://github.com/Trae-AI/Trae/issues/75#issuecomment-2699348116) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+2. 🗣 Commented on [#319](https://github.com/Trae-AI/Trae/issues/319#issuecomment-2699332696) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+3. 💪 Opened PR [#4](https://github.com/hashbite/strapi-plugin-lexical/pull/4) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+4. 🗣 Commented on [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3#issuecomment-2698498621) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+5. 🗣 Commented on [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3#issuecomment-2698199373) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
   <!--END_SECTION:activity-->
 </details>
 
