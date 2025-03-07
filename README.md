@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-2706551829) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2706549694) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#7](https://github.com/rigby-sh/medusa-multilingual-tolgee/issues/7#issuecomment-2701399035) in [rigby-sh/medusa-multilingual-tolgee](https://github.com/rigby-sh/medusa-multilingual-tolgee)
-4. 🗣 Commented on [#1](https://github.com/v0eak/medusa-product-feature-display/issues/1#issuecomment-2701384529) in [v0eak/medusa-product-feature-display](https://github.com/v0eak/medusa-product-feature-display)
-5. 🗣 Commented on [#75](https://github.com/Trae-AI/Trae/issues/75#issuecomment-2699348116) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. 🗣 Commented on [#3](https://github.com/hashbite/strapi-plugin-lexical/pull/3#issuecomment-2706815540) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+2. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-2706551829) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2706549694) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#7](https://github.com/rigby-sh/medusa-multilingual-tolgee/issues/7#issuecomment-2701399035) in [rigby-sh/medusa-multilingual-tolgee](https://github.com/rigby-sh/medusa-multilingual-tolgee)
+5. 🗣 Commented on [#1](https://github.com/v0eak/medusa-product-feature-display/issues/1#issuecomment-2701384529) in [v0eak/medusa-product-feature-display](https://github.com/v0eak/medusa-product-feature-display)
   <!--END_SECTION:activity-->
 </details>
 
