@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-2724808631) in [strapi/strapi](https://github.com/strapi/strapi)
-2. ❗ Opened issue [#192](https://github.com/adrien2p/medusa-plugins/issues/192) in [adrien2p/medusa-plugins](https://github.com/adrien2p/medusa-plugins)
-3. 🗣 Commented on [#204](https://github.com/pluginpal/strapi-webtools/pull/204#issuecomment-2722657362) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-4. 🗣 Commented on [#10118](https://github.com/medusajs/medusa/issues/10118#issuecomment-2715895345) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#1023](https://github.com/zen-browser/desktop/issues/1023#issuecomment-2711781967) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+1. 🗣 Commented on [#209](https://github.com/pluginpal/strapi-webtools/issues/209#issuecomment-2724811738) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+2. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-2724808631) in [strapi/strapi](https://github.com/strapi/strapi)
+3. ❗ Opened issue [#192](https://github.com/adrien2p/medusa-plugins/issues/192) in [adrien2p/medusa-plugins](https://github.com/adrien2p/medusa-plugins)
+4. 🗣 Commented on [#204](https://github.com/pluginpal/strapi-webtools/pull/204#issuecomment-2722657362) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+5. 🗣 Commented on [#10118](https://github.com/medusajs/medusa/issues/10118#issuecomment-2715895345) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
