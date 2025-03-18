@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/hashbite/strapi-plugin-lexical/pull/7#issuecomment-2731238397) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-2. 💪 Opened PR [#7](https://github.com/hashbite/strapi-plugin-lexical/pull/7) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-3. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi-plugin-lexical/pull/1) in [SalahAdDin/strapi-plugin-lexical](https://github.com/SalahAdDin/strapi-plugin-lexical)
-4. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-plugin-lexical/pull/1) in [SalahAdDin/strapi-plugin-lexical](https://github.com/SalahAdDin/strapi-plugin-lexical)
-5. 💪 Opened PR [#6](https://github.com/hashbite/strapi-plugin-lexical/pull/6) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+1. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2731521223) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2731513670) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2731507577) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2731485923) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. 🗣 Commented on [#7](https://github.com/hashbite/strapi-plugin-lexical/pull/7#issuecomment-2731238397) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
   <!--END_SECTION:activity-->
 </details>
 
