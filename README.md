@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi-plugin-lexical/pull/1) in [SalahAdDin/strapi-plugin-lexical](https://github.com/SalahAdDin/strapi-plugin-lexical)
-2. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-plugin-lexical/pull/1) in [SalahAdDin/strapi-plugin-lexical](https://github.com/SalahAdDin/strapi-plugin-lexical)
-3. 💪 Opened PR [#6](https://github.com/hashbite/strapi-plugin-lexical/pull/6) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
-4. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-2727570683) in [mswjs/examples](https://github.com/mswjs/examples)
-5. 🗣 Commented on [#181](https://github.com/zino-hofmann/graphql-flutter/issues/181#issuecomment-2727570330) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+1. 💪 Opened PR [#7](https://github.com/hashbite/strapi-plugin-lexical/pull/7) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+2. 🎉 Merged PR [#1](https://github.com/SalahAdDin/strapi-plugin-lexical/pull/1) in [SalahAdDin/strapi-plugin-lexical](https://github.com/SalahAdDin/strapi-plugin-lexical)
+3. 💪 Opened PR [#1](https://github.com/SalahAdDin/strapi-plugin-lexical/pull/1) in [SalahAdDin/strapi-plugin-lexical](https://github.com/SalahAdDin/strapi-plugin-lexical)
+4. 💪 Opened PR [#6](https://github.com/hashbite/strapi-plugin-lexical/pull/6) in [hashbite/strapi-plugin-lexical](https://github.com/hashbite/strapi-plugin-lexical)
+5. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-2727570683) in [mswjs/examples](https://github.com/mswjs/examples)
   <!--END_SECTION:activity-->
 </details>
 
