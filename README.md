@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#526](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/526#issuecomment-2744989974) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#526](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/526#issuecomment-2734104691) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2733462329) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-4. 🗣 Commented on [#229](https://github.com/pluginpal/strapi-webtools/issues/229#issuecomment-2733452234) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-5. 🗣 Commented on [#72](https://github.com/strapi/strapi-plugin-seo/pull/72#issuecomment-2733438807) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+1. 🗣 Commented on [#5593](https://github.com/zen-browser/desktop/issues/5593#issuecomment-2755291088) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#526](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/526#issuecomment-2744989974) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#526](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/526#issuecomment-2734104691) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#530](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/530#issuecomment-2733462329) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. 🗣 Commented on [#229](https://github.com/pluginpal/strapi-webtools/issues/229#issuecomment-2733452234) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
   <!--END_SECTION:activity-->
 </details>
 
