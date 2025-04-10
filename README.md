@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/WickyNilliams/cally/issues/25#issuecomment-2794116504) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
-2. 🗣 Commented on [#54](https://github.com/WickyNilliams/cally/issues/54#issuecomment-2794096930) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
-3. 🗣 Commented on [#8](https://github.com/WickyNilliams/cally/issues/8#issuecomment-2794009954) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
-4. 🗣 Commented on [#65](https://github.com/WickyNilliams/cally/issues/65#issuecomment-2793997981) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
-5. 🗣 Commented on [#84](https://github.com/WickyNilliams/cally/issues/84#issuecomment-2793972571) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+1. ❗ Opened issue [#94](https://github.com/WickyNilliams/cally/issues/94) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+2. 🗣 Commented on [#25](https://github.com/WickyNilliams/cally/issues/25#issuecomment-2794116504) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+3. 🗣 Commented on [#54](https://github.com/WickyNilliams/cally/issues/54#issuecomment-2794096930) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+4. 🗣 Commented on [#8](https://github.com/WickyNilliams/cally/issues/8#issuecomment-2794009954) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+5. 🗣 Commented on [#65](https://github.com/WickyNilliams/cally/issues/65#issuecomment-2793997981) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
   <!--END_SECTION:activity-->
 </details>
 
