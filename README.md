@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2019](https://github.com/codex-team/editor.js/pull/2019#issuecomment-2785071919) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2783543351) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-2783540865) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-2770343407) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#2019](https://github.com/codex-team/editor.js/pull/2019#issuecomment-2766997377) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
+1. 🗣 Commented on [#84](https://github.com/WickyNilliams/cally/issues/84#issuecomment-2793972571) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+2. 🗣 Commented on [#2019](https://github.com/codex-team/editor.js/pull/2019#issuecomment-2785071919) in [codex-team/editor.js](https://github.com/codex-team/editor.js)
+3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2783543351) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-2783540865) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-2770343407) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
