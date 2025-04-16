@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-2797079138) in [mswjs/examples](https://github.com/mswjs/examples)
-2. 🗣 Commented on [#3652](https://github.com/microsoft/winget-cli/issues/3652#issuecomment-2797076982) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-3. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2797075166) in [strapi/strapi](https://github.com/strapi/strapi)
-4. ❗ Opened issue [#94](https://github.com/WickyNilliams/cally/issues/94) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
-5. 🗣 Commented on [#25](https://github.com/WickyNilliams/cally/issues/25#issuecomment-2794116504) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+1. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-2807196745) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-2797079138) in [mswjs/examples](https://github.com/mswjs/examples)
+3. 🗣 Commented on [#3652](https://github.com/microsoft/winget-cli/issues/3652#issuecomment-2797076982) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+4. 🗣 Commented on [#20222](https://github.com/strapi/strapi/issues/20222#issuecomment-2797075166) in [strapi/strapi](https://github.com/strapi/strapi)
+5. ❗ Opened issue [#94](https://github.com/WickyNilliams/cally/issues/94) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
   <!--END_SECTION:activity-->
 </details>
 
