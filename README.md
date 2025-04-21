@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/not-jan/apex-tux/issues/60#issuecomment-2817585004) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-2. 🗣 Commented on [#46](https://github.com/not-jan/apex-tux/pull/46#issuecomment-2817583730) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-3. 🗣 Commented on [#50](https://github.com/not-jan/apex-tux/pull/50#issuecomment-2817583514) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. ❗ Opened issue [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
-5. 🗣 Commented on [#13](https://github.com/SceneView/sceneview-flutter/issues/13#issuecomment-2816964133) in [SceneView/sceneview-flutter](https://github.com/SceneView/sceneview-flutter)
+1. 🔒 Closed issue [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
+2. 🗣 Commented on [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7#issuecomment-2819363777) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
+3. 🗣 Commented on [#60](https://github.com/not-jan/apex-tux/issues/60#issuecomment-2817585004) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+4. 🗣 Commented on [#46](https://github.com/not-jan/apex-tux/pull/46#issuecomment-2817583730) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#50](https://github.com/not-jan/apex-tux/pull/50#issuecomment-2817583514) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
