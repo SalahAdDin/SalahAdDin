@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
-2. 🗣 Commented on [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7#issuecomment-2819363777) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
-3. 🗣 Commented on [#60](https://github.com/not-jan/apex-tux/issues/60#issuecomment-2817585004) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. 🗣 Commented on [#46](https://github.com/not-jan/apex-tux/pull/46#issuecomment-2817583730) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-5. 🗣 Commented on [#50](https://github.com/not-jan/apex-tux/pull/50#issuecomment-2817583514) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+1. 🗣 Commented on [#187](https://github.com/spacemeowx2/ldn_mitm/issues/187#issuecomment-2819787083) in [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
+2. 🗣 Commented on [#514](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/514#issuecomment-2819772661) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🔒 Closed issue [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
+4. 🗣 Commented on [#7](https://github.com/vinceliuice/MacSequoia-kde/issues/7#issuecomment-2819363777) in [vinceliuice/MacSequoia-kde](https://github.com/vinceliuice/MacSequoia-kde)
+5. 🗣 Commented on [#60](https://github.com/not-jan/apex-tux/issues/60#issuecomment-2817585004) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
   <!--END_SECTION:activity-->
 </details>
 
