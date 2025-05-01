@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#196](https://github.com/pluginpal/strapi-plugin-sitemap/issues/196#issuecomment-2839124841) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
-2. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2837339229) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#15](https://github.com/rokmohar/medusa-plugin-meilisearch/issues/15#issuecomment-2830660028) in [rokmohar/medusa-plugin-meilisearch](https://github.com/rokmohar/medusa-plugin-meilisearch)
-4. 🗣 Commented on [#187](https://github.com/spacemeowx2/ldn_mitm/issues/187#issuecomment-2819787083) in [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
-5. 🗣 Commented on [#514](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/514#issuecomment-2819772661) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2844043972) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-2844038634) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#196](https://github.com/pluginpal/strapi-plugin-sitemap/issues/196#issuecomment-2839124841) in [pluginpal/strapi-plugin-sitemap](https://github.com/pluginpal/strapi-plugin-sitemap)
+4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-2837339229) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#15](https://github.com/rokmohar/medusa-plugin-meilisearch/issues/15#issuecomment-2830660028) in [rokmohar/medusa-plugin-meilisearch](https://github.com/rokmohar/medusa-plugin-meilisearch)
   <!--END_SECTION:activity-->
 </details>
 
