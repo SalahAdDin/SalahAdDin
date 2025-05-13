@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25891](https://github.com/storybookjs/storybook/issues/25891#issuecomment-2870179420) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2851305704) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2851303512) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2844043972) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-2844038634) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#25816](https://github.com/brave/brave-browser/issues/25816#issuecomment-2874943269) in [brave/brave-browser](https://github.com/brave/brave-browser)
+2. 🗣 Commented on [#25891](https://github.com/storybookjs/storybook/issues/25891#issuecomment-2870179420) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2851305704) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2851303512) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2844043972) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
