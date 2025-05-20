@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1013](https://github.com/Trae-AI/Trae/issues/1013) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-2. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-2892962106) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#8124](https://github.com/medusajs/medusa/issues/8124#issuecomment-2882122064) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#12060](https://github.com/medusajs/medusa/pull/12060#issuecomment-2878498632) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#25816](https://github.com/brave/brave-browser/issues/25816#issuecomment-2874943269) in [brave/brave-browser](https://github.com/brave/brave-browser)
+1. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-2892996964) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+2. ❗ Opened issue [#1013](https://github.com/Trae-AI/Trae/issues/1013) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+3. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-2892962106) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#8124](https://github.com/medusajs/medusa/issues/8124#issuecomment-2882122064) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#12060](https://github.com/medusajs/medusa/pull/12060#issuecomment-2878498632) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
