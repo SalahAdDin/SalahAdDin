@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12060](https://github.com/medusajs/medusa/pull/12060#issuecomment-2898665305) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2898661327) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗ Opened issue [#249408](https://github.com/microsoft/vscode/issues/249408) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-2892996964) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-5. ❗ Opened issue [#1013](https://github.com/Trae-AI/Trae/issues/1013) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2912853595) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#12060](https://github.com/medusajs/medusa/pull/12060#issuecomment-2898665305) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2898661327) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗ Opened issue [#249408](https://github.com/microsoft/vscode/issues/249408) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-2892996964) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
   <!--END_SECTION:activity-->
 </details>
 
