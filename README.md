@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2916582126) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#249916](https://github.com/microsoft/vscode/issues/249916#issuecomment-2916576972) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🗣 Commented on [#249916](https://github.com/microsoft/vscode/issues/249916#issuecomment-2914465997) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2914464960) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ❗ Opened issue [#249916](https://github.com/microsoft/vscode/issues/249916) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2918171486) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2918170194) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2918168122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2916582126) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#249916](https://github.com/microsoft/vscode/issues/249916#issuecomment-2916576972) in [microsoft/vscode](https://github.com/microsoft/vscode)
   <!--END_SECTION:activity-->
 </details>
 
