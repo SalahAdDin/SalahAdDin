@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111741](https://github.com/microsoft/winget-pkgs/issues/111741#issuecomment-2927824585) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
-2. 🗣 Commented on [#56398](https://github.com/vercel/next.js/issues/56398#issuecomment-2918171486) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-2918170194) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2918168122) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#249408](https://github.com/microsoft/vscode/issues/249408#issuecomment-2916582126) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-2940339927) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#285](https://github.com/mswjs/data/issues/285#issuecomment-2940321667) in [mswjs/data](https://github.com/mswjs/data)
+3. 🗣 Commented on [#10203](https://github.com/payloadcms/payload/pull/10203#issuecomment-2940305892) in [payloadcms/payload](https://github.com/payloadcms/payload)
+4. 🗣 Commented on [#18299](https://github.com/zed-industries/zed/issues/18299#issuecomment-2940303815) in [zed-industries/zed](https://github.com/zed-industries/zed)
+5. 🔒 Closed issue [#18299](https://github.com/zed-industries/zed/issues/18299) in [zed-industries/zed](https://github.com/zed-industries/zed)
   <!--END_SECTION:activity-->
 </details>
 
