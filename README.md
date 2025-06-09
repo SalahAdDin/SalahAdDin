@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-2953484259) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2953435319) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#675](https://github.com/Trae-AI/Trae/issues/675#issuecomment-2948163513) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-4. 🗣 Commented on [#77](https://github.com/dasmikko/strapi-tiptap-editor/issues/77#issuecomment-2944585298) in [dasmikko/strapi-tiptap-editor](https://github.com/dasmikko/strapi-tiptap-editor)
-5. 🗣 Commented on [#1443](https://github.com/payloadcms/payload/pull/1443#issuecomment-2944481242) in [payloadcms/payload](https://github.com/payloadcms/payload)
+1. 🗣 Commented on [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158#issuecomment-2954489551) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+2. ❗ Opened issue [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+3. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-2953484259) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2953435319) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#675](https://github.com/Trae-AI/Trae/issues/675#issuecomment-2948163513) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
   <!--END_SECTION:activity-->
 </details>
 
