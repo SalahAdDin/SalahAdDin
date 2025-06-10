@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158#issuecomment-2954489551) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-2. ❗ Opened issue [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-3. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-2953484259) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#10035](https://github.com/medusajs/medusa/issues/10035#issuecomment-2953435319) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#675](https://github.com/Trae-AI/Trae/issues/675#issuecomment-2948163513) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. 🗣 Commented on [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158#issuecomment-2957504853) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+2. 🔒 Closed issue [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+3. 🗣 Commented on [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158#issuecomment-2954489551) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+4. ❗ Opened issue [#158](https://github.com/aaaaalexis/obsidian-cupertino/issues/158) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+5. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-2953484259) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
