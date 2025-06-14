@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#170](https://github.com/andreruffert/range-slider-element/issues/170) in [andreruffert/range-slider-element](https://github.com/andreruffert/range-slider-element)
-2. 🗣 Commented on [#187](https://github.com/spacemeowx2/ldn_mitm/issues/187#issuecomment-2970664950) in [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
-3. 🗣 Commented on [#1](https://github.com/chitvs/vaulter/issues/1#issuecomment-2968694062) in [chitvs/vaulter](https://github.com/chitvs/vaulter)
-4. 🗣 Commented on [#5091](https://github.com/medusajs/medusa/issues/5091#issuecomment-2968693041) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. ❗ Opened issue [#1102](https://github.com/Trae-AI/Trae/issues/1102) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. ❗ Opened issue [#30](https://github.com/weph/obsidian-bookshelf/issues/30) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
+2. ❗ Opened issue [#170](https://github.com/andreruffert/range-slider-element/issues/170) in [andreruffert/range-slider-element](https://github.com/andreruffert/range-slider-element)
+3. 🗣 Commented on [#187](https://github.com/spacemeowx2/ldn_mitm/issues/187#issuecomment-2970664950) in [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
+4. 🗣 Commented on [#1](https://github.com/chitvs/vaulter/issues/1#issuecomment-2968694062) in [chitvs/vaulter](https://github.com/chitvs/vaulter)
+5. 🗣 Commented on [#5091](https://github.com/medusajs/medusa/issues/5091#issuecomment-2968693041) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
