@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2973408734) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
-2. ❗ Opened issue [#30](https://github.com/weph/obsidian-bookshelf/issues/30) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
-3. ❗ Opened issue [#170](https://github.com/andreruffert/range-slider-element/issues/170) in [andreruffert/range-slider-element](https://github.com/andreruffert/range-slider-element)
-4. 🗣 Commented on [#187](https://github.com/spacemeowx2/ldn_mitm/issues/187#issuecomment-2970664950) in [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
-5. 🗣 Commented on [#1](https://github.com/chitvs/vaulter/issues/1#issuecomment-2968694062) in [chitvs/vaulter](https://github.com/chitvs/vaulter)
+1. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2974461440) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
+2. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2973408734) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
+3. ❗ Opened issue [#30](https://github.com/weph/obsidian-bookshelf/issues/30) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
+4. ❗ Opened issue [#170](https://github.com/andreruffert/range-slider-element/issues/170) in [andreruffert/range-slider-element](https://github.com/andreruffert/range-slider-element)
+5. 🗣 Commented on [#187](https://github.com/spacemeowx2/ldn_mitm/issues/187#issuecomment-2970664950) in [spacemeowx2/ldn_mitm](https://github.com/spacemeowx2/ldn_mitm)
   <!--END_SECTION:activity-->
 </details>
 
