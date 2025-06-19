@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/loganliffick/splt/issues/2#issuecomment-2982305551) in [loganliffick/splt](https://github.com/loganliffick/splt)
-2. 🗣 Commented on [#170310](https://github.com/flutter/flutter/issues/170310#issuecomment-2978669097) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2974461440) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
-4. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2973408734) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
-5. ❗ Opened issue [#30](https://github.com/weph/obsidian-bookshelf/issues/30) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
+1. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2986516183) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#2](https://github.com/loganliffick/splt/issues/2#issuecomment-2982305551) in [loganliffick/splt](https://github.com/loganliffick/splt)
+3. 🗣 Commented on [#170310](https://github.com/flutter/flutter/issues/170310#issuecomment-2978669097) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2974461440) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
+5. 🗣 Commented on [#1777](https://github.com/TriliumNext/Notes/issues/1777#issuecomment-2973408734) in [TriliumNext/Notes](https://github.com/TriliumNext/Notes)
   <!--END_SECTION:activity-->
 </details>
 
