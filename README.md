@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8441](https://github.com/zen-browser/desktop/pull/8441#issuecomment-2993299434) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-2. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2993030315) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#7459](https://github.com/medusajs/medusa/issues/7459#issuecomment-2986516183) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#2](https://github.com/loganliffick/splt/issues/2#issuecomment-2982305551) in [loganliffick/splt](https://github.com/loganliffick/splt)
-5. 🗣 Commented on [#170310](https://github.com/flutter/flutter/issues/170310#issuecomment-2978669097) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🗣 Commented on [#42](https://github.com/Trae-AI/Trae/issues/42#issuecomment-3014868412) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+2. 🗣 Commented on [#72](https://github.com/strapi/strapi-plugin-seo/pull/72#issuecomment-3014867212) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
+3. 🗣 Commented on [#421](https://github.com/mswjs/msw/pull/421#issuecomment-3014863911) in [mswjs/msw](https://github.com/mswjs/msw)
+4. 🗣 Commented on [#8441](https://github.com/zen-browser/desktop/pull/8441#issuecomment-2993299434) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+5. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2993030315) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
