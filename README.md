@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/Trae-AI/Trae/issues/42#issuecomment-3014868412) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-2. 🗣 Commented on [#72](https://github.com/strapi/strapi-plugin-seo/pull/72#issuecomment-3014867212) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
-3. 🗣 Commented on [#421](https://github.com/mswjs/msw/pull/421#issuecomment-3014863911) in [mswjs/msw](https://github.com/mswjs/msw)
-4. 🗣 Commented on [#8441](https://github.com/zen-browser/desktop/pull/8441#issuecomment-2993299434) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-5. 🗣 Commented on [#4077](https://github.com/medusajs/medusa/issues/4077#issuecomment-2993030315) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#606](https://github.com/biomejs/biome-vscode/issues/606#issuecomment-3016096246) in [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
+2. 🗣 Commented on [#606](https://github.com/biomejs/biome-vscode/issues/606#issuecomment-3016014811) in [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
+3. 🗣 Commented on [#606](https://github.com/biomejs/biome-vscode/issues/606#issuecomment-3016006101) in [biomejs/biome-vscode](https://github.com/biomejs/biome-vscode)
+4. 🗣 Commented on [#42](https://github.com/Trae-AI/Trae/issues/42#issuecomment-3014868412) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+5. 🗣 Commented on [#72](https://github.com/strapi/strapi-plugin-seo/pull/72#issuecomment-3014867212) in [strapi/strapi-plugin-seo](https://github.com/strapi/strapi-plugin-seo)
   <!--END_SECTION:activity-->
 </details>
 
