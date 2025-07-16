@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3076641504) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#80](https://github.com/fulldotdev/ui/issues/80#issuecomment-3076464874) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
-3. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-3076463175) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-4. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-3071514748) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
-5. 🗣 Commented on [#1163](https://github.com/Trae-AI/Trae/issues/1163#issuecomment-3042502097) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. 🗣 Commented on [#2](https://github.com/Matmax-Worldwide/payloadcmsmcp/issues/2#issuecomment-3076684025) in [Matmax-Worldwide/payloadcmsmcp](https://github.com/Matmax-Worldwide/payloadcmsmcp)
+2. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3076641504) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#80](https://github.com/fulldotdev/ui/issues/80#issuecomment-3076464874) in [fulldotdev/ui](https://github.com/fulldotdev/ui)
+4. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-3076463175) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
+5. 🗣 Commented on [#1818](https://github.com/ueberdosis/tiptap/issues/1818#issuecomment-3071514748) in [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap)
   <!--END_SECTION:activity-->
 </details>
 
