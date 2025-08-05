@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621#issuecomment-3149012232) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3146052302) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-3. ❗ Opened issue [#357](https://github.com/Quorafind/Obsidian-Task-Genius/issues/357) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3095067791) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. ❗ Opened issue [#11935](https://github.com/linuxdeepin/developer-center/issues/11935) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+1. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-3153239007) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621#issuecomment-3149012232) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3146052302) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+4. ❗ Opened issue [#357](https://github.com/Quorafind/Obsidian-Task-Genius/issues/357) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+5. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3095067791) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
