@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36904](https://github.com/microsoft/playwright/issues/36904#issuecomment-3153250035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-2. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-3153239007) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621#issuecomment-3149012232) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3146052302) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-5. ❗ Opened issue [#357](https://github.com/Quorafind/Obsidian-Task-Genius/issues/357) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3160763417) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#36904](https://github.com/microsoft/playwright/issues/36904#issuecomment-3153250035) in [microsoft/playwright](https://github.com/microsoft/playwright)
+3. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-3153239007) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621#issuecomment-3149012232) in [microsoft/playwright](https://github.com/microsoft/playwright)
+5. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3146052302) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
   <!--END_SECTION:activity-->
 </details>
 
