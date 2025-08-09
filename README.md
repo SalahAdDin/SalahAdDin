@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#416](https://github.com/rafatosta/zapzap/issues/416#issuecomment-3168293017) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3160763417) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#36904](https://github.com/microsoft/playwright/issues/36904#issuecomment-3153250035) in [microsoft/playwright](https://github.com/microsoft/playwright)
-4. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-3153239007) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#2621](https://github.com/microsoft/playwright/issues/2621#issuecomment-3149012232) in [microsoft/playwright](https://github.com/microsoft/playwright)
+1. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-3169969811) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ❗ Opened issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+3. 🗣 Commented on [#416](https://github.com/rafatosta/zapzap/issues/416#issuecomment-3168293017) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
+4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3160763417) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#36904](https://github.com/microsoft/playwright/issues/36904#issuecomment-3153250035) in [microsoft/playwright](https://github.com/microsoft/playwright)
   <!--END_SECTION:activity-->
 </details>
 
