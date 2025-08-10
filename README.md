@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#486](https://github.com/srbhr/Resume-Matcher/issues/486) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-2. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-3169969811) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ❗ Opened issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-4. 🗣 Commented on [#416](https://github.com/rafatosta/zapzap/issues/416#issuecomment-3168293017) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
-5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3160763417) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗ Opened issue [#382](https://github.com/Quorafind/Obsidian-Task-Genius/issues/382) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+2. ❗ Opened issue [#486](https://github.com/srbhr/Resume-Matcher/issues/486) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+3. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-3169969811) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ❗ Opened issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+5. 🗣 Commented on [#416](https://github.com/rafatosta/zapzap/issues/416#issuecomment-3168293017) in [rafatosta/zapzap](https://github.com/rafatosta/zapzap)
   <!--END_SECTION:activity-->
 </details>
 
