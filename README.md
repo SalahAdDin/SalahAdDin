@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3172384730) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-2. ❗ Opened issue [#382](https://github.com/Quorafind/Obsidian-Task-Genius/issues/382) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-3. ❗ Opened issue [#486](https://github.com/srbhr/Resume-Matcher/issues/486) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-4. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-3169969811) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. ❗ Opened issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+1. 🗣 Commented on [#10118](https://github.com/medusajs/medusa/issues/10118#issuecomment-3172797331) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#486](https://github.com/srbhr/Resume-Matcher/issues/486#issuecomment-3172795143) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+3. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3172384730) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+4. ❗ Opened issue [#382](https://github.com/Quorafind/Obsidian-Task-Genius/issues/382) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+5. ❗ Opened issue [#486](https://github.com/srbhr/Resume-Matcher/issues/486) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
   <!--END_SECTION:activity-->
 </details>
 
