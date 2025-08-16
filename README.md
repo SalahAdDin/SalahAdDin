@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#42](https://github.com/weph/obsidian-bookshelf/issues/42) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
-2. 🗣 Commented on [#13](https://github.com/weph/obsidian-bookshelf/issues/13#issuecomment-3182291796) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
-3. 🗣 Commented on [#448](https://github.com/srbhr/Resume-Matcher/issues/448#issuecomment-3181090847) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-4. 🗣 Commented on [#36904](https://github.com/microsoft/playwright/issues/36904#issuecomment-3181088337) in [microsoft/playwright](https://github.com/microsoft/playwright)
-5. 🗣 Commented on [#11545](https://github.com/linuxdeepin/developer-center/issues/11545#issuecomment-3177834059) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+1. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193088828) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+2. ❗ Opened issue [#42](https://github.com/weph/obsidian-bookshelf/issues/42) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
+3. 🗣 Commented on [#13](https://github.com/weph/obsidian-bookshelf/issues/13#issuecomment-3182291796) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
+4. 🗣 Commented on [#448](https://github.com/srbhr/Resume-Matcher/issues/448#issuecomment-3181090847) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+5. 🗣 Commented on [#36904](https://github.com/microsoft/playwright/issues/36904#issuecomment-3181088337) in [microsoft/playwright](https://github.com/microsoft/playwright)
   <!--END_SECTION:activity-->
 </details>
 
