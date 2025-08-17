@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193802503) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-2. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193088828) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-3. ❗ Opened issue [#42](https://github.com/weph/obsidian-bookshelf/issues/42) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
-4. 🗣 Commented on [#13](https://github.com/weph/obsidian-bookshelf/issues/13#issuecomment-3182291796) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
-5. 🗣 Commented on [#448](https://github.com/srbhr/Resume-Matcher/issues/448#issuecomment-3181090847) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+1. 🔒 Closed issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+2. 🗣 Commented on [#5649](https://github.com/microsoft/winget-cli/issues/5649#issuecomment-3194504708) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+3. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193802503) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+4. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193088828) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+5. ❗ Opened issue [#42](https://github.com/weph/obsidian-bookshelf/issues/42) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
   <!--END_SECTION:activity-->
 </details>
 
