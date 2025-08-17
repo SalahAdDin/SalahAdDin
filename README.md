@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-2. 🗣 Commented on [#5649](https://github.com/microsoft/winget-cli/issues/5649#issuecomment-3194504708) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
-3. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193802503) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-4. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193088828) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-5. ❗ Opened issue [#42](https://github.com/weph/obsidian-bookshelf/issues/42) in [weph/obsidian-bookshelf](https://github.com/weph/obsidian-bookshelf)
+1. 🗣 Commented on [#1582](https://github.com/waydroid/waydroid/issues/1582#issuecomment-3194613728) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+2. 🔒 Closed issue [#5649](https://github.com/microsoft/winget-cli/issues/5649) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+3. 🗣 Commented on [#5649](https://github.com/microsoft/winget-cli/issues/5649#issuecomment-3194504708) in [microsoft/winget-cli](https://github.com/microsoft/winget-cli)
+4. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193802503) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+5. 🗣 Commented on [#475](https://github.com/srbhr/Resume-Matcher/issues/475#issuecomment-3193088828) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
   <!--END_SECTION:activity-->
 </details>
 
