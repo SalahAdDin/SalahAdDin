@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#538](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/538#issuecomment-3201876162) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3201835778) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-3. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3201832909) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-4. 🔒 Closed issue [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-5. 🗣 Commented on [#1582](https://github.com/waydroid/waydroid/issues/1582#issuecomment-3195113141) in [waydroid/waydroid](https://github.com/waydroid/waydroid)
+1. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3216235153) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#538](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/538#issuecomment-3201876162) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3201835778) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+4. 🗣 Commented on [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368#issuecomment-3201832909) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
+5. 🔒 Closed issue [#368](https://github.com/Quorafind/Obsidian-Task-Genius/issues/368) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
   <!--END_SECTION:activity-->
 </details>
 
