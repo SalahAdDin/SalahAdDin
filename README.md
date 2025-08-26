@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3218431609) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#18](https://github.com/Trae-AI/Trae/issues/18#issuecomment-3217625916) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-3. 🗣 Commented on [#18](https://github.com/Trae-AI/Trae/issues/18#issuecomment-3217236682) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3216235153) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#538](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/538#issuecomment-3201876162) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. ❗ Opened issue [#1416](https://github.com/Trae-AI/Trae/issues/1416) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+2. 🗣 Commented on [#1415](https://github.com/Trae-AI/Trae/issues/1415#issuecomment-3222190488) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+3. 🗣 Commented on [#13155](https://github.com/medusajs/medusa/pull/13155#issuecomment-3222187141) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3218431609) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#18](https://github.com/Trae-AI/Trae/issues/18#issuecomment-3217625916) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
   <!--END_SECTION:activity-->
 </details>
 
