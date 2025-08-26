@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1416](https://github.com/Trae-AI/Trae/issues/1416) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-2. 🗣 Commented on [#1415](https://github.com/Trae-AI/Trae/issues/1415#issuecomment-3222190488) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-3. 🗣 Commented on [#13155](https://github.com/medusajs/medusa/pull/13155#issuecomment-3222187141) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3218431609) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#18](https://github.com/Trae-AI/Trae/issues/18#issuecomment-3217625916) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. 🗣 Commented on [#1416](https://github.com/Trae-AI/Trae/issues/1416#issuecomment-3222450355) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+2. ❗ Opened issue [#1416](https://github.com/Trae-AI/Trae/issues/1416) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+3. 🗣 Commented on [#1415](https://github.com/Trae-AI/Trae/issues/1415#issuecomment-3222190488) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+4. 🗣 Commented on [#13155](https://github.com/medusajs/medusa/pull/13155#issuecomment-3222187141) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3218431609) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
