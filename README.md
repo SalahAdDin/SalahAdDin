@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1416](https://github.com/Trae-AI/Trae/issues/1416#issuecomment-3235048707) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-2. 🗣 Commented on [#13155](https://github.com/medusajs/medusa/pull/13155#issuecomment-3235032991) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#1630](https://github.com/radix-ui/primitives/issues/1630#issuecomment-3226320740) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-4. 🗣 Commented on [#18](https://github.com/Trae-AI/Trae/issues/18#issuecomment-3226318992) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
-5. 🗣 Commented on [#1416](https://github.com/Trae-AI/Trae/issues/1416#issuecomment-3222450355) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+1. 🗣 Commented on [#177](https://github.com/Artemis-RGB/Artemis.Plugins/pull/177#issuecomment-3251749678) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
+2. 🗣 Commented on [#1416](https://github.com/Trae-AI/Trae/issues/1416#issuecomment-3235048707) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
+3. 🗣 Commented on [#13155](https://github.com/medusajs/medusa/pull/13155#issuecomment-3235032991) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#1630](https://github.com/radix-ui/primitives/issues/1630#issuecomment-3226320740) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+5. 🗣 Commented on [#18](https://github.com/Trae-AI/Trae/issues/18#issuecomment-3226318992) in [Trae-AI/Trae](https://github.com/Trae-AI/Trae)
   <!--END_SECTION:activity-->
 </details>
 
