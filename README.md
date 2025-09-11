@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-3264537540) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
-2. 🗣 Commented on [#29045](https://github.com/facebook/react/issues/29045#issuecomment-3264534904) in [facebook/react](https://github.com/facebook/react)
-3. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-3264533954) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-3262978278) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-3262975504) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
+1. 🗣 Commented on [#9062](https://github.com/zen-browser/desktop/issues/9062#issuecomment-3276857849) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
+2. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-3264537540) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
+3. 🗣 Commented on [#29045](https://github.com/facebook/react/issues/29045#issuecomment-3264534904) in [facebook/react](https://github.com/facebook/react)
+4. 🗣 Commented on [#5048](https://github.com/medusajs/medusa/issues/5048#issuecomment-3264533954) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#10801](https://github.com/medusajs/medusa/pull/10801#issuecomment-3262978278) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
