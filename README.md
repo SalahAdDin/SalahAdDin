@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-3283745942) in [mswjs/examples](https://github.com/mswjs/examples)
-2. 🔒 Closed issue [#357](https://github.com/Quorafind/Obsidian-Task-Genius/issues/357) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
-3. 🗣 Commented on [#9062](https://github.com/zen-browser/desktop/issues/9062#issuecomment-3276857849) in [zen-browser/desktop](https://github.com/zen-browser/desktop)
-4. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-3264537540) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
-5. 🗣 Commented on [#29045](https://github.com/facebook/react/issues/29045#issuecomment-3264534904) in [facebook/react](https://github.com/facebook/react)
+1. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-3294635662) in [mswjs/examples](https://github.com/mswjs/examples)
+2. 🗣 Commented on [#81](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/81#issuecomment-3294631889) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+3. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3294626395) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-3283745942) in [mswjs/examples](https://github.com/mswjs/examples)
+5. 🔒 Closed issue [#357](https://github.com/Quorafind/Obsidian-Task-Genius/issues/357) in [Quorafind/Obsidian-Task-Genius](https://github.com/Quorafind/Obsidian-Task-Genius)
   <!--END_SECTION:activity-->
 </details>
 
