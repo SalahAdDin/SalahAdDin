@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3305336361) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3300729070) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#4628](https://github.com/mermaid-js/mermaid/issues/4628#issuecomment-3300727846) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-4. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-3294635662) in [mswjs/examples](https://github.com/mswjs/examples)
-5. 🗣 Commented on [#81](https://github.com/RafaelBarbosatec/tutorial_coach_mark/issues/81#issuecomment-3294631889) in [RafaelBarbosatec/tutorial_coach_mark](https://github.com/RafaelBarbosatec/tutorial_coach_mark)
+1. 🗣 Commented on [#58687](https://github.com/vercel/next.js/issues/58687#issuecomment-3363739741) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3305336361) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3300729070) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#4628](https://github.com/mermaid-js/mermaid/issues/4628#issuecomment-3300727846) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+5. 🗣 Commented on [#101](https://github.com/mswjs/examples/pull/101#issuecomment-3294635662) in [mswjs/examples](https://github.com/mswjs/examples)
   <!--END_SECTION:activity-->
 </details>
 
