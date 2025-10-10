@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/WinterSquire/AlphaRing/issues/122#issuecomment-3379530319) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-2. 🗣 Commented on [#111](https://github.com/WinterSquire/AlphaRing/issues/111#issuecomment-3379529213) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-3. 🗣 Commented on [#58687](https://github.com/vercel/next.js/issues/58687#issuecomment-3363739741) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3305336361) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3300729070) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗ Opened issue [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
+2. 🗣 Commented on [#122](https://github.com/WinterSquire/AlphaRing/issues/122#issuecomment-3379530319) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
+3. 🗣 Commented on [#111](https://github.com/WinterSquire/AlphaRing/issues/111#issuecomment-3379529213) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
+4. 🗣 Commented on [#58687](https://github.com/vercel/next.js/issues/58687#issuecomment-3363739741) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#7987](https://github.com/medusajs/medusa/issues/7987#issuecomment-3305336361) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
