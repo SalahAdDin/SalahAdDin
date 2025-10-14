@@ -66,9 +66,9 @@ Here are some ideas to get you started:
   <!--START_SECTION:activity-->
 1. 🗣 Commented on [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115#issuecomment-3387728219) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
 2. ❗ Opened issue [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
-3. 🗣 Commented on [#122](https://github.com/WinterSquire/AlphaRing/issues/122#issuecomment-3379530319) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-4. 🗣 Commented on [#111](https://github.com/WinterSquire/AlphaRing/issues/111#issuecomment-3379529213) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-5. 🗣 Commented on [#58687](https://github.com/vercel/next.js/issues/58687#issuecomment-3363739741) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-3384119296) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+4. 🗣 Commented on [#122](https://github.com/WinterSquire/AlphaRing/issues/122#issuecomment-3379530319) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
+5. 🗣 Commented on [#111](https://github.com/WinterSquire/AlphaRing/issues/111#issuecomment-3379529213) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
   <!--END_SECTION:activity-->
 </details>
 
