@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115#issuecomment-3387728219) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
-2. ❗ Opened issue [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
-3. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-3384119296) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-4. 🗣 Commented on [#122](https://github.com/WinterSquire/AlphaRing/issues/122#issuecomment-3379530319) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-5. 🗣 Commented on [#111](https://github.com/WinterSquire/AlphaRing/issues/111#issuecomment-3379529213) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
+1. 🗣 Commented on [#22722](https://github.com/strapi/strapi/issues/22722#issuecomment-3404380397) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115#issuecomment-3387728219) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
+3. ❗ Opened issue [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
+4. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-3384119296) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+5. 🗣 Commented on [#122](https://github.com/WinterSquire/AlphaRing/issues/122#issuecomment-3379530319) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
   <!--END_SECTION:activity-->
 </details>
 
