@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19711](https://github.com/storybookjs/storybook/issues/19711#issuecomment-3411732270) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#26270](https://github.com/storybookjs/storybook/issues/26270#issuecomment-3411642934) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3409015563) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#22722](https://github.com/strapi/strapi/issues/22722#issuecomment-3404380397) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#115](https://github.com/ChristopheCVB/strapi-plugin-app-version/issues/115#issuecomment-3387728219) in [ChristopheCVB/strapi-plugin-app-version](https://github.com/ChristopheCVB/strapi-plugin-app-version)
+1. 🗣 Commented on [#1462](https://github.com/radix-ui/primitives/issues/1462#issuecomment-3417732013) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+2. 🗣 Commented on [#19711](https://github.com/storybookjs/storybook/issues/19711#issuecomment-3411732270) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#26270](https://github.com/storybookjs/storybook/issues/26270#issuecomment-3411642934) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3409015563) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#22722](https://github.com/strapi/strapi/issues/22722#issuecomment-3404380397) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
