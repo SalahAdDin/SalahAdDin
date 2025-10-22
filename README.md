@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1462](https://github.com/radix-ui/primitives/issues/1462#issuecomment-3417732013) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-2. 🗣 Commented on [#19711](https://github.com/storybookjs/storybook/issues/19711#issuecomment-3411732270) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#26270](https://github.com/storybookjs/storybook/issues/26270#issuecomment-3411642934) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3409015563) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#22722](https://github.com/strapi/strapi/issues/22722#issuecomment-3404380397) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#32789](https://github.com/storybookjs/storybook/issues/32789#issuecomment-3430096262) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2.  Labeled issue [#32789](https://github.com/storybookjs/storybook/issues/32789) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3.  Labeled issue [#32789](https://github.com/storybookjs/storybook/issues/32789) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. ❗ Opened issue [#32789](https://github.com/storybookjs/storybook/issues/32789) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. ❗ Opened issue [#798](https://github.com/vitest-dev/eslint-plugin-vitest/issues/798) in [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
   <!--END_SECTION:activity-->
 </details>
 
