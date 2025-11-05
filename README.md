@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/chaance/vitest-dom/issues/9) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3445546092) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3434893680) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3434711709) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#177](https://github.com/aaaaalexis/obsidian-cupertino/issues/177#issuecomment-3430517530) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+1. 🗣 Commented on [#230](https://github.com/Aurora-RGB/Aurora/issues/230#issuecomment-3489355548) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
+2. ❗ Opened issue [#9](https://github.com/chaance/vitest-dom/issues/9) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
+3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3445546092) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3434893680) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3434711709) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
