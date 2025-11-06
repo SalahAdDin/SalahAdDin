@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436#issuecomment-3494966952) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-2. ❗ Opened issue [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-3. 🗣 Commented on [#230](https://github.com/Aurora-RGB/Aurora/issues/230#issuecomment-3489355548) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
-4. ❗ Opened issue [#9](https://github.com/chaance/vitest-dom/issues/9) in [chaance/vitest-dom](https://github.com/chaance/vitest-dom)
-5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3445546092) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1.  Labeled issue [#238](https://github.com/Artemis-RGB/Artemis.Plugins/issues/238) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
+2. ❗ Opened issue [#238](https://github.com/Artemis-RGB/Artemis.Plugins/issues/238) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
+3. 🗣 Commented on [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436#issuecomment-3494966952) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+4. ❗ Opened issue [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+5. 🗣 Commented on [#230](https://github.com/Aurora-RGB/Aurora/issues/230#issuecomment-3489355548) in [Aurora-RGB/Aurora](https://github.com/Aurora-RGB/Aurora)
   <!--END_SECTION:activity-->
 </details>
 
