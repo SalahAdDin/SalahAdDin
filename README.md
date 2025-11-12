@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-2. 🗣 Commented on [#32973](https://github.com/storybookjs/storybook/issues/32973#issuecomment-3512518332) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#241](https://github.com/Artemis-RGB/Artemis.Plugins/issues/241#issuecomment-3500150245) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
-4. 🔒 Closed issue [#240](https://github.com/Artemis-RGB/Artemis.Plugins/issues/240) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
-5. 🗣 Commented on [#240](https://github.com/Artemis-RGB/Artemis.Plugins/issues/240#issuecomment-3500147620) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
+1. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-3519517417) in [muxinc/next-video](https://github.com/muxinc/next-video)
+2. ❗ Opened issue [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+3. 🗣 Commented on [#32973](https://github.com/storybookjs/storybook/issues/32973#issuecomment-3512518332) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#241](https://github.com/Artemis-RGB/Artemis.Plugins/issues/241#issuecomment-3500150245) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
+5. 🔒 Closed issue [#240](https://github.com/Artemis-RGB/Artemis.Plugins/issues/240) in [Artemis-RGB/Artemis.Plugins](https://github.com/Artemis-RGB/Artemis.Plugins)
   <!--END_SECTION:activity-->
 </details>
 
