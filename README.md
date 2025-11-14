@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18136](https://github.com/storybookjs/storybook/issues/18136#issuecomment-3524784673) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#9586](https://github.com/storybookjs/storybook/issues/9586#issuecomment-3524729931) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#32973](https://github.com/storybookjs/storybook/issues/32973#issuecomment-3524702210) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#223](https://github.com/muxinc/next-video/issues/223#issuecomment-3519517417) in [muxinc/next-video](https://github.com/muxinc/next-video)
-5. ❗ Opened issue [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+1. 🗣 Commented on [#22800](https://github.com/strapi/strapi/pull/22800#issuecomment-3530659599) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#47](https://github.com/vklochan/python-logstash/pull/47#issuecomment-3530656171) in [vklochan/python-logstash](https://github.com/vklochan/python-logstash)
+3. 🗣 Commented on [#18136](https://github.com/storybookjs/storybook/issues/18136#issuecomment-3524784673) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#9586](https://github.com/storybookjs/storybook/issues/9586#issuecomment-3524729931) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#32973](https://github.com/storybookjs/storybook/issues/32973#issuecomment-3524702210) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
