@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13190](https://github.com/medusajs/medusa/pull/13190#issuecomment-3559191303) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#11908](https://github.com/storybookjs/storybook/issues/11908#issuecomment-3553772151) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#32789](https://github.com/storybookjs/storybook/issues/32789#issuecomment-3553735054) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#13139](https://github.com/storybookjs/storybook/issues/13139#issuecomment-3553635813) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#32789](https://github.com/storybookjs/storybook/issues/32789#issuecomment-3553461319) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#266](https://github.com/aaaaalexis/obsidian-cupertino/issues/266#issuecomment-3568893184) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+2. 🗣 Commented on [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258#issuecomment-3568891144) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+3. 🗣 Commented on [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258#issuecomment-3568880895) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+4. ❗ Opened issue [#266](https://github.com/aaaaalexis/obsidian-cupertino/issues/266) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+5. 🗣 Commented on [#13190](https://github.com/medusajs/medusa/pull/13190#issuecomment-3559191303) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
