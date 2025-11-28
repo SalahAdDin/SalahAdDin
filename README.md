@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/aaaaalexis/obsidian-cupertino/issues/266#issuecomment-3568893184) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-2. 🗣 Commented on [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258#issuecomment-3568891144) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-3. 🗣 Commented on [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258#issuecomment-3568880895) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-4. ❗ Opened issue [#266](https://github.com/aaaaalexis/obsidian-cupertino/issues/266) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-5. 🗣 Commented on [#13190](https://github.com/medusajs/medusa/pull/13190#issuecomment-3559191303) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗ Opened issue [#270](https://github.com/aaaaalexis/obsidian-cupertino/issues/270) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+2. 🗣 Commented on [#266](https://github.com/aaaaalexis/obsidian-cupertino/issues/266#issuecomment-3568893184) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+3. 🗣 Commented on [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258#issuecomment-3568891144) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+4. 🗣 Commented on [#258](https://github.com/aaaaalexis/obsidian-cupertino/issues/258#issuecomment-3568880895) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+5. ❗ Opened issue [#266](https://github.com/aaaaalexis/obsidian-cupertino/issues/266) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
   <!--END_SECTION:activity-->
 </details>
 
