@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3590041423) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-2. 🗣 Commented on [#271](https://github.com/aaaaalexis/obsidian-cupertino/issues/271#issuecomment-3587896709) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-3. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3587894646) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-4. 🗣 Commented on [#271](https://github.com/aaaaalexis/obsidian-cupertino/issues/271#issuecomment-3587892048) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-5. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3587858512) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+1. ❗ Opened issue [#32](https://github.com/alangrainger/obsidian-lazy-plugins/issues/32) in [alangrainger/obsidian-lazy-plugins](https://github.com/alangrainger/obsidian-lazy-plugins)
+2. 🗣 Commented on [#20716](https://github.com/strapi/strapi/issues/20716#issuecomment-3590751997) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3590041423) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+4. 🗣 Commented on [#271](https://github.com/aaaaalexis/obsidian-cupertino/issues/271#issuecomment-3587896709) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+5. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3587894646) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
   <!--END_SECTION:activity-->
 </details>
 
