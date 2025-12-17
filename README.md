@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/flackr/scroll-timeline/issues/266#issuecomment-3666410467) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
-2. 🗣 Commented on [#24956](https://github.com/strapi/strapi/issues/24956#issuecomment-3652582360) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#24956](https://github.com/strapi/strapi/issues/24956#issuecomment-3644881319) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3640536855) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#24956](https://github.com/strapi/strapi/issues/24956#issuecomment-3635364134) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#266](https://github.com/flackr/scroll-timeline/issues/266#issuecomment-3666597017) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
+2. 🗣 Commented on [#52](https://github.com/flackr/scroll-timeline/pull/52#issuecomment-3666586465) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
+3. 🗣 Commented on [#24956](https://github.com/strapi/strapi/issues/24956#issuecomment-3652582360) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#24956](https://github.com/strapi/strapi/issues/24956#issuecomment-3644881319) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3640536855) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
