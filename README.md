@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#266](https://github.com/flackr/scroll-timeline/issues/266#issuecomment-3672853060) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
-2. 🗣 Commented on [#52](https://github.com/flackr/scroll-timeline/pull/52#issuecomment-3672852516) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
-3. 💪 Opened PR [#304](undefined) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
-4. 🗣 Commented on [#266](https://github.com/flackr/scroll-timeline/issues/266#issuecomment-3666597017) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
-5. 🗣 Commented on [#52](https://github.com/flackr/scroll-timeline/pull/52#issuecomment-3666586465) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
+1. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-3675301403) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#28395](https://github.com/storybookjs/storybook/pull/28395#issuecomment-3675297056) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#266](https://github.com/flackr/scroll-timeline/issues/266#issuecomment-3672853060) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
+4. 🗣 Commented on [#52](https://github.com/flackr/scroll-timeline/pull/52#issuecomment-3672852516) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
+5. 💪 Opened PR [#304](undefined) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
   <!--END_SECTION:activity-->
 </details>
 
