@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#338](https://github.com/pluginpal/strapi-webtools/pull/338#issuecomment-3694363013) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-2. ❗ Opened issue [#372](https://github.com/pluginpal/strapi-webtools/issues/372) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-3. 🗣 Commented on [#26215](https://github.com/storybookjs/storybook/issues/26215#issuecomment-3675301403) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#28395](https://github.com/storybookjs/storybook/pull/28395#issuecomment-3675297056) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#266](https://github.com/flackr/scroll-timeline/issues/266#issuecomment-3672853060) in [flackr/scroll-timeline](https://github.com/flackr/scroll-timeline)
+1. 🗣 Commented on [#38](https://github.com/ngryman/reading-time/issues/38#issuecomment-3694424712) in [ngryman/reading-time](https://github.com/ngryman/reading-time)
+2. 🗣 Commented on [#15](https://github.com/shx08/strapi-leaflet-geoman/issues/15#issuecomment-3694411899) in [shx08/strapi-leaflet-geoman](https://github.com/shx08/strapi-leaflet-geoman)
+3. 🗣 Commented on [#18](https://github.com/shx08/strapi-leaflet-geoman/issues/18#issuecomment-3694411812) in [shx08/strapi-leaflet-geoman](https://github.com/shx08/strapi-leaflet-geoman)
+4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3694389200) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#338](https://github.com/pluginpal/strapi-webtools/pull/338#issuecomment-3694363013) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
   <!--END_SECTION:activity-->
 </details>
 
