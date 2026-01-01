@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#531](https://github.com/srbhr/Resume-Matcher/pull/531#issuecomment-3702992821) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-2. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3702988194) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#416](https://github.com/srbhr/Resume-Matcher/pull/416#issuecomment-3702987655) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-4. 🗣 Commented on [#338](https://github.com/pluginpal/strapi-webtools/pull/338#issuecomment-3695024967) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
-5. 🗣 Commented on [#38](https://github.com/ngryman/reading-time/issues/38#issuecomment-3694424712) in [ngryman/reading-time](https://github.com/ngryman/reading-time)
+1. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3703401693) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+2. 🗣 Commented on [#531](https://github.com/srbhr/Resume-Matcher/pull/531#issuecomment-3702992821) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+3. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3702988194) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#416](https://github.com/srbhr/Resume-Matcher/pull/416#issuecomment-3702987655) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+5. 🗣 Commented on [#338](https://github.com/pluginpal/strapi-webtools/pull/338#issuecomment-3695024967) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
   <!--END_SECTION:activity-->
 </details>
 
