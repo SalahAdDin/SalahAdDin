@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3703401693) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-2. 🗣 Commented on [#531](https://github.com/srbhr/Resume-Matcher/pull/531#issuecomment-3702992821) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-3. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3702988194) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#416](https://github.com/srbhr/Resume-Matcher/pull/416#issuecomment-3702987655) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
-5. 🗣 Commented on [#338](https://github.com/pluginpal/strapi-webtools/pull/338#issuecomment-3695024967) in [pluginpal/strapi-webtools](https://github.com/pluginpal/strapi-webtools)
+1. 🗣 Commented on [#129230](https://github.com/microsoft/winget-pkgs/issues/129230#issuecomment-3740630098) in [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs)
+2. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3703401693) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+3. 🗣 Commented on [#531](https://github.com/srbhr/Resume-Matcher/pull/531#issuecomment-3702992821) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
+4. 🗣 Commented on [#383](https://github.com/medusajs/medusa/issues/383#issuecomment-3702988194) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#416](https://github.com/srbhr/Resume-Matcher/pull/416#issuecomment-3702987655) in [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher)
   <!--END_SECTION:activity-->
 </details>
 
