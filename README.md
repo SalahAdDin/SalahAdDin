@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#456](https://github.com/springload/draftail/issues/456#issuecomment-3842615440) in [springload/draftail](https://github.com/springload/draftail)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3815207397) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3815197957) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#18269](https://github.com/storybookjs/storybook/issues/18269#issuecomment-3781717376) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#38](https://github.com/pemedia/payload-visual-editor/issues/38#issuecomment-3776166723) in [pemedia/payload-visual-editor](https://github.com/pemedia/payload-visual-editor)
+1. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3855453325) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+2. 🗣 Commented on [#456](https://github.com/springload/draftail/issues/456#issuecomment-3842615440) in [springload/draftail](https://github.com/springload/draftail)
+3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3815207397) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3815197957) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#18269](https://github.com/storybookjs/storybook/issues/18269#issuecomment-3781717376) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
