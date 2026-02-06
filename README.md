@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3856557667) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-2. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3855453325) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
-3. 🗣 Commented on [#456](https://github.com/springload/draftail/issues/456#issuecomment-3842615440) in [springload/draftail](https://github.com/springload/draftail)
-4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3815207397) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-3815197957) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#81](https://github.com/assem-ch/django-jet-reboot/issues/81#issuecomment-3861677979) in [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot)
+2. 🗣 Commented on [#100](https://github.com/assem-ch/django-jet-reboot/issues/100#issuecomment-3861674031) in [assem-ch/django-jet-reboot](https://github.com/assem-ch/django-jet-reboot)
+3. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3856557667) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+4. 🗣 Commented on [#220](https://github.com/aaaaalexis/obsidian-cupertino/issues/220#issuecomment-3855453325) in [aaaaalexis/obsidian-cupertino](https://github.com/aaaaalexis/obsidian-cupertino)
+5. 🗣 Commented on [#456](https://github.com/springload/draftail/issues/456#issuecomment-3842615440) in [springload/draftail](https://github.com/springload/draftail)
   <!--END_SECTION:activity-->
 </details>
 
