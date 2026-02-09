@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18356](https://github.com/storybookjs/storybook/issues/18356#issuecomment-3869072234) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#592](https://github.com/nxtensions/nxtensions/issues/592#issuecomment-3868978816) in [nxtensions/nxtensions](https://github.com/nxtensions/nxtensions)
-3. 🗣 Commented on [#903](https://github.com/wagtail/wagtail/issues/903#issuecomment-3868815539) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-4. 🗣 Commented on [#1514](https://github.com/pattern-lab/patternlab-node/issues/1514#issuecomment-3868105595) in [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node)
-5. ❗ Opened issue [#289](https://github.com/PKM-er/obsidian-editing-toolbar/issues/289) in [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
+1. 🗣 Commented on [#272](https://github.com/natemoo-re/astro-icon/issues/272#issuecomment-3872831405) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
+2. 🗣 Commented on [#18356](https://github.com/storybookjs/storybook/issues/18356#issuecomment-3869072234) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#592](https://github.com/nxtensions/nxtensions/issues/592#issuecomment-3868978816) in [nxtensions/nxtensions](https://github.com/nxtensions/nxtensions)
+4. 🗣 Commented on [#903](https://github.com/wagtail/wagtail/issues/903#issuecomment-3868815539) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+5. 🗣 Commented on [#1514](https://github.com/pattern-lab/patternlab-node/issues/1514#issuecomment-3868105595) in [pattern-lab/patternlab-node](https://github.com/pattern-lab/patternlab-node)
   <!--END_SECTION:activity-->
 </details>
 
