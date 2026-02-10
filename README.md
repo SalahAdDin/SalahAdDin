@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. 🗣 Commented on [#13884](https://github.com/wagtail/wagtail/pull/13884#issuecomment-3880239144) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
 2. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-3. ❗ Opened issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-4. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3878915866) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
-5. 🗣 Commented on [#272](https://github.com/natemoo-re/astro-icon/issues/272#issuecomment-3872831405) in [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon)
+3. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+4. ❗ Opened issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+5. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3878915866) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
   <!--END_SECTION:activity-->
 </details>
 
