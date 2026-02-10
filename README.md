@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13884](https://github.com/wagtail/wagtail/pull/13884#issuecomment-3880239144) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-2. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. ❗ Opened issue [#868](https://github.com/vitest-dev/eslint-plugin-vitest/issues/868) in [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
+2. 🗣 Commented on [#13884](https://github.com/wagtail/wagtail/pull/13884#issuecomment-3880239144) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
 3. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-4. ❗ Opened issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-5. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3878915866) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
+4. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+5. ❗ Opened issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
   <!--END_SECTION:activity-->
 </details>
 
