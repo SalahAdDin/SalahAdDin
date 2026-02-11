@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3881550550) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
-2. ❗ Opened issue [#868](https://github.com/vitest-dev/eslint-plugin-vitest/issues/868) in [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
-3. 🗣 Commented on [#13884](https://github.com/wagtail/wagtail/pull/13884#issuecomment-3880239144) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-4. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-5. ℹ️ Labeled issue [#13883](https://github.com/wagtail/wagtail/issues/13883) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+1. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3882750016) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
+2. 🗣 Commented on [#868](https://github.com/vitest-dev/eslint-plugin-vitest/issues/868#issuecomment-3882746354) in [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest)
+3. 🗣 Commented on [#15665](https://github.com/oxc-project/oxc/issues/15665#issuecomment-3882725808) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+4. 🗣 Commented on [#18878](https://github.com/oxc-project/oxc/issues/18878#issuecomment-3882720118) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3881550550) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
   <!--END_SECTION:activity-->
 </details>
 
