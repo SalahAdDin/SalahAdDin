@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#103](https://github.com/torchbox/django-pattern-library/issues/103#issuecomment-3892424323) in [torchbox/django-pattern-library](https://github.com/torchbox/django-pattern-library)
-2. 🗣 Commented on [#7](https://github.com/torchbox/storybook-django/issues/7#issuecomment-3892299848) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-3. 🗣 Commented on [#14](https://github.com/rails-inspire-django/django-lookbook/issues/14#issuecomment-3886290995) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-4. ❗ Opened issue [#19273](https://github.com/oxc-project/oxc/issues/19273) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-5. 🗣 Commented on [#22](https://github.com/wagtail-nest/wagtail-accessibility/issues/22#issuecomment-3882750016) in [wagtail-nest/wagtail-accessibility](https://github.com/wagtail-nest/wagtail-accessibility)
+1. 🗣 Commented on [#17](https://github.com/chaance/vitest-axe/issues/17#issuecomment-3893113829) in [chaance/vitest-axe](https://github.com/chaance/vitest-axe)
+2. 🗣 Commented on [#103](https://github.com/torchbox/django-pattern-library/issues/103#issuecomment-3892424323) in [torchbox/django-pattern-library](https://github.com/torchbox/django-pattern-library)
+3. 🗣 Commented on [#7](https://github.com/torchbox/storybook-django/issues/7#issuecomment-3892299848) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+4. 🗣 Commented on [#14](https://github.com/rails-inspire-django/django-lookbook/issues/14#issuecomment-3886290995) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
+5. ❗ Opened issue [#19273](https://github.com/oxc-project/oxc/issues/19273) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
   <!--END_SECTION:activity-->
 </details>
 
