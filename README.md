@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/rails-inspire-django/django-lookbook/issues/17) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-2. ❗ Opened issue [#16](https://github.com/rails-inspire-django/django-lookbook/issues/16) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-3. ❗ Opened issue [#15](https://github.com/rails-inspire-django/django-lookbook/issues/15) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-4. 🗣 Commented on [#17](https://github.com/chaance/vitest-axe/issues/17#issuecomment-3893113829) in [chaance/vitest-axe](https://github.com/chaance/vitest-axe)
-5. 🗣 Commented on [#103](https://github.com/torchbox/django-pattern-library/issues/103#issuecomment-3892424323) in [torchbox/django-pattern-library](https://github.com/torchbox/django-pattern-library)
+1. 🗣 Commented on [#421](https://github.com/un-ts/eslint-plugin-import-x/issues/421#issuecomment-3895893399) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+2. ❗ Opened issue [#17](https://github.com/rails-inspire-django/django-lookbook/issues/17) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
+3. ❗ Opened issue [#16](https://github.com/rails-inspire-django/django-lookbook/issues/16) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
+4. ❗ Opened issue [#15](https://github.com/rails-inspire-django/django-lookbook/issues/15) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
+5. 🗣 Commented on [#17](https://github.com/chaance/vitest-axe/issues/17#issuecomment-3893113829) in [chaance/vitest-axe](https://github.com/chaance/vitest-axe)
   <!--END_SECTION:activity-->
 </details>
 
