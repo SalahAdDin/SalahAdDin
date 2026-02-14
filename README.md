@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#528](https://github.com/ota-meshi/eslint-plugin-astro/issues/528) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-2. ℹ️ Labeled issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
-3. ℹ️ Labeled issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
-4. ❗ Opened issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
-5. 🗣 Commented on [#18356](https://github.com/storybookjs/storybook/issues/18356#issuecomment-3900577301) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436#issuecomment-3900874019) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+2. 🗣 Commented on [#1124](https://github.com/eslint-stylistic/eslint-stylistic/issues/1124#issuecomment-3900849310) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+3. ❗ Opened issue [#528](https://github.com/ota-meshi/eslint-plugin-astro/issues/528) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+4. ℹ️ Labeled issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
+5. ℹ️ Labeled issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
   <!--END_SECTION:activity-->
 </details>
 
