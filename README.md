@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#421](https://github.com/un-ts/eslint-plugin-import-x/issues/421#issuecomment-3895893399) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-2. ❗ Opened issue [#17](https://github.com/rails-inspire-django/django-lookbook/issues/17) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-3. ❗ Opened issue [#16](https://github.com/rails-inspire-django/django-lookbook/issues/16) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-4. ❗ Opened issue [#15](https://github.com/rails-inspire-django/django-lookbook/issues/15) in [rails-inspire-django/django-lookbook](https://github.com/rails-inspire-django/django-lookbook)
-5. 🗣 Commented on [#17](https://github.com/chaance/vitest-axe/issues/17#issuecomment-3893113829) in [chaance/vitest-axe](https://github.com/chaance/vitest-axe)
+1. ❗ Opened issue [#528](https://github.com/ota-meshi/eslint-plugin-astro/issues/528) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+2. ℹ️ Labeled issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
+3. ℹ️ Labeled issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
+4. ❗ Opened issue [#621](https://github.com/eslint/markdown/issues/621) in [eslint/markdown](https://github.com/eslint/markdown)
+5. 🗣 Commented on [#18356](https://github.com/storybookjs/storybook/issues/18356#issuecomment-3900577301) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
