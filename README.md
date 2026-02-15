@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1124](https://github.com/eslint-stylistic/eslint-stylistic/issues/1124#issuecomment-3902460697) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-2. 🗣 Commented on [#531](https://github.com/ota-meshi/eslint-plugin-astro/pull/531#issuecomment-3902424926) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-3. 🗣 Commented on [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436#issuecomment-3900874019) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-4. 🗣 Commented on [#1124](https://github.com/eslint-stylistic/eslint-stylistic/issues/1124#issuecomment-3900849310) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-5. ❗ Opened issue [#528](https://github.com/ota-meshi/eslint-plugin-astro/issues/528) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+1. 🗣 Commented on [#18356](https://github.com/storybookjs/storybook/issues/18356#issuecomment-3903091793) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#1124](https://github.com/eslint-stylistic/eslint-stylistic/issues/1124#issuecomment-3902460697) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+3. 🗣 Commented on [#531](https://github.com/ota-meshi/eslint-plugin-astro/pull/531#issuecomment-3902424926) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+4. 🗣 Commented on [#436](https://github.com/un-ts/eslint-plugin-import-x/issues/436#issuecomment-3900874019) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+5. 🗣 Commented on [#1124](https://github.com/eslint-stylistic/eslint-stylistic/issues/1124#issuecomment-3900849310) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
   <!--END_SECTION:activity-->
 </details>
 
