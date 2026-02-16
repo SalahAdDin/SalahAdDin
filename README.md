@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-3905239130) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-3905238513) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#621](https://github.com/eslint/markdown/issues/621#issuecomment-3905236415) in [eslint/markdown](https://github.com/eslint/markdown)
-4. 🗣 Commented on [#18356](https://github.com/storybookjs/storybook/issues/18356#issuecomment-3903091793) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#1124](https://github.com/eslint-stylistic/eslint-stylistic/issues/1124#issuecomment-3902460697) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+1. ℹ️ Labeled issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
+2. ❗ Opened issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
+3. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-3905239130) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-3905238513) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#621](https://github.com/eslint/markdown/issues/621#issuecomment-3905236415) in [eslint/markdown](https://github.com/eslint/markdown)
   <!--END_SECTION:activity-->
 </details>
 
