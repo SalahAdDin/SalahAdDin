@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
-2. ❗ Opened issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
-3. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-3905239130) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-3905238513) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#621](https://github.com/eslint/markdown/issues/621#issuecomment-3905236415) in [eslint/markdown](https://github.com/eslint/markdown)
+1. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-3930147489) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+2. ℹ️ Labeled issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
+3. ❗ Opened issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
+4. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-3905239130) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-3905238513) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
