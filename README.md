@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#19](https://github.com/torchbox/storybook-django/issues/19) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-2. ❗ Opened issue [#19](https://github.com/torchbox/storybook-django/issues/19) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-3. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-3930147489) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-4. ℹ️ Labeled issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
-5. ❗ Opened issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
+1. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-3931698832) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+2. ℹ️ Labeled issue [#19](https://github.com/torchbox/storybook-django/issues/19) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+3. ❗ Opened issue [#19](https://github.com/torchbox/storybook-django/issues/19) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+4. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-3930147489) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+5. ℹ️ Labeled issue [#381](https://github.com/eslint/css/issues/381) in [eslint/css](https://github.com/eslint/css)
   <!--END_SECTION:activity-->
 </details>
 
