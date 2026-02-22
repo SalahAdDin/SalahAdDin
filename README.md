@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-2. ❗ Opened issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-3. 🗣 Commented on [#13932](https://github.com/wagtail/wagtail/issues/13932#issuecomment-3939279258) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
-4. ℹ️ Labeled issue [#20](https://github.com/torchbox/storybook-django/issues/20) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-5. ❗ Opened issue [#20](https://github.com/torchbox/storybook-django/issues/20) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+1. ❗ Opened issue [#20](https://github.com/lukemcd/storybook-astro/issues/20) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
+2. ℹ️ Labeled issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+3. ❗ Opened issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+4. 🗣 Commented on [#13932](https://github.com/wagtail/wagtail/issues/13932#issuecomment-3939279258) in [wagtail/wagtail](https://github.com/wagtail/wagtail)
+5. ℹ️ Labeled issue [#20](https://github.com/torchbox/storybook-django/issues/20) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
   <!--END_SECTION:activity-->
 </details>
 
