@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#22](https://github.com/lukemcd/storybook-astro/issues/22) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
-2. ❗ Opened issue [#21](https://github.com/lukemcd/storybook-astro/issues/21) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
-3. ❗ Opened issue [#20](https://github.com/lukemcd/storybook-astro/issues/20) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
-4. ℹ️ Labeled issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-5. ❗ Opened issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+1. 🗣 Commented on [#33748](https://github.com/storybookjs/storybook/issues/33748#issuecomment-3942501936) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. ❗ Opened issue [#22](https://github.com/lukemcd/storybook-astro/issues/22) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
+3. ❗ Opened issue [#21](https://github.com/lukemcd/storybook-astro/issues/21) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
+4. ❗ Opened issue [#20](https://github.com/lukemcd/storybook-astro/issues/20) in [lukemcd/storybook-astro](https://github.com/lukemcd/storybook-astro)
+5. ℹ️ Labeled issue [#21](https://github.com/torchbox/storybook-django/issues/21) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
   <!--END_SECTION:activity-->
 </details>
 
