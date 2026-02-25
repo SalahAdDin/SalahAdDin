@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#348](https://github.com/ota-meshi/eslint-plugin-astro/issues/348#issuecomment-3957125932) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-2. ℹ️ Labeled issue [#23](https://github.com/torchbox/storybook-django/issues/23) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-3. ❗ Opened issue [#23](https://github.com/torchbox/storybook-django/issues/23) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-4. ℹ️ Labeled issue [#22](https://github.com/torchbox/storybook-django/issues/22) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-5. ❗ Opened issue [#22](https://github.com/torchbox/storybook-django/issues/22) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+1. ℹ️ Labeled issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+2. ℹ️ Labeled issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+3. ℹ️ Labeled issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+4. ❗ Opened issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
+5. 🗣 Commented on [#348](https://github.com/ota-meshi/eslint-plugin-astro/issues/348#issuecomment-3957125932) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
   <!--END_SECTION:activity-->
 </details>
 
