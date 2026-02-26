@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-2. ℹ️ Labeled issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-3. ℹ️ Labeled issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-4. ❗ Opened issue [#4365](https://github.com/highlightjs/highlight.js/issues/4365) in [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js)
-5. 🗣 Commented on [#348](https://github.com/ota-meshi/eslint-plugin-astro/issues/348#issuecomment-3957125932) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+1. 🗣 Commented on [#20](https://github.com/surjithctly/astro-navbar/issues/20#issuecomment-3964306288) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+2. 🗣 Commented on [#32](https://github.com/surjithctly/astro-navbar/issues/32#issuecomment-3964304768) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+3. 🗣 Commented on [#33](https://github.com/surjithctly/astro-navbar/issues/33#issuecomment-3964302931) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+4. 🗣 Commented on [#37](https://github.com/surjithctly/astro-navbar/issues/37#issuecomment-3964300819) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+5. 🗣 Commented on [#34](https://github.com/surjithctly/astro-navbar/pull/34#issuecomment-3964289105) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
   <!--END_SECTION:activity-->
 </details>
 
