@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/surjithctly/astro-navbar/issues/20#issuecomment-3964306288) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-2. 🗣 Commented on [#32](https://github.com/surjithctly/astro-navbar/issues/32#issuecomment-3964304768) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-3. 🗣 Commented on [#33](https://github.com/surjithctly/astro-navbar/issues/33#issuecomment-3964302931) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-4. 🗣 Commented on [#37](https://github.com/surjithctly/astro-navbar/issues/37#issuecomment-3964300819) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-5. 🗣 Commented on [#34](https://github.com/surjithctly/astro-navbar/pull/34#issuecomment-3964289105) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+1. 🗣 Commented on [#34](https://github.com/surjithctly/astro-navbar/pull/34#issuecomment-3974663661) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+2. 🗣 Commented on [#20](https://github.com/surjithctly/astro-navbar/issues/20#issuecomment-3964306288) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+3. 🗣 Commented on [#32](https://github.com/surjithctly/astro-navbar/issues/32#issuecomment-3964304768) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+4. 🗣 Commented on [#33](https://github.com/surjithctly/astro-navbar/issues/33#issuecomment-3964302931) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+5. 🗣 Commented on [#37](https://github.com/surjithctly/astro-navbar/issues/37#issuecomment-3964300819) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
   <!--END_SECTION:activity-->
 </details>
 
