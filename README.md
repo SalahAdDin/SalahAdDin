@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3981665469) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 💪 Opened PR [#42](https://github.com/surjithctly/astro-navbar/pull/42) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-3. 💪 Opened PR [#41](https://github.com/surjithctly/astro-navbar/pull/41) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-4. 💪 Opened PR [#40](https://github.com/surjithctly/astro-navbar/pull/40) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
-5. 💪 Opened PR [#39](https://github.com/surjithctly/astro-navbar/pull/39) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3987015148) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-3981665469) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 💪 Opened PR [#42](https://github.com/surjithctly/astro-navbar/pull/42) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+4. 💪 Opened PR [#41](https://github.com/surjithctly/astro-navbar/pull/41) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
+5. 💪 Opened PR [#40](https://github.com/surjithctly/astro-navbar/pull/40) in [surjithctly/astro-navbar](https://github.com/surjithctly/astro-navbar)
   <!--END_SECTION:activity-->
 </details>
 
