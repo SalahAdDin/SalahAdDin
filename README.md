@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/humanwhocodes/tailwind-csstree/pull/22#issuecomment-4008318804) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-2. 🗣 Commented on [#2](https://github.com/humanwhocodes/tailwind-csstree/issues/2#issuecomment-4008316584) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-3. 🗣 Commented on [#9541](https://github.com/medusajs/medusa/issues/9541#issuecomment-4006753793) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#24389](https://github.com/frappe/erpnext/issues/24389#issuecomment-3992855788) in [frappe/erpnext](https://github.com/frappe/erpnext)
-5. 🗣 Commented on [#24389](https://github.com/frappe/erpnext/issues/24389#issuecomment-3992772541) in [frappe/erpnext](https://github.com/frappe/erpnext)
+1. 🗣 Commented on [#4628](https://github.com/mermaid-js/mermaid/issues/4628#issuecomment-4020007553) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+2. 🗣 Commented on [#29045](https://github.com/facebook/react/issues/29045#issuecomment-4020004673) in [facebook/react](https://github.com/facebook/react)
+3. ❗ Opened issue [#18](https://github.com/storybook-astro/storybook-astro/issues/18) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+4. ❗ Opened issue [#17](https://github.com/storybook-astro/storybook-astro/issues/17) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. ❗ Opened issue [#16](https://github.com/storybook-astro/storybook-astro/issues/16) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
