@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#19](https://github.com/storybook-astro/storybook-astro/issues/19) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#4628](https://github.com/mermaid-js/mermaid/issues/4628#issuecomment-4020007553) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-3. 🗣 Commented on [#29045](https://github.com/facebook/react/issues/29045#issuecomment-4020004673) in [facebook/react](https://github.com/facebook/react)
-4. ❗ Opened issue [#18](https://github.com/storybook-astro/storybook-astro/issues/18) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. ❗ Opened issue [#17](https://github.com/storybook-astro/storybook-astro/issues/17) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#1691](https://github.com/typesense/typesense/issues/1691#issuecomment-4033418136) in [typesense/typesense](https://github.com/typesense/typesense)
+2. ❗ Opened issue [#19](https://github.com/storybook-astro/storybook-astro/issues/19) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#4628](https://github.com/mermaid-js/mermaid/issues/4628#issuecomment-4020007553) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+4. 🗣 Commented on [#29045](https://github.com/facebook/react/issues/29045#issuecomment-4020004673) in [facebook/react](https://github.com/facebook/react)
+5. ❗ Opened issue [#18](https://github.com/storybook-astro/storybook-astro/issues/18) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
