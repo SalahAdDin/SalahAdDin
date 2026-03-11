@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#469](https://github.com/un-ts/eslint-plugin-import-x/issues/469) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-2. 🗣 Commented on [#22](https://github.com/humanwhocodes/tailwind-csstree/pull/22#issuecomment-4034421436) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-3. 🗣 Commented on [#1691](https://github.com/typesense/typesense/issues/1691#issuecomment-4033418136) in [typesense/typesense](https://github.com/typesense/typesense)
-4. ❗ Opened issue [#19](https://github.com/storybook-astro/storybook-astro/issues/19) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. 🗣 Commented on [#4628](https://github.com/mermaid-js/mermaid/issues/4628#issuecomment-4020007553) in [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+1. ℹ️ Labeled issue [#9849](https://github.com/vitest-dev/vitest/issues/9849) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+2. ❗ Opened issue [#9849](https://github.com/vitest-dev/vitest/issues/9849) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+3. ❗ Opened issue [#469](https://github.com/un-ts/eslint-plugin-import-x/issues/469) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+4. 🗣 Commented on [#22](https://github.com/humanwhocodes/tailwind-csstree/pull/22#issuecomment-4034421436) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+5. 🗣 Commented on [#1691](https://github.com/typesense/typesense/issues/1691#issuecomment-4033418136) in [typesense/typesense](https://github.com/typesense/typesense)
   <!--END_SECTION:activity-->
 </details>
 
