@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9849](https://github.com/vitest-dev/vitest/issues/9849#issuecomment-4048023960) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-2. 🗣 Commented on [#469](https://github.com/un-ts/eslint-plugin-import-x/issues/469#issuecomment-4048006400) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
-3. ℹ️ Labeled issue [#9849](https://github.com/vitest-dev/vitest/issues/9849) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-4. ❗ Opened issue [#9849](https://github.com/vitest-dev/vitest/issues/9849) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
-5. ❗ Opened issue [#469](https://github.com/un-ts/eslint-plugin-import-x/issues/469) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
+1. ❗ Opened issue [#21](https://github.com/storybook-astro/storybook-astro/issues/21) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. ❗ Opened issue [#13](https://github.com/ascorbic/vitest-browser-astro/issues/13) in [ascorbic/vitest-browser-astro](https://github.com/ascorbic/vitest-browser-astro)
+3. ❗ Opened issue [#12](https://github.com/ascorbic/vitest-browser-astro/issues/12) in [ascorbic/vitest-browser-astro](https://github.com/ascorbic/vitest-browser-astro)
+4. 🗣 Commented on [#9849](https://github.com/vitest-dev/vitest/issues/9849#issuecomment-4048023960) in [vitest-dev/vitest](https://github.com/vitest-dev/vitest)
+5. 🗣 Commented on [#469](https://github.com/un-ts/eslint-plugin-import-x/issues/469#issuecomment-4048006400) in [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x)
   <!--END_SECTION:activity-->
 </details>
 
