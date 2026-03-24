@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3967](https://github.com/TanStack/router/pull/3967#issuecomment-4119644063) in [TanStack/router](https://github.com/TanStack/router)
-2. 🗣 Commented on [#120](https://github.com/WinterSquire/AlphaRing/pull/120#issuecomment-4115153906) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
-3. ℹ️ Labeled issue [#47](https://github.com/darktakayanagi/Achievement-Watcher/issues/47) in [darktakayanagi/Achievement-Watcher](https://github.com/darktakayanagi/Achievement-Watcher)
-4. ❗ Opened issue [#47](https://github.com/darktakayanagi/Achievement-Watcher/issues/47) in [darktakayanagi/Achievement-Watcher](https://github.com/darktakayanagi/Achievement-Watcher)
-5. 🗣 Commented on [#22714](https://github.com/strapi/strapi/pull/22714#issuecomment-4093101946) in [strapi/strapi](https://github.com/strapi/strapi)
+1. ❗ Opened issue [#47](https://github.com/storybook-astro/storybook-astro/issues/47) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. ❗ Opened issue [#46](https://github.com/storybook-astro/storybook-astro/issues/46) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#3967](https://github.com/TanStack/router/pull/3967#issuecomment-4119644063) in [TanStack/router](https://github.com/TanStack/router)
+4. 🗣 Commented on [#120](https://github.com/WinterSquire/AlphaRing/pull/120#issuecomment-4115153906) in [WinterSquire/AlphaRing](https://github.com/WinterSquire/AlphaRing)
+5. ℹ️ Labeled issue [#47](https://github.com/darktakayanagi/Achievement-Watcher/issues/47) in [darktakayanagi/Achievement-Watcher](https://github.com/darktakayanagi/Achievement-Watcher)
   <!--END_SECTION:activity-->
 </details>
 
