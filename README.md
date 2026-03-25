@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#408](https://github.com/eslint/css/issues/408#issuecomment-4129263336) in [eslint/css](https://github.com/eslint/css)
-2. ❗ Opened issue [#53](https://github.com/humanwhocodes/tailwind-csstree/issues/53) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-3. 🗣 Commented on [#408](https://github.com/eslint/css/issues/408#issuecomment-4128298480) in [eslint/css](https://github.com/eslint/css)
-4. ℹ️ Labeled issue [#408](https://github.com/eslint/css/issues/408) in [eslint/css](https://github.com/eslint/css)
-5. ❗ Opened issue [#408](https://github.com/eslint/css/issues/408) in [eslint/css](https://github.com/eslint/css)
+1. 🗣 Commented on [#53](https://github.com/humanwhocodes/tailwind-csstree/issues/53#issuecomment-4129408452) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+2. 🗣 Commented on [#408](https://github.com/eslint/css/issues/408#issuecomment-4129263336) in [eslint/css](https://github.com/eslint/css)
+3. ❗ Opened issue [#53](https://github.com/humanwhocodes/tailwind-csstree/issues/53) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+4. 🗣 Commented on [#408](https://github.com/eslint/css/issues/408#issuecomment-4128298480) in [eslint/css](https://github.com/eslint/css)
+5. ℹ️ Labeled issue [#408](https://github.com/eslint/css/issues/408) in [eslint/css](https://github.com/eslint/css)
   <!--END_SECTION:activity-->
 </details>
 
