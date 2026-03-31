@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#59](https://github.com/storybook-astro/storybook-astro/issues/59) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. ❗ Opened issue [#58](https://github.com/storybook-astro/storybook-astro/issues/58) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-3. 🗣 Commented on [#47](https://github.com/storybook-astro/storybook-astro/issues/47#issuecomment-4155828159) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#47](https://github.com/darktakayanagi/Achievement-Watcher/issues/47#issuecomment-4145712243) in [darktakayanagi/Achievement-Watcher](https://github.com/darktakayanagi/Achievement-Watcher)
-5. 🗣 Commented on [#48](https://github.com/storybook-astro/storybook-astro/pull/48#issuecomment-4145686879) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#34361](https://github.com/storybookjs/storybook/pull/34361#issuecomment-4159827042) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-4159731192) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. ℹ️ Labeled issue [#34407](https://github.com/storybookjs/storybook/issues/34407) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. ℹ️ Labeled issue [#34407](https://github.com/storybookjs/storybook/issues/34407) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. ❗ Opened issue [#34407](https://github.com/storybookjs/storybook/issues/34407) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
