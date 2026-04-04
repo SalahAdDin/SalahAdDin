@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16184](https://github.com/withastro/astro/issues/16184) in [withastro/astro](https://github.com/withastro/astro)
-2. ❗ Opened issue [#61](https://github.com/storybook-astro/storybook-astro/issues/61) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-3. 🗣 Commented on [#34361](https://github.com/storybookjs/storybook/pull/34361#issuecomment-4159827042) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#25981](https://github.com/storybookjs/storybook/issues/25981#issuecomment-4159731192) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. ℹ️ Labeled issue [#34407](https://github.com/storybookjs/storybook/issues/34407) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#53](https://github.com/humanwhocodes/tailwind-csstree/issues/53#issuecomment-4186436371) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+2. 🗣 Commented on [#729](https://github.com/eKoopmans/html2pdf.js/issues/729#issuecomment-4186425048) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
+3. 🗣 Commented on [#829](https://github.com/eKoopmans/html2pdf.js/issues/829#issuecomment-4186424518) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
+4. 🗣 Commented on [#911](https://github.com/eKoopmans/html2pdf.js/issues/911#issuecomment-4186423928) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
+5. 🗣 Commented on [#729](https://github.com/eKoopmans/html2pdf.js/issues/729#issuecomment-4186391433) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
   <!--END_SECTION:activity-->
 </details>
 
