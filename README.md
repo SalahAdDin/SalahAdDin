@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#289](https://github.com/PKM-er/obsidian-editing-toolbar/issues/289#issuecomment-4193259649) in [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
-2. ❗ Opened issue [#1159](https://github.com/withastro/compiler/issues/1159) in [withastro/compiler](https://github.com/withastro/compiler)
-3. 🗣 Commented on [#16232](https://github.com/withastro/astro/issues/16232#issuecomment-4190394218) in [withastro/astro](https://github.com/withastro/astro)
-4. 🗣 Commented on [#2138](https://github.com/microsoft/vscode-eslint/issues/2138#issuecomment-4190271754) in [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)
-5. ℹ️ Labeled issue [#34468](https://github.com/storybookjs/storybook/issues/34468) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#25](https://github.com/WickyNilliams/cally/issues/25#issuecomment-4195278361) in [WickyNilliams/cally](https://github.com/WickyNilliams/cally)
+2. 🗣 Commented on [#289](https://github.com/PKM-er/obsidian-editing-toolbar/issues/289#issuecomment-4193259649) in [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
+3. ❗ Opened issue [#1159](https://github.com/withastro/compiler/issues/1159) in [withastro/compiler](https://github.com/withastro/compiler)
+4. 🗣 Commented on [#16232](https://github.com/withastro/astro/issues/16232#issuecomment-4190394218) in [withastro/astro](https://github.com/withastro/astro)
+5. 🗣 Commented on [#2138](https://github.com/microsoft/vscode-eslint/issues/2138#issuecomment-4190271754) in [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)
   <!--END_SECTION:activity-->
 </details>
 
