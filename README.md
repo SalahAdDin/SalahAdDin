@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#11211](https://github.com/pnpm/pnpm/issues/11211) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-2. ❗ Opened issue [#11211](https://github.com/pnpm/pnpm/issues/11211) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. ℹ️ Labeled issue [#11210](https://github.com/pnpm/pnpm/issues/11210) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-4. ❗ Opened issue [#11210](https://github.com/pnpm/pnpm/issues/11210) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-5. 🗣 Commented on [#37](https://github.com/eKoopmans/html2pdf.js/issues/37#issuecomment-4186806339) in [eKoopmans/html2pdf.js](https://github.com/eKoopmans/html2pdf.js)
+1. ❗ Opened issue [#1159](https://github.com/withastro/compiler/issues/1159) in [withastro/compiler](https://github.com/withastro/compiler)
+2. 🗣 Commented on [#16232](https://github.com/withastro/astro/issues/16232#issuecomment-4190394218) in [withastro/astro](https://github.com/withastro/astro)
+3. 🗣 Commented on [#2138](https://github.com/microsoft/vscode-eslint/issues/2138#issuecomment-4190271754) in [microsoft/vscode-eslint](https://github.com/microsoft/vscode-eslint)
+4. ℹ️ Labeled issue [#34468](https://github.com/storybookjs/storybook/issues/34468) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. ℹ️ Labeled issue [#34468](https://github.com/storybookjs/storybook/issues/34468) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
