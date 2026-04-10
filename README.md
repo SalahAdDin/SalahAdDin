@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32405](https://github.com/storybookjs/storybook/issues/32405#issuecomment-4212031510) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#216](https://github.com/openscript/astro-i18n/pull/216#issuecomment-4203879004) in [openscript/astro-i18n](https://github.com/openscript/astro-i18n)
-3. 🗣 Commented on [#193](https://github.com/yassinedoghri/astro-i18next/issues/193#issuecomment-4203798276) in [yassinedoghri/astro-i18next](https://github.com/yassinedoghri/astro-i18next)
-4. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-4203787649) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-5. 🗣 Commented on [#9611](https://github.com/withastro/astro/issues/9611#issuecomment-4196937577) in [withastro/astro](https://github.com/withastro/astro)
+1. ❗ Opened issue [#16275](https://github.com/withastro/astro/issues/16275) in [withastro/astro](https://github.com/withastro/astro)
+2. 🗣 Commented on [#32405](https://github.com/storybookjs/storybook/issues/32405#issuecomment-4212031510) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#216](https://github.com/openscript/astro-i18n/pull/216#issuecomment-4203879004) in [openscript/astro-i18n](https://github.com/openscript/astro-i18n)
+4. 🗣 Commented on [#193](https://github.com/yassinedoghri/astro-i18next/issues/193#issuecomment-4203798276) in [yassinedoghri/astro-i18next](https://github.com/yassinedoghri/astro-i18next)
+5. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-4203787649) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
   <!--END_SECTION:activity-->
 </details>
 
