@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/humanwhocodes/tailwind-csstree/issues/57) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-2. ℹ️ Labeled issue [#554](https://github.com/ota-meshi/eslint-plugin-astro/issues/554) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-3. ❗ Opened issue [#554](https://github.com/ota-meshi/eslint-plugin-astro/issues/554) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-4. ❗ Opened issue [#16285](https://github.com/withastro/astro/issues/16285) in [withastro/astro](https://github.com/withastro/astro)
-5. ❗ Opened issue [#56](https://github.com/humanwhocodes/tailwind-csstree/issues/56) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+1. 🗣 Commented on [#8](https://github.com/chaance/vitest-axe/issues/8#issuecomment-4238262902) in [chaance/vitest-axe](https://github.com/chaance/vitest-axe)
+2. ❗ Opened issue [#57](https://github.com/humanwhocodes/tailwind-csstree/issues/57) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+3. ℹ️ Labeled issue [#554](https://github.com/ota-meshi/eslint-plugin-astro/issues/554) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+4. ❗ Opened issue [#554](https://github.com/ota-meshi/eslint-plugin-astro/issues/554) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
+5. ❗ Opened issue [#16285](https://github.com/withastro/astro/issues/16285) in [withastro/astro](https://github.com/withastro/astro)
   <!--END_SECTION:activity-->
 </details>
 
