@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/chaance/vitest-axe/issues/8#issuecomment-4238262902) in [chaance/vitest-axe](https://github.com/chaance/vitest-axe)
-2. ❗ Opened issue [#57](https://github.com/humanwhocodes/tailwind-csstree/issues/57) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-3. ℹ️ Labeled issue [#554](https://github.com/ota-meshi/eslint-plugin-astro/issues/554) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-4. ❗ Opened issue [#554](https://github.com/ota-meshi/eslint-plugin-astro/issues/554) in [ota-meshi/eslint-plugin-astro](https://github.com/ota-meshi/eslint-plugin-astro)
-5. ❗ Opened issue [#16285](https://github.com/withastro/astro/issues/16285) in [withastro/astro](https://github.com/withastro/astro)
+1. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4248884238) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+2. ℹ️ Labeled issue [#424](https://github.com/eslint/css/issues/424) in [eslint/css](https://github.com/eslint/css)
+3. ❗ Opened issue [#424](https://github.com/eslint/css/issues/424) in [eslint/css](https://github.com/eslint/css)
+4. 🗣 Commented on [#57](https://github.com/humanwhocodes/tailwind-csstree/issues/57#issuecomment-4248709982) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+5. 🗣 Commented on [#56](https://github.com/humanwhocodes/tailwind-csstree/issues/56#issuecomment-4248703378) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
   <!--END_SECTION:activity-->
 </details>
 
