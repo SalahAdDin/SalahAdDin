@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#56](https://github.com/humanwhocodes/tailwind-csstree/issues/56#issuecomment-4257007135) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-2. 🗣 Commented on [#424](https://github.com/eslint/css/issues/424#issuecomment-4257004510) in [eslint/css](https://github.com/eslint/css)
-3. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4248884238) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-4. ℹ️ Labeled issue [#424](https://github.com/eslint/css/issues/424) in [eslint/css](https://github.com/eslint/css)
-5. ❗ Opened issue [#424](https://github.com/eslint/css/issues/424) in [eslint/css](https://github.com/eslint/css)
+1. 🗣 Commented on [#50](https://github.com/not-jan/apex-tux/pull/50#issuecomment-4316836084) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+2. 🗣 Commented on [#56](https://github.com/humanwhocodes/tailwind-csstree/issues/56#issuecomment-4257007135) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
+3. 🗣 Commented on [#424](https://github.com/eslint/css/issues/424#issuecomment-4257004510) in [eslint/css](https://github.com/eslint/css)
+4. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4248884238) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+5. ℹ️ Labeled issue [#424](https://github.com/eslint/css/issues/424) in [eslint/css](https://github.com/eslint/css)
   <!--END_SECTION:activity-->
 </details>
 
