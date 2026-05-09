@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/storybook-astro/storybook-astro/issues/59#issuecomment-4403018865) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4394015921) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-3. 🗣 Commented on [#74](https://github.com/not-jan/apex-tux/pull/74#issuecomment-4389519949) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
-4. 🗣 Commented on [#56](https://github.com/humanwhocodes/tailwind-csstree/issues/56#issuecomment-4384927149) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
-5. 🗣 Commented on [#2](https://github.com/deepin-community/xpadneo-dkms/issues/2#issuecomment-4384828846) in [deepin-community/xpadneo-dkms](https://github.com/deepin-community/xpadneo-dkms)
+1. 🗣 Commented on [#216](https://github.com/openscript/astro-i18n/pull/216#issuecomment-4413478255) in [openscript/astro-i18n](https://github.com/openscript/astro-i18n)
+2. 🗣 Commented on [#59](https://github.com/storybook-astro/storybook-astro/issues/59#issuecomment-4403018865) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4394015921) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+4. 🗣 Commented on [#74](https://github.com/not-jan/apex-tux/pull/74#issuecomment-4389519949) in [not-jan/apex-tux](https://github.com/not-jan/apex-tux)
+5. 🗣 Commented on [#56](https://github.com/humanwhocodes/tailwind-csstree/issues/56#issuecomment-4384927149) in [humanwhocodes/tailwind-csstree](https://github.com/humanwhocodes/tailwind-csstree)
   <!--END_SECTION:activity-->
 </details>
 
