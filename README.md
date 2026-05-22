@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-4512275989) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4512265236) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-4499775638) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-4499672000) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#216](https://github.com/openscript/astro-i18n/pull/216#issuecomment-4413478255) in [openscript/astro-i18n](https://github.com/openscript/astro-i18n)
+1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4514107560) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-4512275989) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4512265236) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-4499775638) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-4499672000) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
