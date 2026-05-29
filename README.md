@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13119](https://github.com/linuxdeepin/developer-center/issues/13119#issuecomment-4567608346) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
-2. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-4565930548) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🎉 Merged PR [#22714](https://github.com/strapi/strapi/pull/22714) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4514107560) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#9626](https://github.com/medusajs/medusa/issues/9626#issuecomment-4512275989) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#16232](https://github.com/withastro/astro/issues/16232#issuecomment-4570835585) in [withastro/astro](https://github.com/withastro/astro)
+2. 🗣 Commented on [#87](https://github.com/storybook-astro/storybook-astro/pull/87#issuecomment-4570820741) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#59](https://github.com/storybook-astro/storybook-astro/issues/59#issuecomment-4570769494) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+4. 🗣 Commented on [#13119](https://github.com/linuxdeepin/developer-center/issues/13119#issuecomment-4567608346) in [linuxdeepin/developer-center](https://github.com/linuxdeepin/developer-center)
+5. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-4565930548) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
