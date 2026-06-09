@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4581677889) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#16275](https://github.com/withastro/astro/issues/16275#issuecomment-4581667854) in [withastro/astro](https://github.com/withastro/astro)
-3. 🗣 Commented on [#16232](https://github.com/withastro/astro/issues/16232#issuecomment-4570835585) in [withastro/astro](https://github.com/withastro/astro)
-4. 🗣 Commented on [#87](https://github.com/storybook-astro/storybook-astro/pull/87#issuecomment-4570820741) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. 🗣 Commented on [#59](https://github.com/storybook-astro/storybook-astro/issues/59#issuecomment-4570769494) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#19](https://github.com/storybook-astro/storybook-astro/issues/19#issuecomment-4655228631) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. 🗣 Commented on [#61](https://github.com/storybook-astro/storybook-astro/issues/61#issuecomment-4655104942) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4581677889) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. 🗣 Commented on [#16275](https://github.com/withastro/astro/issues/16275#issuecomment-4581667854) in [withastro/astro](https://github.com/withastro/astro)
+5. 🗣 Commented on [#16232](https://github.com/withastro/astro/issues/16232#issuecomment-4570835585) in [withastro/astro](https://github.com/withastro/astro)
   <!--END_SECTION:activity-->
 </details>
 
