@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/storybook-astro/storybook-astro/issues/106#issuecomment-4676023270) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. ❗ Opened issue [#110](https://github.com/storybook-astro/storybook-astro/issues/110) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-3. ❗ Opened issue [#107](https://github.com/storybook-astro/storybook-astro/issues/107) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#16275](https://github.com/withastro/astro/issues/16275#issuecomment-4666565901) in [withastro/astro](https://github.com/withastro/astro)
-5. ❗ Opened issue [#106](https://github.com/storybook-astro/storybook-astro/issues/106) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. ❗ Opened issue [#112](https://github.com/storybook-astro/storybook-astro/issues/112) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. ❗ Opened issue [#111](https://github.com/storybook-astro/storybook-astro/issues/111) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#19](https://github.com/storybook-astro/storybook-astro/issues/19#issuecomment-4676578084) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+4. 🗣 Commented on [#106](https://github.com/storybook-astro/storybook-astro/issues/106#issuecomment-4676023270) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. ❗ Opened issue [#110](https://github.com/storybook-astro/storybook-astro/issues/110) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
