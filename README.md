@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#112](https://github.com/storybook-astro/storybook-astro/issues/112) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. ❗ Opened issue [#111](https://github.com/storybook-astro/storybook-astro/issues/111) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-3. 🗣 Commented on [#19](https://github.com/storybook-astro/storybook-astro/issues/19#issuecomment-4676578084) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#106](https://github.com/storybook-astro/storybook-astro/issues/106#issuecomment-4676023270) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. ❗ Opened issue [#110](https://github.com/storybook-astro/storybook-astro/issues/110) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#111](https://github.com/storybook-astro/storybook-astro/issues/111#issuecomment-4683105918) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. 🗣 Commented on [#112](https://github.com/storybook-astro/storybook-astro/issues/112#issuecomment-4683099422) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-4683097835) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+4. ❗ Opened issue [#112](https://github.com/storybook-astro/storybook-astro/issues/112) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. ❗ Opened issue [#111](https://github.com/storybook-astro/storybook-astro/issues/111) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
