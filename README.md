@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#119](https://github.com/storybook-astro/storybook-astro/issues/119) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#105](https://github.com/storybook-astro/storybook-astro/issues/105#issuecomment-4700384476) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-3. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-4700288196) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
-4. 🗣 Commented on [#111](https://github.com/storybook-astro/storybook-astro/issues/111#issuecomment-4683105918) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. 🗣 Commented on [#112](https://github.com/storybook-astro/storybook-astro/issues/112#issuecomment-4683099422) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#107](https://github.com/storybook-astro/storybook-astro/issues/107#issuecomment-4702725417) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. ❗ Opened issue [#119](https://github.com/storybook-astro/storybook-astro/issues/119) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#105](https://github.com/storybook-astro/storybook-astro/issues/105#issuecomment-4700384476) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+4. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-4700288196) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
+5. 🗣 Commented on [#111](https://github.com/storybook-astro/storybook-astro/issues/111#issuecomment-4683105918) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
