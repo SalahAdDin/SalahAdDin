@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#105](https://github.com/storybook-astro/storybook-astro/issues/105#issuecomment-4700384476) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-4700288196) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
-3. 🗣 Commented on [#111](https://github.com/storybook-astro/storybook-astro/issues/111#issuecomment-4683105918) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#112](https://github.com/storybook-astro/storybook-astro/issues/112#issuecomment-4683099422) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-4683097835) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ❗ Opened issue [#119](https://github.com/storybook-astro/storybook-astro/issues/119) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. 🗣 Commented on [#105](https://github.com/storybook-astro/storybook-astro/issues/105#issuecomment-4700384476) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#70](https://github.com/ndresx/react-countdown/pull/70#issuecomment-4700288196) in [ndresx/react-countdown](https://github.com/ndresx/react-countdown)
+4. 🗣 Commented on [#111](https://github.com/storybook-astro/storybook-astro/issues/111#issuecomment-4683105918) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. 🗣 Commented on [#112](https://github.com/storybook-astro/storybook-astro/issues/112#issuecomment-4683099422) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
