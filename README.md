@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1227](https://github.com/eslint-stylistic/eslint-stylistic/issues/1227) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-2. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4704729969) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-3. 🗣 Commented on [#107](https://github.com/storybook-astro/storybook-astro/issues/107#issuecomment-4704549678) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. ❗ Opened issue [#120](https://github.com/storybook-astro/storybook-astro/issues/120) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. 🗣 Commented on [#107](https://github.com/storybook-astro/storybook-astro/issues/107#issuecomment-4702725417) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#119](https://github.com/storybook-astro/storybook-astro/issues/119#issuecomment-4712902270) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. ❗ Opened issue [#1227](https://github.com/eslint-stylistic/eslint-stylistic/issues/1227) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+3. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-4704729969) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+4. 🗣 Commented on [#107](https://github.com/storybook-astro/storybook-astro/issues/107#issuecomment-4704549678) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. ❗ Opened issue [#120](https://github.com/storybook-astro/storybook-astro/issues/120) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
