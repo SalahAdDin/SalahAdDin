@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4735358969) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#157](https://github.com/anpigon/obsidian-book-search-plugin/issues/157#issuecomment-4725767457) in [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin)
-3. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4725630243) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#135](https://github.com/starwind-ui/starwind-ui/issues/135#issuecomment-4725401520) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-5. 🗣 Commented on [#119](https://github.com/storybook-astro/storybook-astro/issues/119#issuecomment-4724949932) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4806654692) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4735358969) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#157](https://github.com/anpigon/obsidian-book-search-plugin/issues/157#issuecomment-4725767457) in [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin)
+4. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4725630243) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. 🗣 Commented on [#135](https://github.com/starwind-ui/starwind-ui/issues/135#issuecomment-4725401520) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
   <!--END_SECTION:activity-->
 </details>
 
