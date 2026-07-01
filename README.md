@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120](https://github.com/storybook-astro/storybook-astro/issues/120#issuecomment-4815327953) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4806654692) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4735358969) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#157](https://github.com/anpigon/obsidian-book-search-plugin/issues/157#issuecomment-4725767457) in [anpigon/obsidian-book-search-plugin](https://github.com/anpigon/obsidian-book-search-plugin)
-5. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4725630243) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#16275](https://github.com/withastro/astro/issues/16275#issuecomment-4850643429) in [withastro/astro](https://github.com/withastro/astro)
+2. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4850594014) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#120](https://github.com/storybook-astro/storybook-astro/issues/120#issuecomment-4815327953) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4806654692) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-4735358969) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
