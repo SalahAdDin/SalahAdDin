@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#77](https://github.com/hustcc/jest-canvas-mock/pull/77#issuecomment-4927486226) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
-2. ❗ Opened issue [#78](https://github.com/withastro/compiler-rs/issues/78) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
-3. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4861832154) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#16275](https://github.com/withastro/astro/issues/16275#issuecomment-4850643429) in [withastro/astro](https://github.com/withastro/astro)
-5. 🗣 Commented on [#120](https://github.com/storybook-astro/storybook-astro/issues/120#issuecomment-4815327953) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+1. 🗣 Commented on [#15665](https://github.com/oxc-project/oxc/issues/15665#issuecomment-4949106630) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+2. 🗣 Commented on [#77](https://github.com/hustcc/jest-canvas-mock/pull/77#issuecomment-4927486226) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
+3. ❗ Opened issue [#78](https://github.com/withastro/compiler-rs/issues/78) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
+4. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4861832154) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#16275](https://github.com/withastro/astro/issues/16275#issuecomment-4850643429) in [withastro/astro](https://github.com/withastro/astro)
   <!--END_SECTION:activity-->
 </details>
 
