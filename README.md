@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4972242679) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4971262373) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#15665](https://github.com/oxc-project/oxc/issues/15665#issuecomment-4949106630) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-4. 🗣 Commented on [#77](https://github.com/hustcc/jest-canvas-mock/pull/77#issuecomment-4927486226) in [hustcc/jest-canvas-mock](https://github.com/hustcc/jest-canvas-mock)
-5. ❗ Opened issue [#78](https://github.com/withastro/compiler-rs/issues/78) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
+1. ℹ️ Labeled issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+2. ❗ Opened issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+3. 🗣 Commented on [#3](https://github.com/vadimdemedes/astro-selfie/issues/3#issuecomment-4973839642) in [vadimdemedes/astro-selfie](https://github.com/vadimdemedes/astro-selfie)
+4. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4972242679) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4971262373) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
