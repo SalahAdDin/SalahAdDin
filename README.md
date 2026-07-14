@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
-2. ❗ Opened issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
-3. 🗣 Commented on [#3](https://github.com/vadimdemedes/astro-selfie/issues/3#issuecomment-4973839642) in [vadimdemedes/astro-selfie](https://github.com/vadimdemedes/astro-selfie)
-4. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4972242679) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-4971262373) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#4](https://github.com/cijiugechu/astro-link-preview/issues/4#issuecomment-4974901863) in [cijiugechu/astro-link-preview](https://github.com/cijiugechu/astro-link-preview)
+2. ℹ️ Labeled issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+3. ❗ Opened issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+4. 🗣 Commented on [#3](https://github.com/vadimdemedes/astro-selfie/issues/3#issuecomment-4973839642) in [vadimdemedes/astro-selfie](https://github.com/vadimdemedes/astro-selfie)
+5. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-4972242679) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
