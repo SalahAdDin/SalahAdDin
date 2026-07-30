@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
-2. ❗ Opened issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
-3. 🗣 Commented on [#119](https://github.com/lameuler/astro-pdf/issues/119#issuecomment-5012513165) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
-4. 🗣 Commented on [#4](https://github.com/cijiugechu/astro-link-preview/issues/4#issuecomment-4974901863) in [cijiugechu/astro-link-preview](https://github.com/cijiugechu/astro-link-preview)
-5. ℹ️ Labeled issue [#119](https://github.com/lameuler/astro-pdf/issues/119) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+1. 🗣 Commented on [#78](https://github.com/withastro/compiler-rs/issues/78#issuecomment-5124119642) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
+2. ℹ️ Labeled issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
+3. ❗ Opened issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
+4. 🗣 Commented on [#119](https://github.com/lameuler/astro-pdf/issues/119#issuecomment-5012513165) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+5. 🗣 Commented on [#4](https://github.com/cijiugechu/astro-link-preview/issues/4#issuecomment-4974901863) in [cijiugechu/astro-link-preview](https://github.com/cijiugechu/astro-link-preview)
   <!--END_SECTION:activity-->
 </details>
 
