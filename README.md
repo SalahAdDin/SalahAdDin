@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-5127940997) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#78](https://github.com/withastro/compiler-rs/issues/78#issuecomment-5124119642) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
-3. ℹ️ Labeled issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
-4. ❗ Opened issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
-5. 🗣 Commented on [#119](https://github.com/lameuler/astro-pdf/issues/119#issuecomment-5012513165) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+1. 🗣 Commented on [#15945](https://github.com/medusajs/medusa/issues/15945#issuecomment-5150216941) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-5127940997) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+3. 🗣 Commented on [#78](https://github.com/withastro/compiler-rs/issues/78#issuecomment-5124119642) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
+4. ℹ️ Labeled issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
+5. ❗ Opened issue [#160](https://github.com/SplitScreen-Me/splitscreenme-nucleus/issues/160) in [SplitScreen-Me/splitscreenme-nucleus](https://github.com/SplitScreen-Me/splitscreenme-nucleus)
   <!--END_SECTION:activity-->
 </details>
 
