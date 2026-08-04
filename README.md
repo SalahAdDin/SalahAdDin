@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/Bystrol/astro-medusa-starter/issues/9) in [Bystrol/astro-medusa-starter](https://github.com/Bystrol/astro-medusa-starter)
-2. ℹ️ Labeled issue [#28](https://github.com/medusajs/b2b-starter/issues/28) in [medusajs/b2b-starter](https://github.com/medusajs/b2b-starter)
-3. ❗ Opened issue [#28](https://github.com/medusajs/b2b-starter/issues/28) in [medusajs/b2b-starter](https://github.com/medusajs/b2b-starter)
-4. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-5160497189) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-5. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-5153810537) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🗣 Commented on [#17547](https://github.com/storybookjs/storybook/issues/17547#issuecomment-5174619155) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. ❗ Opened issue [#9](https://github.com/Bystrol/astro-medusa-starter/issues/9) in [Bystrol/astro-medusa-starter](https://github.com/Bystrol/astro-medusa-starter)
+3. ℹ️ Labeled issue [#28](https://github.com/medusajs/b2b-starter/issues/28) in [medusajs/b2b-starter](https://github.com/medusajs/b2b-starter)
+4. ❗ Opened issue [#28](https://github.com/medusajs/b2b-starter/issues/28) in [medusajs/b2b-starter](https://github.com/medusajs/b2b-starter)
+5. 🗣 Commented on [#40](https://github.com/storybook-astro/storybook-astro/issues/40#issuecomment-5160497189) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
   <!--END_SECTION:activity-->
 </details>
 
