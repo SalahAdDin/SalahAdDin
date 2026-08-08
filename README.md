@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#119](https://github.com/lameuler/astro-pdf/issues/119#issuecomment-5201129477) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
-2. ❗ Opened issue [#131](https://github.com/swc-project/pkgs/issues/131) in [swc-project/pkgs](https://github.com/swc-project/pkgs)
-3. 🗣 Commented on [#185](https://github.com/oxc-project/oxc-vscode/issues/185#issuecomment-5200897404) in [oxc-project/oxc-vscode](https://github.com/oxc-project/oxc-vscode)
-4. 🗣 Commented on [#17547](https://github.com/storybookjs/storybook/issues/17547#issuecomment-5174619155) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-5. ❗ Opened issue [#9](https://github.com/Bystrol/astro-medusa-starter/issues/9) in [Bystrol/astro-medusa-starter](https://github.com/Bystrol/astro-medusa-starter)
+1. 🗣 Commented on [#16294](https://github.com/medusajs/medusa/issues/16294#issuecomment-5224531265) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#119](https://github.com/lameuler/astro-pdf/issues/119#issuecomment-5201129477) in [lameuler/astro-pdf](https://github.com/lameuler/astro-pdf)
+3. ❗ Opened issue [#131](https://github.com/swc-project/pkgs/issues/131) in [swc-project/pkgs](https://github.com/swc-project/pkgs)
+4. 🗣 Commented on [#185](https://github.com/oxc-project/oxc-vscode/issues/185#issuecomment-5200897404) in [oxc-project/oxc-vscode](https://github.com/oxc-project/oxc-vscode)
+5. 🗣 Commented on [#17547](https://github.com/storybookjs/storybook/issues/17547#issuecomment-5174619155) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
