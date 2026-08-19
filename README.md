@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9351](https://github.com/medusajs/medusa/issues/9351#issuecomment-5330902719) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-5323336002) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-5323297241) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-4. 🗣 Commented on [#15945](https://github.com/medusajs/medusa/issues/15945#issuecomment-5311266969) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#16294](https://github.com/medusajs/medusa/issues/16294#issuecomment-5249116535) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ℹ️ Labeled issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ℹ️ Labeled issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ❗ Opened issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#9351](https://github.com/medusajs/medusa/issues/9351#issuecomment-5330902719) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-5323336002) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
