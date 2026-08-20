@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. ℹ️ Labeled issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ❗ Opened issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#9351](https://github.com/medusajs/medusa/issues/9351#issuecomment-5330902719) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-5323336002) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. ℹ️ Labeled issue [#699](https://github.com/AprilNEA/OpenLogi/issues/699) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+2. ℹ️ Labeled issue [#699](https://github.com/AprilNEA/OpenLogi/issues/699) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+3. ❗ Opened issue [#699](https://github.com/AprilNEA/OpenLogi/issues/699) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+4. ℹ️ Labeled issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ℹ️ Labeled issue [#16487](https://github.com/medusajs/medusa/issues/16487) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
