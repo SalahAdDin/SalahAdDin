@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-5357698773) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#699](https://github.com/AprilNEA/OpenLogi/issues/699#issuecomment-5357678072) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-3. 🗣 Commented on [#16499](https://github.com/medusajs/medusa/pull/16499#issuecomment-5351857474) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. ℹ️ Labeled issue [#699](https://github.com/AprilNEA/OpenLogi/issues/699) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-5. ℹ️ Labeled issue [#699](https://github.com/AprilNEA/OpenLogi/issues/699) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+1. ℹ️ Labeled issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ℹ️ Labeled issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ❗ Opened issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#699](https://github.com/AprilNEA/OpenLogi/issues/699#issuecomment-5364206834) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+5. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-5357698773) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
