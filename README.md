@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13478](https://github.com/medusajs/medusa/issues/13478#issuecomment-5364940601) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. ℹ️ Labeled issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ❗ Opened issue [#23](https://github.com/codee-sh/medusa-plugin-notification-emails/issues/23) in [codee-sh/medusa-plugin-notification-emails](https://github.com/codee-sh/medusa-plugin-notification-emails)
+2. 🗣 Commented on [#13478](https://github.com/medusajs/medusa/issues/13478#issuecomment-5364940601) in [medusajs/medusa](https://github.com/medusajs/medusa)
 3. ℹ️ Labeled issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. ❗ Opened issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#699](https://github.com/AprilNEA/OpenLogi/issues/699#issuecomment-5364206834) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+4. ℹ️ Labeled issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ❗ Opened issue [#16535](https://github.com/medusajs/medusa/issues/16535) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
