@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+1. 🗣 Commented on [#19](https://github.com/torchbox/storybook-django/issues/19#issuecomment-5419452792) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
 2. ℹ️ Labeled issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-3. ❗ Opened issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-4. 🗣 Commented on [#22715](https://github.com/strapi/strapi/pull/22715#issuecomment-5398583749) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#15876](https://github.com/medusajs/medusa/issues/15876#issuecomment-5391053121) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ℹ️ Labeled issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+4. ❗ Opened issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+5. 🗣 Commented on [#22715](https://github.com/strapi/strapi/pull/22715#issuecomment-5398583749) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
