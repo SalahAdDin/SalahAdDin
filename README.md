@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#172](https://github.com/storybook-astro/storybook-astro/pull/172#issuecomment-5427356275) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#19](https://github.com/torchbox/storybook-django/issues/19#issuecomment-5419452792) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-3. ℹ️ Labeled issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-4. ℹ️ Labeled issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-5. ❗ Opened issue [#953](https://github.com/AprilNEA/OpenLogi/issues/953) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+1. 🗣 Commented on [#22](https://github.com/torchbox/storybook-django/issues/22#issuecomment-5435361090) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+2. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-5435342871) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ℹ️ Labeled issue [#16623](https://github.com/medusajs/medusa/issues/16623) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ℹ️ Labeled issue [#16623](https://github.com/medusajs/medusa/issues/16623) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ❗ Opened issue [#16623](https://github.com/medusajs/medusa/issues/16623) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
