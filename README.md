@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-5446644394) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#22](https://github.com/torchbox/storybook-django/issues/22#issuecomment-5435361090) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
-3. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-5435342871) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. ℹ️ Labeled issue [#16623](https://github.com/medusajs/medusa/issues/16623) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-5455548469) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-5446644394) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#22](https://github.com/torchbox/storybook-django/issues/22#issuecomment-5435361090) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+4. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-5435342871) in [medusajs/medusa](https://github.com/medusajs/medusa)
 5. ℹ️ Labeled issue [#16623](https://github.com/medusajs/medusa/issues/16623) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
