@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20250](https://github.com/oxc-project/oxc/pull/20250#issuecomment-5504374388) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-2. 🗣 Commented on [#15945](https://github.com/medusajs/medusa/issues/15945#issuecomment-5472980794) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#22837](https://github.com/strapi/strapi/issues/22837#issuecomment-5455548469) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 🗣 Commented on [#20857](https://github.com/strapi/strapi/issues/20857#issuecomment-5446644394) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🗣 Commented on [#22](https://github.com/torchbox/storybook-django/issues/22#issuecomment-5435361090) in [torchbox/storybook-django](https://github.com/torchbox/storybook-django)
+1. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ❗ Opened issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#20250](https://github.com/oxc-project/oxc/pull/20250#issuecomment-5504374388) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🗣 Commented on [#15945](https://github.com/medusajs/medusa/issues/15945#issuecomment-5472980794) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
