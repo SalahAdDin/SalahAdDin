@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ❗ Opened issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#20250](https://github.com/oxc-project/oxc/pull/20250#issuecomment-5504374388) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-5. 🗣 Commented on [#15945](https://github.com/medusajs/medusa/issues/15945#issuecomment-5472980794) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5534736290) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-5534720475) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ❗ Opened issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
