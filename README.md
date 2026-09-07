@@ -64,10 +64,10 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#828](https://github.com/react-hook-form/resolvers/issues/828#issuecomment-5557149333) in [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers)
-2. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5534736290) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-5534720475) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-5565041742) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#828](https://github.com/react-hook-form/resolvers/issues/828#issuecomment-5557149333) in [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers)
+3. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5534736290) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-5534720475) in [medusajs/medusa](https://github.com/medusajs/medusa)
 5. ℹ️ Labeled issue [#16701](https://github.com/medusajs/medusa/issues/16701) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
