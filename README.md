@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16499](https://github.com/medusajs/medusa/pull/16499#issuecomment-5596095147) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#19715](https://github.com/oxc-project/oxc/issues/19715#issuecomment-5596087946) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
-3. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-5565041742) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#828](https://github.com/react-hook-form/resolvers/issues/828#issuecomment-5557149333) in [react-hook-form/resolvers](https://github.com/react-hook-form/resolvers)
-5. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5534736290) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#392](https://github.com/AprilNEA/OpenLogi/issues/392#issuecomment-5641107322) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+2. 🗣 Commented on [#953](https://github.com/AprilNEA/OpenLogi/issues/953#issuecomment-5641029689) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+3. 🗣 Commented on [#16499](https://github.com/medusajs/medusa/pull/16499#issuecomment-5596095147) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#19715](https://github.com/oxc-project/oxc/issues/19715#issuecomment-5596087946) in [oxc-project/oxc](https://github.com/oxc-project/oxc)
+5. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-5565041742) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
