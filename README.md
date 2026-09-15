@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5675307255) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-2. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5675287572) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-3. 💪 Opened PR [#15](https://github.com/zanreal-labs/medusa-product-costs/pull/15) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-4. 💪 Opened PR [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-5. ❗ Opened issue [#13](https://github.com/zanreal-labs/medusa-product-costs/issues/13) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+1. 🗣 Commented on [#78](https://github.com/withastro/compiler-rs/issues/78#issuecomment-5687809858) in [withastro/compiler-rs](https://github.com/withastro/compiler-rs)
+2. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5687721577) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+3. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5675307255) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+4. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5675287572) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+5. 💪 Opened PR [#15](https://github.com/zanreal-labs/medusa-product-costs/pull/15) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
   <!--END_SECTION:activity-->
 </details>
 
