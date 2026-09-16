@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5700799289) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-5700783511) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-5700778172) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-5700754723) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#953](https://github.com/AprilNEA/OpenLogi/issues/953#issuecomment-5692715314) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+1. ❗ Opened issue [#16](https://github.com/zanreal-labs/medusa-product-costs/issues/16) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+2. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5700799289) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-5700783511) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-5700778172) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-5700754723) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
