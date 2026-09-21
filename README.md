@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/NicolasGorga/medusa-payment-mercadopago/pull/26#issuecomment-5724983236) in [NicolasGorga/medusa-payment-mercadopago](https://github.com/NicolasGorga/medusa-payment-mercadopago)
-2. 🗣 Commented on [#1](https://github.com/NicolasGorga/medusa-payment-mercadopago/issues/1#issuecomment-5724973745) in [NicolasGorga/medusa-payment-mercadopago](https://github.com/NicolasGorga/medusa-payment-mercadopago)
-3. ❗ Opened issue [#16](https://github.com/zanreal-labs/medusa-product-costs/issues/16) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-4. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5700799289) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-5700783511) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🎉 Merged PR [#15](https://github.com/zanreal-labs/medusa-product-costs/pull/15) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+2. 🗣 Commented on [#26](https://github.com/NicolasGorga/medusa-payment-mercadopago/pull/26#issuecomment-5724983236) in [NicolasGorga/medusa-payment-mercadopago](https://github.com/NicolasGorga/medusa-payment-mercadopago)
+3. 🗣 Commented on [#1](https://github.com/NicolasGorga/medusa-payment-mercadopago/issues/1#issuecomment-5724973745) in [NicolasGorga/medusa-payment-mercadopago](https://github.com/NicolasGorga/medusa-payment-mercadopago)
+4. ❗ Opened issue [#16](https://github.com/zanreal-labs/medusa-product-costs/issues/16) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+5. 🗣 Commented on [#16701](https://github.com/medusajs/medusa/issues/16701#issuecomment-5700799289) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
