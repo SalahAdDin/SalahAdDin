@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/zanreal-labs/medusa-product-costs/issues/17) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-2. 🗣 Commented on [#29045](https://github.com/react/react/issues/29045#issuecomment-5784920282) in [react/react](https://github.com/react/react)
-3. 🗣 Commented on [#29046](https://github.com/react/react/pull/29046#issuecomment-5784918470) in [react/react](https://github.com/react/react)
-4. 🎉 Merged PR [#15](https://github.com/zanreal-labs/medusa-product-costs/pull/15) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-5. 🗣 Commented on [#26](https://github.com/NicolasGorga/medusa-payment-mercadopago/pull/26#issuecomment-5724983236) in [NicolasGorga/medusa-payment-mercadopago](https://github.com/NicolasGorga/medusa-payment-mercadopago)
+1. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5806814873) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+2. 🗣 Commented on [#14](https://github.com/zanreal-labs/medusa-product-costs/pull/14#issuecomment-5805687244) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+3. ❗ Opened issue [#17](https://github.com/zanreal-labs/medusa-product-costs/issues/17) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+4. 🗣 Commented on [#29045](https://github.com/react/react/issues/29045#issuecomment-5784920282) in [react/react](https://github.com/react/react)
+5. 🗣 Commented on [#29046](https://github.com/react/react/pull/29046#issuecomment-5784918470) in [react/react](https://github.com/react/react)
   <!--END_SECTION:activity-->
 </details>
 
