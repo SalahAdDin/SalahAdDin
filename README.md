@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16499](https://github.com/medusajs/medusa/pull/16499#issuecomment-5896366988) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-5828549106) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-3. ❗ Opened issue [#22](https://github.com/zanreal-labs/medusa-product-costs/issues/22) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-4. 🗣 Commented on [#15620](https://github.com/medusajs/medusa/pull/15620#issuecomment-5825634549) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#15945](https://github.com/medusajs/medusa/issues/15945#issuecomment-5825631047) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 💪 Opened PR [#25](https://github.com/zanreal-labs/medusa-product-costs/pull/25) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
+2. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/medusa-product-costs/pull/1) in [Vicacha-Devs/medusa-product-costs](https://github.com/Vicacha-Devs/medusa-product-costs)
+3. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-5944435108) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-5944430213) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-5944425280) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
