@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#43957](https://github.com/frappe/frappe/issues/43957) in [frappe/frappe](https://github.com/frappe/frappe)
-2. 🗣 Commented on [#1159](https://github.com/withastro/compiler/issues/1159#issuecomment-5948132001) in [withastro/compiler](https://github.com/withastro/compiler)
-3. 💪 Opened PR [#25](https://github.com/zanreal-labs/medusa-product-costs/pull/25) in [zanreal-labs/medusa-product-costs](https://github.com/zanreal-labs/medusa-product-costs)
-4. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/medusa-product-costs/pull/1) in [Vicacha-Devs/medusa-product-costs](https://github.com/Vicacha-Devs/medusa-product-costs)
-5. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-5944435108) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. ℹ️ Labeled issue [#17168](https://github.com/medusajs/medusa/issues/17168) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. ℹ️ Labeled issue [#17168](https://github.com/medusajs/medusa/issues/17168) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ❗ Opened issue [#17168](https://github.com/medusajs/medusa/issues/17168) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#16504](https://github.com/medusajs/medusa/pull/16504#issuecomment-6043702259) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#16499](https://github.com/medusajs/medusa/pull/16499#issuecomment-6043673241) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
