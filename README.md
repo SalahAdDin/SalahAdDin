@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#17168](https://github.com/medusajs/medusa/issues/17168) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. ℹ️ Labeled issue [#17168](https://github.com/medusajs/medusa/issues/17168) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ❗ Opened issue [#17168](https://github.com/medusajs/medusa/issues/17168) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#16504](https://github.com/medusajs/medusa/pull/16504#issuecomment-6043702259) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#16499](https://github.com/medusajs/medusa/pull/16499#issuecomment-6043673241) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#17172](https://github.com/medusajs/medusa/issues/17172#issuecomment-6051929258) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#16535](https://github.com/medusajs/medusa/issues/16535#issuecomment-6051774111) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-6051767112) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ℹ️ Labeled issue [#17172](https://github.com/medusajs/medusa/issues/17172) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. ℹ️ Labeled issue [#17172](https://github.com/medusajs/medusa/issues/17172) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
