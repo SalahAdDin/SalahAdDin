@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#197](https://github.com/storybook-astro/storybook-astro/issues/197) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-2. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-6246012728) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-3. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-6246005535) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6245799146) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-5. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6245059554) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+1. 🗣 Commented on [#17173](https://github.com/medusajs/medusa/pull/17173#issuecomment-6251759572) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#17219](https://github.com/medusajs/medusa/pull/17219#issuecomment-6251719479) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. ❗ Opened issue [#197](https://github.com/storybook-astro/storybook-astro/issues/197) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+4. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-6246012728) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
+5. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-6246005535) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
