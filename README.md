@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17173](https://github.com/medusajs/medusa/pull/17173#issuecomment-6251759572) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#17219](https://github.com/medusajs/medusa/pull/17219#issuecomment-6251719479) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. ❗ Opened issue [#197](https://github.com/storybook-astro/storybook-astro/issues/197) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
-4. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-6246012728) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
-5. 🗣 Commented on [#34487](https://github.com/storybookjs/storybook/pull/34487#issuecomment-6246005535) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-6258248927) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#17173](https://github.com/medusajs/medusa/pull/17173#issuecomment-6251759572) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#17219](https://github.com/medusajs/medusa/pull/17219#issuecomment-6251719479) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. ❗ Opened issue [#197](https://github.com/storybook-astro/storybook-astro/issues/197) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+5. 🗣 Commented on [#259](https://github.com/eslint-stylistic/eslint-stylistic/issues/259#issuecomment-6246012728) in [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic)
   <!--END_SECTION:activity-->
 </details>
 
