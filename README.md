@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6328396661) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-2. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6325686749) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-3. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6324220265) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-4. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6322586865) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-5. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6283135701) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+1. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/1) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+2. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6328396661) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+3. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6325686749) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+4. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6324220265) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+5. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6322586865) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
