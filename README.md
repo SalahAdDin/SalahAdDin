@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17172](https://github.com/medusajs/medusa/issues/17172#issuecomment-6344412530) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-6344301092) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6351620224) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-4. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/1) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
-5. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6328396661) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+1. 🗣 Commented on [#17172](https://github.com/medusajs/medusa/issues/17172#issuecomment-6347889226) in [medusajs/medusa](https://github.com/medusajs/medusa)
+2. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6347867025) in [medusajs/medusa](https://github.com/medusajs/medusa)
+3. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-6344369425) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#17172](https://github.com/medusajs/medusa/issues/17172#issuecomment-6344323038) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 🗣 Commented on [#16487](https://github.com/medusajs/medusa/issues/16487#issuecomment-6344396011) in [medusajs/medusa](https://github.com/medusajs/medusa)
   <!--END_SECTION:activity-->
 </details>
 
