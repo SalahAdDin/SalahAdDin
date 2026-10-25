@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-6390854788) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6370330865) in [medusajs/medusa](https://github.com/medusajs/medusa)
-3. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-6370344106) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 💪 Opened PR [#4](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/4) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
-5. 💪 Opened PR [#3](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/3) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+1. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6392995370) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+2. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-6390854788) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6370330865) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-6370344106) in [medusajs/medusa](https://github.com/medusajs/medusa)
+5. 💪 Opened PR [#4](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/4) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
   <!--END_SECTION:activity-->
 </details>
 
