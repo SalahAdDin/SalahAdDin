@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6402423168) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6392995370) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-3. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-6390854788) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-4. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6370330865) in [medusajs/medusa](https://github.com/medusajs/medusa)
-5. 🗣 Commented on [#16623](https://github.com/medusajs/medusa/issues/16623#issuecomment-6370344106) in [medusajs/medusa](https://github.com/medusajs/medusa)
+1. 🗣 Commented on [#102](https://github.com/notum-cz/strapi-plugin-seo/pull/102#issuecomment-6408305304) in [notum-cz/strapi-plugin-seo](https://github.com/notum-cz/strapi-plugin-seo)
+2. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-6406750136) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6402423168) in [medusajs/medusa](https://github.com/medusajs/medusa)
+4. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6392995370) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
+5. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-6390854788) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
   <!--END_SECTION:activity-->
 </details>
 
