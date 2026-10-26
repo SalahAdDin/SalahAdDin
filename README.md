@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/notum-cz/strapi-plugin-seo/pull/102#issuecomment-6408305304) in [notum-cz/strapi-plugin-seo](https://github.com/notum-cz/strapi-plugin-seo)
-2. 🗣 Commented on [#22526](https://github.com/strapi/strapi/issues/22526#issuecomment-6406750136) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🗣 Commented on [#17168](https://github.com/medusajs/medusa/issues/17168#issuecomment-6402423168) in [medusajs/medusa](https://github.com/medusajs/medusa)
-4. 🗣 Commented on [#40](https://github.com/notum-cz/strapi-plugin-tiptap-editor/pull/40#issuecomment-6392995370) in [notum-cz/strapi-plugin-tiptap-editor](https://github.com/notum-cz/strapi-plugin-tiptap-editor)
-5. 🗣 Commented on [#22195](https://github.com/storybookjs/storybook/issues/22195#issuecomment-6390854788) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+1. 💪 Opened PR [#3](https://github.com/sagarmauryaa/strapi-global-search/pull/3) in [sagarmauryaa/strapi-global-search](https://github.com/sagarmauryaa/strapi-global-search)
+2. 💪 Opened PR [#2](https://github.com/sagarmauryaa/strapi-global-search/pull/2) in [sagarmauryaa/strapi-global-search](https://github.com/sagarmauryaa/strapi-global-search)
+3. 💪 Opened PR [#2](https://github.com/Vicacha-Devs/strapi-global-search/pull/2) in [Vicacha-Devs/strapi-global-search](https://github.com/Vicacha-Devs/strapi-global-search)
+4. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/strapi-global-search/pull/1) in [Vicacha-Devs/strapi-global-search](https://github.com/Vicacha-Devs/strapi-global-search)
+5. 💪 Opened PR [#124](https://github.com/notum-cz/strapi-plugin-seo/pull/124) in [notum-cz/strapi-plugin-seo](https://github.com/notum-cz/strapi-plugin-seo)
   <!--END_SECTION:activity-->
 </details>
 
