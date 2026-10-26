@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/sagarmauryaa/strapi-global-search/pull/3) in [sagarmauryaa/strapi-global-search](https://github.com/sagarmauryaa/strapi-global-search)
-2. 💪 Opened PR [#2](https://github.com/sagarmauryaa/strapi-global-search/pull/2) in [sagarmauryaa/strapi-global-search](https://github.com/sagarmauryaa/strapi-global-search)
-3. 💪 Opened PR [#2](https://github.com/Vicacha-Devs/strapi-global-search/pull/2) in [Vicacha-Devs/strapi-global-search](https://github.com/Vicacha-Devs/strapi-global-search)
-4. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/strapi-global-search/pull/1) in [Vicacha-Devs/strapi-global-search](https://github.com/Vicacha-Devs/strapi-global-search)
-5. 💪 Opened PR [#124](https://github.com/notum-cz/strapi-plugin-seo/pull/124) in [notum-cz/strapi-plugin-seo](https://github.com/notum-cz/strapi-plugin-seo)
+1. 💪 Opened PR [#28264](https://github.com/strapi/strapi/pull/28264) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 💪 Opened PR [#28263](https://github.com/strapi/strapi/pull/28263) in [strapi/strapi](https://github.com/strapi/strapi)
+3. 💪 Opened PR [#28262](https://github.com/strapi/strapi/pull/28262) in [strapi/strapi](https://github.com/strapi/strapi)
+4. 💪 Opened PR [#28261](https://github.com/strapi/strapi/pull/28261) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🎉 Merged PR [#145](https://github.com/TupiC/strapi-cache/pull/145) in [TupiC/strapi-cache](https://github.com/TupiC/strapi-cache)
   <!--END_SECTION:activity-->
 </details>
 
