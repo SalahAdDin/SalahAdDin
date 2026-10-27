@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#146](https://github.com/TupiC/strapi-cache/pull/146) in [TupiC/strapi-cache](https://github.com/TupiC/strapi-cache)
-2. 🗣 Commented on [#2](https://github.com/SalahAdDin/django-smart-selects/pull/2#issuecomment-6435447799) in [SalahAdDin/django-smart-selects](https://github.com/SalahAdDin/django-smart-selects)
-3. ❌ Closed PR [#4](https://github.com/pauloprea/django-oscar-cash-on-delivery/pull/4) in [pauloprea/django-oscar-cash-on-delivery](https://github.com/pauloprea/django-oscar-cash-on-delivery)
-4. 🗣 Commented on [#4](https://github.com/pauloprea/django-oscar-cash-on-delivery/pull/4#issuecomment-6435446919) in [pauloprea/django-oscar-cash-on-delivery](https://github.com/pauloprea/django-oscar-cash-on-delivery)
-5. 🗣 Commented on [#28](https://github.com/SalahAdDin/wagtail-embedvideos/pull/28#issuecomment-6435445071) in [SalahAdDin/wagtail-embedvideos](https://github.com/SalahAdDin/wagtail-embedvideos)
+1. 🎉 Merged PR [#13](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/13) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+2. 🎉 Merged PR [#12](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/12) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+3. 🎉 Merged PR [#11](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/11) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+4. 💪 Opened PR [#13](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/13) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+5. 💪 Opened PR [#12](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/12) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
