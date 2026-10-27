@@ -4,10 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahaddin&label=Profile%20views&color=0e75b6&style=flat" alt="salahaddin" /> </p>
 
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salahaddin&theme=onedark&column=5&margin-w=5&margin-h=5&no-frame=true" alt="Luis Alaguna's trophies." /> 
-</p>
-
 <!--
 **SalahAdDin/SalahAdDin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,13 +21,13 @@ Here are some ideas to get you started:
 
 ### I'm a computer engineer, developer, brother and dancer.
 
-- 🔭 I’m currently working on [<img alt="Segmentify" width="16px" src="https://avatars.githubusercontent.com/u/14087181?s=200&v=4" />][job].
-- 🌱 I’m currently learning latin dances, advance react with typescript, flutter...
+- 🔭 I’m currently working at [Huge][job].
+- 🌱 I’m currently learning latin dances, more about my religion, AI, and advanced React with TypeScript...
 - 👨‍💻 All of my projects are available at [my portfolio][portfolio].
 - 📝 I regularly write articles on [portfolio's posts section](https://uzmani.tech/posts).
 - 🤔 I’m looking for help with Codewars, HackerRank, algorithms, more advanced techniques and patterns...
 - 💬 Ask me about everything!
-- 🥅 2022 Goals: Collaborate with the least favored and most despised people in society.
+- 🥅 2026-2027 Goals: Build a successful entrepreneurship and a legacy in Colombia.
 - ⚡ Fun fact: Despite being Latino, I am learning how to dance in a foreign country.
 
 ### Connect with me:
@@ -52,13 +48,13 @@ Here are some ideas to get you started:
 
 ---
 
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
 
 <details align="left">
   <summary>:zap: Recent GitHub Activity</summary>
@@ -78,17 +74,12 @@ Here are some ideas to get you started:
 </details>
 
 <details align="left">
-  <summary> :zap: GitHub Stats</summary>
-  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api?username=SalahAdDin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Luis Alaguna's GitHub Stats" />
-</details>
-
-<details align="left">
-  <summary> :zap: Most Used Languages</summary>
-  <img align="center" style="margin: 0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahAdDin&layout=compact&langs_count=8&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide_border=true" alt="Luis Alaguna's Language Stats" />
+  <summary> :zap: GitHub Stats and Most Used Languages</summary>
+  <img align="center" alt="Luis Alaguna's GitHub metrics" src="https://raw.githubusercontent.com/SalahAdDin/SalahAdDin/main/github-metrics.svg" />
 </details>
 
 [portfolio]: https://www.uzmani.tech/
-[job]: http://www.segmentify.com
+[job]: https://www.hugeinc.com
 [linkedin]: https://www.linkedin.com/in/jluissalaguna/
 [stackoverflow]: https://www.stackoverflow.com/users/3826549/salahaddin
 [discord]: https://discord.gg/LuisAlaguna#5121
