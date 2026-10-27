@@ -64,11 +64,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28264](https://github.com/strapi/strapi/pull/28264) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 💪 Opened PR [#28263](https://github.com/strapi/strapi/pull/28263) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 💪 Opened PR [#28262](https://github.com/strapi/strapi/pull/28262) in [strapi/strapi](https://github.com/strapi/strapi)
-4. 💪 Opened PR [#28261](https://github.com/strapi/strapi/pull/28261) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🎉 Merged PR [#145](https://github.com/TupiC/strapi-cache/pull/145) in [TupiC/strapi-cache](https://github.com/TupiC/strapi-cache)
+1. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-6433371585) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
+2. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin/pull/3) in [Vicacha-Devs/strapi-5-sitemap-plugin](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin)
+3. 💪 Opened PR [#19](https://github.com/DigitalMoonrise-UG/strapi-5-sitemap-plugin/pull/19) in [DigitalMoonrise-UG/strapi-5-sitemap-plugin](https://github.com/DigitalMoonrise-UG/strapi-5-sitemap-plugin)
+4. 💪 Opened PR [#3](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin/pull/3) in [Vicacha-Devs/strapi-5-sitemap-plugin](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin)
+5. 🗣 Commented on [#146](https://github.com/TupiC/strapi-cache/pull/146#issuecomment-6433209237) in [TupiC/strapi-cache](https://github.com/TupiC/strapi-cache)
   <!--END_SECTION:activity-->
 </details>
 
