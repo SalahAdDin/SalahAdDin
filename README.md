@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1793](https://github.com/VSCodium/vscodium/issues/1793#issuecomment-6433371585) in [VSCodium/vscodium](https://github.com/VSCodium/vscodium)
-2. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin/pull/3) in [Vicacha-Devs/strapi-5-sitemap-plugin](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin)
-3. 💪 Opened PR [#19](https://github.com/DigitalMoonrise-UG/strapi-5-sitemap-plugin/pull/19) in [DigitalMoonrise-UG/strapi-5-sitemap-plugin](https://github.com/DigitalMoonrise-UG/strapi-5-sitemap-plugin)
-4. 💪 Opened PR [#3](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin/pull/3) in [Vicacha-Devs/strapi-5-sitemap-plugin](https://github.com/Vicacha-Devs/strapi-5-sitemap-plugin)
-5. 🗣 Commented on [#146](https://github.com/TupiC/strapi-cache/pull/146#issuecomment-6433209237) in [TupiC/strapi-cache](https://github.com/TupiC/strapi-cache)
+1. 🎉 Merged PR [#146](https://github.com/TupiC/strapi-cache/pull/146) in [TupiC/strapi-cache](https://github.com/TupiC/strapi-cache)
+2. 🗣 Commented on [#2](https://github.com/SalahAdDin/django-smart-selects/pull/2#issuecomment-6435447799) in [SalahAdDin/django-smart-selects](https://github.com/SalahAdDin/django-smart-selects)
+3. ❌ Closed PR [#4](https://github.com/pauloprea/django-oscar-cash-on-delivery/pull/4) in [pauloprea/django-oscar-cash-on-delivery](https://github.com/pauloprea/django-oscar-cash-on-delivery)
+4. 🗣 Commented on [#4](https://github.com/pauloprea/django-oscar-cash-on-delivery/pull/4#issuecomment-6435446919) in [pauloprea/django-oscar-cash-on-delivery](https://github.com/pauloprea/django-oscar-cash-on-delivery)
+5. 🗣 Commented on [#28](https://github.com/SalahAdDin/wagtail-embedvideos/pull/28#issuecomment-6435445071) in [SalahAdDin/wagtail-embedvideos](https://github.com/SalahAdDin/wagtail-embedvideos)
   <!--END_SECTION:activity-->
 </details>
 
