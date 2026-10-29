@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2819](https://github.com/CapSoftware/Cap/issues/2819#issuecomment-6475175859) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
-2. 🎉 Merged PR [#14](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/14) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
-3. 💪 Opened PR [#14](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/14) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
-4. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/1) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
-5. 🎉 Merged PR [#13](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/13) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+1. 🗣 Commented on [#680](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/680#issuecomment-6473126242) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#2819](https://github.com/CapSoftware/Cap/issues/2819#issuecomment-6475175859) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+3. 🎉 Merged PR [#14](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/14) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+4. 💪 Opened PR [#14](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/14) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+5. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/1) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
   <!--END_SECTION:activity-->
 </details>
 
