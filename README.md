@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#680](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/680#issuecomment-6473126242) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#2819](https://github.com/CapSoftware/Cap/issues/2819#issuecomment-6475175859) in [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
-3. 🎉 Merged PR [#14](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/14) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
-4. 💪 Opened PR [#14](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/14) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
-5. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor/pull/1) in [Vicacha-Devs/strapi-plugin-tiptap-editor](https://github.com/Vicacha-Devs/strapi-plugin-tiptap-editor)
+1. 🗣 Commented on [#5](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/5#issuecomment-6486429910) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+2. 🗣 Commented on [#1](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/1#issuecomment-6486184468) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+3. 🗣 Commented on [#5](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/5#issuecomment-6486194904) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+4. ❗ Opened issue [#96](https://github.com/frameless/strapi-v5-extensions/issues/96) in [frameless/strapi-v5-extensions](https://github.com/frameless/strapi-v5-extensions)
+5. 🗣 Commented on [#28](https://github.com/strapi-community/strapi-plugin-notes/issues/28#issuecomment-6488022724) in [strapi-community/strapi-plugin-notes](https://github.com/strapi-community/strapi-plugin-notes)
   <!--END_SECTION:activity-->
 </details>
 
