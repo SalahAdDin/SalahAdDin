@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#706](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/706#issuecomment-6508995621) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-2. 🗣 Commented on [#705](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/705#issuecomment-6508990802) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. ❗ Opened issue [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-4. 🎉 Merged PR [#2](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms/pull/2) in [Vicacha-Devs/strapi-plugin-form-builder-cms](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms)
-5. 💪 Opened PR [#2](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms/pull/2) in [Vicacha-Devs/strapi-plugin-form-builder-cms](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms)
+1. 🎉 Merged PR [#11](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/11) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+2. 💪 Opened PR [#11](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/11) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+3. 🗣 Commented on [#706](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/706#issuecomment-6508995621) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+4. 🗣 Commented on [#705](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/705#issuecomment-6508990802) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. ❗ Opened issue [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
   <!--END_SECTION:activity-->
 </details>
 
