@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/AprilNEA/OpenLogi/issues/392#issuecomment-6504237853) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-2. 🗣 Commented on [#5](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/5#issuecomment-6486429910) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-3. 🗣 Commented on [#1](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/1#issuecomment-6486184468) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-4. 🗣 Commented on [#5](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/5#issuecomment-6486194904) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-5. ❗ Opened issue [#96](https://github.com/frameless/strapi-v5-extensions/issues/96) in [frameless/strapi-v5-extensions](https://github.com/frameless/strapi-v5-extensions)
+1. 🗣 Commented on [#706](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/706#issuecomment-6508995621) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+2. 🗣 Commented on [#705](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/705#issuecomment-6508990802) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+3. ❗ Opened issue [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+4. 🎉 Merged PR [#2](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms/pull/2) in [Vicacha-Devs/strapi-plugin-form-builder-cms](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms)
+5. 💪 Opened PR [#2](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms/pull/2) in [Vicacha-Devs/strapi-plugin-form-builder-cms](https://github.com/Vicacha-Devs/strapi-plugin-form-builder-cms)
   <!--END_SECTION:activity-->
 </details>
 
