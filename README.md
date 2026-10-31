@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#162](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/162) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-2. 💪 Opened PR [#711](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/711) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-3. ❗ Opened issue [#161](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/161) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-4. ❗ Opened issue [#709](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/709) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. 🗣 Commented on [#685](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/issues/685#issuecomment-6528937290) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+1. 🗣 Commented on [#392](https://github.com/AprilNEA/OpenLogi/issues/392#issuecomment-6549296782) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+2. 🗣 Commented on [#392](https://github.com/AprilNEA/OpenLogi/issues/392#issuecomment-6549020266) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+3. 💪 Opened PR [#162](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/162) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+4. 💪 Opened PR [#711](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/711) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
+5. ❗ Opened issue [#161](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/161) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
   <!--END_SECTION:activity-->
 </details>
 
