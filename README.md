@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2636](https://github.com/semantic-release/semantic-release/issues/2636#issuecomment-6555340308) in [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
-2. 🎉 Merged PR [#13](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/13) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-3. 💪 Opened PR [#13](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/13) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-4. 🎉 Merged PR [#12](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/12) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-5. 💪 Opened PR [#12](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/12) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+1. 🎉 Merged PR [#14](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/14) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+2. 💪 Opened PR [#14](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/14) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+3. 🗣 Commented on [#2636](https://github.com/semantic-release/semantic-release/issues/2636#issuecomment-6555340308) in [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+4. 🎉 Merged PR [#13](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/13) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+5. 💪 Opened PR [#13](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/13) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
   <!--END_SECTION:activity-->
 </details>
 
