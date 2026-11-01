@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/AprilNEA/OpenLogi/issues/392#issuecomment-6549296782) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-2. 🗣 Commented on [#392](https://github.com/AprilNEA/OpenLogi/issues/392#issuecomment-6549020266) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-3. 💪 Opened PR [#162](https://github.com/mattmilburn/strapi-plugin-preview-button/pull/162) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
-4. 💪 Opened PR [#711](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation/pull/711) in [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation)
-5. ❗ Opened issue [#161](https://github.com/mattmilburn/strapi-plugin-preview-button/issues/161) in [mattmilburn/strapi-plugin-preview-button](https://github.com/mattmilburn/strapi-plugin-preview-button)
+1. 🗣 Commented on [#2636](https://github.com/semantic-release/semantic-release/issues/2636#issuecomment-6555340308) in [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release)
+2. 🎉 Merged PR [#13](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/13) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+3. 💪 Opened PR [#13](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/13) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+4. 🎉 Merged PR [#12](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/12) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+5. 💪 Opened PR [#12](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/12) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
   <!--END_SECTION:activity-->
 </details>
 
