@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. ℹ️ Assigned PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. ℹ️ Unassigned PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-6639388174) in [strapi/strapi](https://github.com/strapi/strapi)
+2. 🎉 Merged PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+3. ℹ️ Assigned PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
 4. ℹ️ Assigned PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 🗣 Commented on [#17](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/17#issuecomment-6608773367) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+5. ℹ️ Unassigned PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
