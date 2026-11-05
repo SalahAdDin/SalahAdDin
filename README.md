@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96#issuecomment-6642576108) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-2. 💪 Opened PR [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-3. 💪 Opened PR [#97](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/97) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-4. 🗣 Commented on [#95](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/95#issuecomment-6642518975) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-5. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-6639388174) in [strapi/strapi](https://github.com/strapi/strapi)
+1. 🎉 Merged PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+2. 💪 Opened PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+3. 🗣 Commented on [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96#issuecomment-6642576108) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+4. 💪 Opened PR [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+5. 💪 Opened PR [#97](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/97) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
   <!--END_SECTION:activity-->
 </details>
 
