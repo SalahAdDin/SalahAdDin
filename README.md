@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-6639388174) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🎉 Merged PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. ℹ️ Assigned PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-4. ℹ️ Assigned PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. ℹ️ Unassigned PR [#20](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/20) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 🗣 Commented on [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96#issuecomment-6642576108) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+2. 💪 Opened PR [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+3. 💪 Opened PR [#97](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/97) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+4. 🗣 Commented on [#95](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/95#issuecomment-6642518975) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+5. 🗣 Commented on [#23032](https://github.com/strapi/strapi/issues/23032#issuecomment-6639388174) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
