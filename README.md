@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/16) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. 🎉 Merged PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-3. 💪 Opened PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-4. 🗣 Commented on [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96#issuecomment-6642576108) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-5. 💪 Opened PR [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+1. 🎉 Merged PR [#706](https://github.com/Sensinum/strapi-plugin-navigation/pull/706) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
+2. 🎉 Merged PR [#705](https://github.com/Sensinum/strapi-plugin-navigation/pull/705) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
+3. 🎉 Merged PR [#16](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/16) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🎉 Merged PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+5. 💪 Opened PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
   <!--END_SECTION:activity-->
 </details>
 
