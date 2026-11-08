@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8548](https://github.com/medusajs/medusa/issues/8548#issuecomment-6712423714) in [medusajs/medusa](https://github.com/medusajs/medusa)
-2. 🎉 Merged PR [#706](https://github.com/Sensinum/strapi-plugin-navigation/pull/706) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
-3. 🎉 Merged PR [#705](https://github.com/Sensinum/strapi-plugin-navigation/pull/705) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
-4. 🎉 Merged PR [#16](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/16) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 🎉 Merged PR [#18](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/18) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+1. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub/pull/1) in [Vicacha-Devs/antarctic-maritime-observation-hub](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub)
+2. 💪 Opened PR [#8](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/8) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
+3. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub/pull/1) in [Vicacha-Devs/antarctic-maritime-observation-hub](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub)
+4. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/3) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+5. ℹ️ Unassigned PR [#3](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/3) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
