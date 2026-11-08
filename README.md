@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub/pull/1) in [Vicacha-Devs/antarctic-maritime-observation-hub](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub)
-2. 💪 Opened PR [#8](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/8) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-3. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub/pull/1) in [Vicacha-Devs/antarctic-maritime-observation-hub](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub)
-4. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/3) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. ℹ️ Unassigned PR [#3](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/3) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 💪 Opened PR [#23](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/23) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+2. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub/pull/1) in [Vicacha-Devs/antarctic-maritime-observation-hub](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub)
+3. 💪 Opened PR [#8](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/8) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
+4. 💪 Opened PR [#1](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub/pull/1) in [Vicacha-Devs/antarctic-maritime-observation-hub](https://github.com/Vicacha-Devs/antarctic-maritime-observation-hub)
+5. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/3) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
