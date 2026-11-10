@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. 🎉 Merged PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. 💪 Opened PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-4. 🎉 Merged PR [#11](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/11) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. ❗ Opened issue [#592](https://github.com/taskgenius/taskgenius-plugin/issues/592) in [taskgenius/taskgenius-plugin](https://github.com/taskgenius/taskgenius-plugin)
+1. 🎉 Merged PR [#12](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/12) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+2. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/1) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+3. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🎉 Merged PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+5. 💪 Opened PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
