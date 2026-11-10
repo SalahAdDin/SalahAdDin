@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ❗ Opened issue [#592](https://github.com/taskgenius/taskgenius-plugin/issues/592) in [taskgenius/taskgenius-plugin](https://github.com/taskgenius/taskgenius-plugin)
-2. 🗣 Commented on [#711](https://github.com/Sensinum/strapi-plugin-navigation/pull/711#issuecomment-6730408473) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
-3. 🎉 Merged PR [#22](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/22) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-4. 💪 Opened PR [#22](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/22) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-5. 🎉 Merged PR [#21](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/21) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+1. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+2. 🎉 Merged PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+3. 💪 Opened PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🎉 Merged PR [#11](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/11) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+5. ❗ Opened issue [#592](https://github.com/taskgenius/taskgenius-plugin/issues/592) in [taskgenius/taskgenius-plugin](https://github.com/taskgenius/taskgenius-plugin)
   <!--END_SECTION:activity-->
 </details>
 
