@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/12) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/1) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/4) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-4. 🎉 Merged PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 💪 Opened PR [#25](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/25) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 🗣 Commented on [#680](https://github.com/Sensinum/strapi-plugin-navigation/pull/680#issuecomment-6774491949) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
+2. 🎉 Merged PR [#5](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/5) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+3. 💪 Opened PR [#28](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/28) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🎉 Merged PR [#6](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/6) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+5. 🎉 Merged PR [#7](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/7) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
