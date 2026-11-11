@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/18) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. 🎉 Merged PR [#14](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/14) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. 🎉 Merged PR [#29](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/29) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-4. 💪 Opened PR [#29](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/29) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 🎉 Merged PR [#19](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/19) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 🎉 Merged PR [#97](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/97) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+2. 🎉 Merged PR [#233](https://github.com/pluginpal/strapi-plugin-publisher/pull/233) in [pluginpal/strapi-plugin-publisher](https://github.com/pluginpal/strapi-plugin-publisher)
+3. 🎉 Merged PR [#18](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/18) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🎉 Merged PR [#14](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/14) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+5. 🎉 Merged PR [#29](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/29) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
