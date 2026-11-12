@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/37) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. 🎉 Merged PR [#36](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/36) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. 🗣 Commented on [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98#issuecomment-6814420242) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-4. 💪 Opened PR [#37](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/37) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 💪 Opened PR [#36](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/36) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 🗣 Commented on [#4088](https://github.com/conventional-changelog/commitlint/issues/4088#issuecomment-6826868432) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+2. 🎉 Merged PR [#711](https://github.com/Sensinum/strapi-plugin-navigation/pull/711) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
+3. 🎉 Merged PR [#37](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/37) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🎉 Merged PR [#36](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/36) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+5. 🗣 Commented on [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98#issuecomment-6814420242) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
   <!--END_SECTION:activity-->
 </details>
 
