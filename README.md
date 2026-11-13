@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4088](https://github.com/conventional-changelog/commitlint/issues/4088#issuecomment-6826868432) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-2. 🎉 Merged PR [#711](https://github.com/Sensinum/strapi-plugin-navigation/pull/711) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
-3. 🎉 Merged PR [#37](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/37) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-4. 🎉 Merged PR [#36](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/36) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 🗣 Commented on [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98#issuecomment-6814420242) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+1. 💪 Opened PR [#30](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/30) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+2. 🎉 Merged PR [#29](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/29) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+3. 💪 Opened PR [#29](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/29) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
+4. 🗣 Commented on [#4088](https://github.com/conventional-changelog/commitlint/issues/4088#issuecomment-6826868432) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
+5. 🎉 Merged PR [#711](https://github.com/Sensinum/strapi-plugin-navigation/pull/711) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
   <!--END_SECTION:activity-->
 </details>
 
