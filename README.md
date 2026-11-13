@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/30) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-2. 🎉 Merged PR [#29](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/29) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-3. 💪 Opened PR [#29](https://github.com/Vicacha-Devs/astro-tiptap-blocks/pull/29) in [Vicacha-Devs/astro-tiptap-blocks](https://github.com/Vicacha-Devs/astro-tiptap-blocks)
-4. 🗣 Commented on [#4088](https://github.com/conventional-changelog/commitlint/issues/4088#issuecomment-6826868432) in [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-5. 🎉 Merged PR [#711](https://github.com/Sensinum/strapi-plugin-navigation/pull/711) in [Sensinum/strapi-plugin-navigation](https://github.com/Sensinum/strapi-plugin-navigation)
+1. 💪 Opened PR [#6](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/6) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+2. ❌ Closed PR [#5](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/5) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+3. 💪 Opened PR [#5](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/5) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+4. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/4) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+5. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/3) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
   <!--END_SECTION:activity-->
 </details>
 
