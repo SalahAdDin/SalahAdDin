@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#291](https://github.com/starwind-ui/starwind-ui/pull/291) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-2. 💪 Opened PR [#290](https://github.com/starwind-ui/starwind-ui/pull/290) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-3. 💪 Opened PR [#289](https://github.com/starwind-ui/starwind-ui/pull/289) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-4. 💪 Opened PR [#288](https://github.com/starwind-ui/starwind-ui/pull/288) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-5. 💪 Opened PR [#287](https://github.com/starwind-ui/starwind-ui/pull/287) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+1. 🎉 Merged PR [#289](https://github.com/starwind-ui/starwind-ui/pull/289) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+2. 🎉 Merged PR [#291](https://github.com/starwind-ui/starwind-ui/pull/291) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+3. 💪 Opened PR [#291](https://github.com/starwind-ui/starwind-ui/pull/291) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+4. 💪 Opened PR [#290](https://github.com/starwind-ui/starwind-ui/pull/290) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+5. 💪 Opened PR [#289](https://github.com/starwind-ui/starwind-ui/pull/289) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
   <!--END_SECTION:activity-->
 </details>
 
