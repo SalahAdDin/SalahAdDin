@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/8) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
-2. 💪 Opened PR [#8](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/8) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
-3. ❗ Opened issue [#297](https://github.com/starwind-ui/starwind-ui/issues/297) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-4. 🎉 Merged PR [#7](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/7) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
-5. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/1) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+1. ❗ Opened issue [#378](https://github.com/storybook-astro/storybook-astro/issues/378) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. 🎉 Merged PR [#8](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/8) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+3. 💪 Opened PR [#8](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/8) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
+4. ❗ Opened issue [#297](https://github.com/starwind-ui/starwind-ui/issues/297) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+5. 🎉 Merged PR [#7](https://github.com/Vicacha-Devs/central-mosque-bogota/pull/7) in [Vicacha-Devs/central-mosque-bogota](https://github.com/Vicacha-Devs/central-mosque-bogota)
   <!--END_SECTION:activity-->
 </details>
 
