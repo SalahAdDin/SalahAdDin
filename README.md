@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/45) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-2. 💪 Opened PR [#45](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/45) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-3. 🗣 Commented on [#298](https://github.com/starwind-ui/starwind-ui/issues/298#issuecomment-6935942635) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-4. 🗣 Commented on [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98#issuecomment-6934312884) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
-5. 🗣 Commented on [#96](https://github.com/devCluna/strapi-plugin-form-builder-cms/issues/96#issuecomment-6934269547) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
+1. 🗣 Commented on [#378](https://github.com/storybook-astro/storybook-astro/issues/378#issuecomment-6956247103) in [storybook-astro/storybook-astro](https://github.com/storybook-astro/storybook-astro)
+2. 🎉 Merged PR [#45](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/45) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+3. 💪 Opened PR [#45](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/45) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+4. 🗣 Commented on [#298](https://github.com/starwind-ui/starwind-ui/issues/298#issuecomment-6935942635) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+5. 🗣 Commented on [#98](https://github.com/devCluna/strapi-plugin-form-builder-cms/pull/98#issuecomment-6934312884) in [devCluna/strapi-plugin-form-builder-cms](https://github.com/devCluna/strapi-plugin-form-builder-cms)
   <!--END_SECTION:activity-->
 </details>
 
