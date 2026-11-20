@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#443](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/443) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
-2. ❗ Opened issue [#443](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/443) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
-3. 🗣 Commented on [#298](https://github.com/starwind-ui/starwind-ui/issues/298#issuecomment-6967855609) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
-4. 🎉 Merged PR [#49](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/49) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
-5. 🎉 Merged PR [#47](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/47) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
+1. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-7041600980) in [strapi/strapi](https://github.com/strapi/strapi)
+2. ℹ️ Labeled issue [#443](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/443) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+3. ❗ Opened issue [#443](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/443) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+4. 🗣 Commented on [#298](https://github.com/starwind-ui/starwind-ui/issues/298#issuecomment-6967855609) in [starwind-ui/starwind-ui](https://github.com/starwind-ui/starwind-ui)
+5. 🎉 Merged PR [#49](https://github.com/Vicacha-Devs/strapi-v5-extensions/pull/49) in [Vicacha-Devs/strapi-v5-extensions](https://github.com/Vicacha-Devs/strapi-v5-extensions)
   <!--END_SECTION:activity-->
 </details>
 
