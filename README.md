@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/23) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-2. 💪 Opened PR [#22](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/22) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-3. 💪 Opened PR [#21](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/21) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-4. 🗣 Commented on [#22838](https://github.com/strapi/strapi/issues/22838#issuecomment-7041600980) in [strapi/strapi](https://github.com/strapi/strapi)
-5. ℹ️ Labeled issue [#443](https://github.com/schoero/eslint-plugin-better-tailwindcss/issues/443) in [schoero/eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)
+1. 🎉 Merged PR [#5](https://github.com/Vicacha-Devs/medusa-plugins/pull/5) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+2. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/medusa-plugins/pull/4) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+3. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/medusa-plugins/pull/3) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+4. 🎉 Merged PR [#2](https://github.com/Vicacha-Devs/medusa-plugins/pull/2) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+5. 🎉 Merged PR [#1](https://github.com/Vicacha-Devs/medusa-plugins/pull/1) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
   <!--END_SECTION:activity-->
 </details>
 
