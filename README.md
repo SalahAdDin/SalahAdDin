@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/23#issuecomment-7081192258) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-2. 🎉 Merged PR [#8](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/8) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-3. 🎉 Merged PR [#5](https://github.com/Vicacha-Devs/medusa-plugins/pull/5) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-4. 🎉 Merged PR [#4](https://github.com/Vicacha-Devs/medusa-plugins/pull/4) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-5. 🎉 Merged PR [#3](https://github.com/Vicacha-Devs/medusa-plugins/pull/3) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+1. ℹ️ Reopened PR [#8](https://github.com/Vicacha-Devs/medusa-plugins/pull/8) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+2. ❌ Closed PR [#8](https://github.com/Vicacha-Devs/medusa-plugins/pull/8) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+3. 🎉 Merged PR [#7](https://github.com/Vicacha-Devs/medusa-plugins/pull/7) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+4. 💪 Opened PR [#8](https://github.com/Vicacha-Devs/medusa-plugins/pull/8) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+5. 💪 Opened PR [#7](https://github.com/Vicacha-Devs/medusa-plugins/pull/7) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
   <!--END_SECTION:activity-->
 </details>
 
