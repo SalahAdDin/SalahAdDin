@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/juanshuertas/antarctic-maritime-observation-hub/pull/21) in [juanshuertas/antarctic-maritime-observation-hub](https://github.com/juanshuertas/antarctic-maritime-observation-hub)
-2. 🎉 Merged PR [#8](https://github.com/Vicacha-Devs/medusa-plugins/pull/8) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-3. ℹ️ Reopened PR [#8](https://github.com/Vicacha-Devs/medusa-plugins/pull/8) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-4. ❌ Closed PR [#8](https://github.com/Vicacha-Devs/medusa-plugins/pull/8) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-5. 🎉 Merged PR [#7](https://github.com/Vicacha-Devs/medusa-plugins/pull/7) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+1. 🎉 Merged PR [#25](https://github.com/Vicacha-Devs/medusa-plugins/pull/25) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+2. 🚀 Published release [@vicacha-devs/medusa-plugin-typesense@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-typesense%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+3. 🚀 Published release [@vicacha-devs/medusa-plugin-stories@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-stories%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+4. 🚀 Published release [@vicacha-devs/medusa-plugin-social-commerce@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-social-commerce%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+5. 🚀 Published release [@vicacha-devs/medusa-plugin-product-extensions@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-product-extensions%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
   <!--END_SECTION:activity-->
 </details>
 
