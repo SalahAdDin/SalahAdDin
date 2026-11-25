@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/Vicacha-Devs/medusa-plugins/pull/25) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-2. 🚀 Published release [@vicacha-devs/medusa-plugin-typesense@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-typesense%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-3. 🚀 Published release [@vicacha-devs/medusa-plugin-stories@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-stories%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-4. 🚀 Published release [@vicacha-devs/medusa-plugin-social-commerce@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-social-commerce%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-5. 🚀 Published release [@vicacha-devs/medusa-plugin-product-extensions@0.1.0](https://github.com/Vicacha-Devs/medusa-plugins/releases/tag/%40vicacha-devs/medusa-plugin-product-extensions%400.1.0) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+1. 🎉 Merged PR [#30](https://github.com/Vicacha-Devs/medusa-plugins/pull/30) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+2. 💪 Opened PR [#30](https://github.com/Vicacha-Devs/medusa-plugins/pull/30) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+3. 💪 Opened PR [#1](https://github.com/hollowpoint-io/medusa-plugin-media-library/pull/1) in [hollowpoint-io/medusa-plugin-media-library](https://github.com/hollowpoint-io/medusa-plugin-media-library)
+4. 🎉 Merged PR [#29](https://github.com/Vicacha-Devs/medusa-plugins/pull/29) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+5. 💪 Opened PR [#29](https://github.com/Vicacha-Devs/medusa-plugins/pull/29) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
   <!--END_SECTION:activity-->
 </details>
 
