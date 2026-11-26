@@ -60,11 +60,11 @@ Here are some ideas to get you started:
   <summary>:zap: Recent GitHub Activity</summary>
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28616](https://github.com/strapi/strapi/pull/28616#issuecomment-7169049036) in [strapi/strapi](https://github.com/strapi/strapi)
-2. 🗣 Commented on [#28579](https://github.com/strapi/strapi/issues/28579#issuecomment-7169021695) in [strapi/strapi](https://github.com/strapi/strapi)
-3. 🎉 Merged PR [#30](https://github.com/Vicacha-Devs/medusa-plugins/pull/30) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-4. 💪 Opened PR [#30](https://github.com/Vicacha-Devs/medusa-plugins/pull/30) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
-5. 💪 Opened PR [#1](https://github.com/hollowpoint-io/medusa-plugin-media-library/pull/1) in [hollowpoint-io/medusa-plugin-media-library](https://github.com/hollowpoint-io/medusa-plugin-media-library)
+1. 🎉 Merged PR [#31](https://github.com/Vicacha-Devs/medusa-plugins/pull/31) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+2. 💪 Opened PR [#31](https://github.com/Vicacha-Devs/medusa-plugins/pull/31) in [Vicacha-Devs/medusa-plugins](https://github.com/Vicacha-Devs/medusa-plugins)
+3. 🎉 Merged PR [#70](https://github.com/BayBreezy/strapi-plugin-email-designer-5/pull/70) in [BayBreezy/strapi-plugin-email-designer-5](https://github.com/BayBreezy/strapi-plugin-email-designer-5)
+4. 🗣 Commented on [#28616](https://github.com/strapi/strapi/pull/28616#issuecomment-7169049036) in [strapi/strapi](https://github.com/strapi/strapi)
+5. 🗣 Commented on [#28579](https://github.com/strapi/strapi/issues/28579#issuecomment-7169021695) in [strapi/strapi](https://github.com/strapi/strapi)
   <!--END_SECTION:activity-->
 </details>
 
